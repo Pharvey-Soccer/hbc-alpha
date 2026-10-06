@@ -1,0 +1,88 @@
+{
+  "id": "flexbone_fb_dive",
+  "play_family": "FB Dive",
+  "category": "Inside Run",
+  "formation": "Pistol Flexbone",
+  "personnel": "2TE/3RB",
+  "target_gap": "A_R",
+  "notes": "RB_L motions into a lead-blocker alignment pre-snap",
+  "players": [
+    {
+      "role": "QB",
+      "position_group": "QB",
+      "starting_zone": "Pocket",
+      "assignment_type": "handoff",
+      "assignment": "RB"
+    },
+    {
+      "role": "RB",
+      "position_group": "RB",
+      "starting_zone": "Pocket",
+      "assignment_type": "carry",
+      "assignment": null
+    },
+    {
+      "role": "RB_L",
+      "position_group": "RB",
+      "starting_zone": "Off Tackle Right",
+      "assignment_type": "block",
+      "assignment": "Lead Block"
+    },
+    {
+      "role": "RB_R",
+      "position_group": "RB",
+      "starting_zone": "BFSLR",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "Y",
+      "position_group": "TE",
+      "starting_zone": "W_R",
+      "assignment_type": "block",
+      "assignment": "Stalk Block"
+    },
+    {
+      "role": "H",
+      "position_group": "TE",
+      "starting_zone": "W_L",
+      "assignment_type": "block",
+      "assignment": "Stalk Block"
+    },
+    {
+      "role": "LT",
+      "position_group": "OL",
+      "starting_zone": "C_L",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "LG",
+      "position_group": "OL",
+      "starting_zone": "B_L",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "C",
+      "position_group": "OL",
+      "starting_zone": "A_R",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "RG",
+      "position_group": "OL",
+      "starting_zone": "B_R",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "RT",
+      "position_group": "OL",
+      "starting_zone": "C_R",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    }
+  ]
+}

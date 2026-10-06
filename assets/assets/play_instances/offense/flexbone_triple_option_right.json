@@ -1,0 +1,89 @@
+{
+  "id": "flexbone_triple_option_right",
+  "play_family": "Triple Option",
+  "category": "Option Run",
+  "formation": "Pistol Flexbone",
+  "personnel": "2TE/3RB",
+  "notes": "Dive/Keep/Pitch triple option to the right. RB_L is the pitch back, flaring right from the Pocket under the Motion Velocity Bonus (run_play_loop.md Section 2, same-zone pattern); RB_R stalk-blocks the perimeter force defender so the Pitch Read key resolves to the alley player behind him. Authored from play_instance_data_format.md Section 7.2, plus target_gap and option_side, neither of which existed as schema fields when that worked example was written.",
+  "target_gap": "A_R",
+  "option_side": "Right",
+  "players": [
+    {
+      "role": "QB",
+      "position_group": "QB",
+      "starting_zone": "Pocket",
+      "assignment_type": "read_carry",
+      "assignment": "Keep"
+    },
+    {
+      "role": "RB",
+      "position_group": "RB",
+      "starting_zone": "Pocket",
+      "assignment_type": "read_carry",
+      "assignment": "Dive"
+    },
+    {
+      "role": "RB_L",
+      "position_group": "RB",
+      "starting_zone": "Pocket",
+      "assignment_type": "read_carry",
+      "assignment": "Pitch"
+    },
+    {
+      "role": "RB_R",
+      "position_group": "RB",
+      "starting_zone": "BFSLR",
+      "assignment_type": "block",
+      "assignment": "Stalk Block"
+    },
+    {
+      "role": "Y",
+      "position_group": "TE",
+      "starting_zone": "W_R",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "H",
+      "position_group": "TE",
+      "starting_zone": "W_L",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "LT",
+      "position_group": "OL",
+      "starting_zone": "C_L",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "LG",
+      "position_group": "OL",
+      "starting_zone": "B_L",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "C",
+      "position_group": "OL",
+      "starting_zone": "A_R",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "RG",
+      "position_group": "OL",
+      "starting_zone": "B_R",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "RT",
+      "position_group": "OL",
+      "starting_zone": "C_R",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    }
+  ]
+}

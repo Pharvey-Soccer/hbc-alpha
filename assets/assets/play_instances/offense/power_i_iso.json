@@ -1,0 +1,88 @@
+{
+  "id": "power_i_iso",
+  "play_family": "Iso",
+  "category": "Inside Run",
+  "formation": "Power I",
+  "personnel": "1WR/2TE/1FB/1RB",
+  "target_gap": "A_R",
+  "notes": "Goal-line heavy package \u2014 Y motions into a second lead-blocker alignment alongside the FB; both apply the Lead Block rule independently",
+  "players": [
+    {
+      "role": "QB",
+      "position_group": "QB",
+      "starting_zone": "Pocket",
+      "assignment_type": "handoff",
+      "assignment": "RB"
+    },
+    {
+      "role": "RB",
+      "position_group": "RB",
+      "starting_zone": "Pocket",
+      "assignment_type": "carry",
+      "assignment": null
+    },
+    {
+      "role": "X",
+      "position_group": "WR",
+      "starting_zone": "SL_R",
+      "assignment_type": "block",
+      "assignment": "Stalk Block"
+    },
+    {
+      "role": "Y",
+      "position_group": "TE",
+      "starting_zone": "Off Tackle Right",
+      "assignment_type": "block",
+      "assignment": "Lead Block"
+    },
+    {
+      "role": "H",
+      "position_group": "TE",
+      "starting_zone": "W_L",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "FB",
+      "position_group": "FB",
+      "starting_zone": "Pocket",
+      "assignment_type": "block",
+      "assignment": "Lead Block"
+    },
+    {
+      "role": "LT",
+      "position_group": "OL",
+      "starting_zone": "C_L",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "LG",
+      "position_group": "OL",
+      "starting_zone": "B_L",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "C",
+      "position_group": "OL",
+      "starting_zone": "A_R",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "RG",
+      "position_group": "OL",
+      "starting_zone": "B_R",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "RT",
+      "position_group": "OL",
+      "starting_zone": "C_R",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    }
+  ]
+}

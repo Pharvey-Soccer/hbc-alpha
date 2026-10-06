@@ -1,0 +1,21 @@
+{
+  "id": "i_formation_toss",
+  "play_family": "Toss",
+  "category": "Outside Run",
+  "formation": "I Formation",
+  "personnel": "2WR/1TE/1FB/1RB",
+  "notes": "Play side: Right. RB aligns directly at Boundary Right (not Pocket) -- run_play_loop.md Section 12's own 'Initial Positioning' rule ('No additional moment cost vs interior runs -- starting position is play-design determined'), same precedent as Zone Stretch/Power/Counter's Off-Tackle-Right alignment (bug #39). Deliberately not modeling Section 12's Moment-1 'Pocket -> Boundary' transit language as a Draw-style delayed pitch -- that reading contradicts the doc's own general Initial Positioning rule for no behavioral payoff. No target_gap: the Sweep Read Phase (Moment 2 / this engine's state.moment==1) sets RunPlayState.rbLosEntryZone dynamically once the CB block read resolves -- see bug #42, docs/run_play_engine_NOTES.md.",
+  "players": [
+    { "role": "QB", "position_group": "QB", "starting_zone": "Pocket", "assignment_type": "handoff", "assignment": "RB" },
+    { "role": "FB", "position_group": "FB", "starting_zone": "Pocket", "assignment_type": "block", "assignment": "Lead Block" },
+    { "role": "RB", "position_group": "RB", "starting_zone": "Boundary Right", "assignment_type": "carry", "assignment": null },
+    { "role": "X",  "position_group": "WR", "starting_zone": "SL_L",  "assignment_type": "block", "assignment": "Stalk Block" },
+    { "role": "Z",  "position_group": "WR", "starting_zone": "SL_R",  "assignment_type": "block", "assignment": "Stalk Block" },
+    { "role": "Y",  "position_group": "TE", "starting_zone": "W_R",  "assignment_type": "block", "assignment": "Stalk Block" },
+    { "role": "LT", "position_group": "OL", "starting_zone": "C_L", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "LG", "position_group": "OL", "starting_zone": "B_L", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "C",  "position_group": "OL", "starting_zone": "A_R", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "RG", "position_group": "OL", "starting_zone": "B_R", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "RT", "position_group": "OL", "starting_zone": "C_R", "assignment_type": "block", "assignment": "Run Block" }
+  ]
+}

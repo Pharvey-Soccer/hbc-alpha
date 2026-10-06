@@ -1,0 +1,11066 @@
+[
+{
+"name": "Brown",
+"weight": 98,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Johnson",
+"weight": 88,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Williams",
+"weight": 77,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Smith",
+"weight": 69,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Jackson",
+"weight": 52,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Jones",
+"weight": 46,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Thomas",
+"weight": 46,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Davis",
+"weight": 33,
+"groups": [
+"Black"
+]
+},
+{
+"name": "Anderson",
+"weight": 32,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Taylor",
+"weight": 30,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Harris",
+"weight": 28,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Moore",
+"weight": 28,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Wilson",
+"weight": 27,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Robinson",
+"weight": 26,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Allen",
+"weight": 25,
+"groups": [
+"Black"
+]
+},
+{
+"name": "Washington",
+"weight": 24,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Lewis",
+"weight": 22,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Martin",
+"weight": 22,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Green",
+"weight": 20,
+"groups": [
+"Black"
+]
+},
+{
+"name": "Hawkins",
+"weight": 20,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Miller",
+"weight": 20,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Turner",
+"weight": 20,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Coleman",
+"weight": 19,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Hill",
+"weight": 19,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Clark",
+"weight": 18,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Walker",
+"weight": 18,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Young",
+"weight": 18,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "White",
+"weight": 17,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Daniels",
+"weight": 15,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Singleton",
+"weight": 15,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Wright",
+"weight": 15,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Alexander",
+"weight": 14,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Barnes",
+"weight": 14,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bell",
+"weight": 14,
+"groups": [
+"Black"
+]
+},
+{
+"name": "Henry",
+"weight": 14,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Porter",
+"weight": 14,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "King",
+"weight": 13,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Rogers",
+"weight": 13,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Woods",
+"weight": 13,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Evans",
+"weight": 12,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Howard",
+"weight": 12,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Jenkins",
+"weight": 12,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Kelly",
+"weight": 12,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Marshall",
+"weight": 12,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Reed",
+"weight": 12,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Henderson",
+"weight": 11,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Mason",
+"weight": 11,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Morris",
+"weight": 11,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Moss",
+"weight": 11,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Phillips",
+"weight": 11,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Roberts",
+"weight": 11,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Simmons",
+"weight": 11,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Stewart",
+"weight": 11,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bailey",
+"weight": 10,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Cobb",
+"weight": 10,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Edwards",
+"weight": 10,
+"groups": [
+"Black"
+]
+},
+{
+"name": "Fields",
+"weight": 10,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Freeman",
+"weight": 10,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Gibson",
+"weight": 10,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "James",
+"weight": 10,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Parker",
+"weight": 10,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Watson",
+"weight": 10,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Garcia",
+"weight": 9,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Brooks",
+"weight": 9,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bullock",
+"weight": 9,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Carter",
+"weight": 9,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Collins",
+"weight": 9,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Cook",
+"weight": 9,
+"groups": [
+"Black"
+]
+},
+{
+"name": "Ford",
+"weight": 9,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Gray",
+"weight": 9,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Manning",
+"weight": 9,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Montgomery",
+"weight": 9,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Nelson",
+"weight": 9,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Price",
+"weight": 9,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Richardson",
+"weight": 9,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Sanders",
+"weight": 9,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Scott",
+"weight": 9,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Sims",
+"weight": 9,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Adams",
+"weight": 8,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Baker",
+"weight": 8,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bennett",
+"weight": 8,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Branch",
+"weight": 8,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Butler",
+"weight": 8,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Hayes",
+"weight": 8,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Jordan",
+"weight": 8,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Lacy",
+"weight": 8,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Lee",
+"weight": 8,
+"groups": [
+"Black",
+"White",
+"Asian"
+]
+},
+{
+"name": "Mack",
+"weight": 8,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "McCoy",
+"weight": 8,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Mitchell",
+"weight": 8,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Payne",
+"weight": 8,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Ross",
+"weight": 8,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Thompson",
+"weight": 8,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Townsend",
+"weight": 8,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "West",
+"weight": 8,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Flores",
+"weight": 7,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Barnett",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bates",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Carr",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Dickey",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Flowers",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Hampton",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Hart",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Horton",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Irvin",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Jacobs",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Knight",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Matthews",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Morgan",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Murray",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Owens",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Patterson",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Perry",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Pittman",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Reynolds",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Russell",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Wallace",
+"weight": 7,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Campbell",
+"weight": 6,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Crosby",
+"weight": 6,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Graham",
+"weight": 6,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Hansen",
+"weight": 6,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Hardy",
+"weight": 6,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Hudson",
+"weight": 6,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Hunt",
+"weight": 6,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Jennings",
+"weight": 6,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Magwood",
+"weight": 6,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "McGill",
+"weight": 6,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Nixon",
+"weight": 6,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Pettaway",
+"weight": 6,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Robertson",
+"weight": 6,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Stone",
+"weight": 6,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Vaughn",
+"weight": 6,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Arnold",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bachmeier",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Berry",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bray",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Burnette",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Calloway",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Chandler",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Conner",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Cunningham",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Davenport",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Davidson",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Diggs",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Douglas",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Faison",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Finley",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Fletcher",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Fox",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Frazier",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Gordon",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Griffin",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Hall",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Harrison",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Joseph",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Lane",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Layne",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Lockett",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Long",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Lyons",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Maddox",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Mathis",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "McCray",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "McDonald",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "McMillan",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Murphy",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Odom",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Ray",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Riley",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Sellers",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Tate",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Tucker",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Ward",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Watkins",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Willis",
+"weight": 5,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Mendoza",
+"weight": 4,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Alston",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Andrews",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Anthony",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Baldwin",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Beebe",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Benson",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Black",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Booth",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Boyd",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bradley",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bradshaw",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bryant",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Buckley",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bussey",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Caldwell",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Carney",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Cooper",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Covey",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Cox",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Craig",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Dalton",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Dupree",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Elliott",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Farrar",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Farrell",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Floyd",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Franklin",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "French",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Fuller",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Glover",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Greene",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Hairston",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Hamilton",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Herring",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Hicks",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "High",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Holmes",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Hood",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Kitna",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Lassiter",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Locke",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Lofton",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Love",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Marsh",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "McNeil",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Metcalf",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Miles",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Morton",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Norton",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "O'Neil",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Palmer",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Parks",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Peterson",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Purdy",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Rice",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Rivers",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Rose",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Ryan",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Sharpe",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Simon",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Simpson",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Sparks",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Spencer",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Stockton",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Sullivan",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Tracy",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Van Buren",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Wade",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Walsh",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Warner",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Weaver",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Wilkins",
+"weight": 4,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Gutierrez",
+"weight": 3,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Hernandez",
+"weight": 3,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Rodriguez",
+"weight": 3,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Roldan",
+"weight": 3,
+"groups": [
+"White",
+"Hispanic"
+]
+},
+{
+"name": "Sanchez",
+"weight": 3,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Zendejas",
+"weight": 3,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Addae",
+"weight": 3,
+"groups": [
+"Black"
+]
+},
+{
+"name": "Allar",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Altmyer",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Amador",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ballard",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Barber",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Baugh",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Beatty",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Beck",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bellon",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bernard",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Blake",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bond",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Booker",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Boston",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bradford",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Brahmer",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Brinson",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Brockington",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Brousseau",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Browne",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Buchanan",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Burks",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bush",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Byars",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Card",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Carlson",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Carpenter",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Castle",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Chambliss",
+"weight": 3,
+"groups": [
+"Black"
+]
+},
+{
+"name": "Chase",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Christian",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Clay",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Clemons",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Clifford",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Collier",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Courtney",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Creel",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Cross",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Crowder",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Cure",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Curry",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Dawson",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "DeGennaro",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ducker",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dugger",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dunn",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Durham",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Eget",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Eldridge",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Ellison",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Foley",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Galloway",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gibbs",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gill",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Glass",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Glenn",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Goff",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Grant",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Griffis",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gronowski",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hagen",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Harmon",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Heath",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Heidenreich",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Helms",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Higgins",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Hilton",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hodges",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Hoffmann",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hollins",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hooks",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hoover",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Hopkins",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Howland",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hubbard",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Hughes",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Humphreys",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Hunter",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Hutson",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Inniss",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Jefferson",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Kingston",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Kramer",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lacey",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lanier",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Laubstein",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Law",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Lawrence",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lemon",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lindsey",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Little",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Livingston",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Locklear",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lonergan",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lucas",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Luke",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Macon",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Manjack",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "McClure",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "McCown",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "McCulley",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "McGowan",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "McKinney",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Mensah",
+"weight": 3,
+"groups": [
+"Black"
+]
+},
+{
+"name": "Messer",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Michael",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mini",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mirer",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mizell",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mobley",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mockobee",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Morrow",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Napier",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Parrish",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Payton",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pearson",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Platt",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Proctor",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Reid",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Retzlaff",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Roberson",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Rowe",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Rucker",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Rudolph",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Rusk",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Samuel",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Shelton",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Shipp",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Short",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Smothers",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Staley",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Sutton",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Svoboda",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Swann",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Tisdale",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Todd",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Toney",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Tyler",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Tyson",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Veltkamp",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wagner",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Warren",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Webster",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Welch",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Whatley",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wimsatt",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Winfield",
+"weight": 3,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Wingo",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wood",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Woodson",
+"weight": 3,
+"groups": [
+"White"
+]
+},
+{
+"name": "Acevedo",
+"weight": 2,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Aguilar",
+"weight": 2,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Alejado",
+"weight": 2,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Bermudez",
+"weight": 2,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Blanco",
+"weight": 2,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Calzada",
+"weight": 2,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Castellanos",
+"weight": 2,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Concepcion",
+"weight": 2,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Cuevas",
+"weight": 2,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Gonzales",
+"weight": 2,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Gonzalez",
+"weight": 2,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Lopez",
+"weight": 2,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Montes",
+"weight": 2,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Navarro",
+"weight": 2,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Pena",
+"weight": 2,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Ramirez",
+"weight": 2,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Torres",
+"weight": 2,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Acker",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Adaway",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Akers",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Alan",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Albright",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Andersen",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Angeli",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ash",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ashford",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Ashley",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Avant",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bahr",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Banks",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bankston",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Barbie",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Barney",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bass",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Battle",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Beale",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Beamon",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bearns",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Becht",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Becks",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Belcher",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Belfort",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Benjamin",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bennee",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Benyard",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Berlowitz",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bettis",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bianco",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bibbs",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bishop",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Blackburn",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Blaylock",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Blue",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Boerkircher",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Boley",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bonds",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bonelli",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bothwell",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bourguet",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bowen",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bowens",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bowers",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bowie",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Boykins",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Brady",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Bridgewater",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Briggs",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Brock",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Brunson",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bryson",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bullard",
+"weight": 2,
+"groups": [
+"Black"
+]
+},
+{
+"name": "Burke",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Burleson",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Burns",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Burrell",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Burress",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Burris",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Burton",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Capell",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Chapman",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Chriss",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Cleaver",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Clement",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Coney",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Connors",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Conway",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Copeland",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Coppock",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Cordero",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Craver",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Crenshaw",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Dallas",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Damante",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dampier",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Damuni",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Danzy",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Davison",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Dawkins",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Dear",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "DeBlanc",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dendy",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Denegal",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dennis",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Denson",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "DeShields",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Desrosiers",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Devillier",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dickens",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Dippre",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ditta",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dixon",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Donaldson",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Dorner",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dortch",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Doty",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dubinion",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Duke",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Dunlap",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Earle",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Elder",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Eley",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Emmers",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Engleman",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Engram",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ervin",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Everhart",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Evers",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Fagnano",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Farooq",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Faupel",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Feagin",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ferguson",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ferguson-Reynolds",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Fifita",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Filardi",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Finn",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Fiser",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Fitzgerald",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Fitzpatrick",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Forte",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Fournet",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Francis",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Frew",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Friel",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gagliano",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gaines",
+"weight": 2,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Gainey",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Galbreath",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gallagher",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gant",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gardner",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gause",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gayten",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Geer",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gentry",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gilbert",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gilliam",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gillon",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gilmore",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Givins",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gladding",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Glasser",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gleason",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gogolak",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Good",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Goodwin",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gossett",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Griese",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Guerin",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gunn",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Haarberg",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hammond",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hankerson",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Harden",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hayden",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hecklinski",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Heintschel",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hellums",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hemby",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hewlett",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hillstead",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Himon",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hoch",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Holstein",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Holt",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hosley",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Houser",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hutchinson",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ijeboi",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Jimerson",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "John",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kaelin",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kamara",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kargman",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kellman",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kemp",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kent",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kerr",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kilcrease",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kim",
+"weight": 2,
+"groups": [
+"Asian"
+]
+},
+{
+"name": "Kinnard",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kitselman",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kittleman",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kohl",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Konecny",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kromenhoek",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Labas",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lagway",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lair",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lando",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Landry",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lateef",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "League",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Leary",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Leon",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lichtenberg",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Likely",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Loftin",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Loftis",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Louis",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lovett",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lowe",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lynch",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "MacCormack",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Maclin",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Maher",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Maiden",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Manske",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Marchiol",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Marion",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mattord",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "May",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mays",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "McCaskill",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "McFall",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "McGee",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Merdinger",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Meredith",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Merklinger",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Merriweather",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Metayer",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Meyers",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mickens",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Middleton",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mike-Mayer",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Moise",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Montiero",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Moon",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mosley",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Muschamp",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Neider",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Newbauer",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Newkirk",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Newton",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Niblett",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Nowakowski",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Nussmeier",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Olsen",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Osborne",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ott",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Overton",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pearman",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Peasant",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pegan",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Peyton",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Philo",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pickett",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Plummer",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Polk",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pollard",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ponder",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Powell",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Preston",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pribula",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Prioleau",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pruitt",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pulalasi",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pyne",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Radcliffe",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Raiola",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ransom-Goelz",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Raphael",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Raymond",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Raynor",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Rechsteiner",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Reescano",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Reichle",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Rex",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Rezac",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Rhett",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Rhodes",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Rigdon",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Riggs",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Roebuck",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Rosa",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Rudison",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ruffin",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sagapolutele",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sands",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sapp",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sategna",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sayin",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Seals",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Seldon",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Shapen",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sharp",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sheppard",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sherrill",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sibley",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Simpkins",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Skinner",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sluka",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Smith-Brown",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sneed",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Snow",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sorsby",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Spann",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sperry",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Stephens",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Streeter",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Strong",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Terrell",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Thacker",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Thurman",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ti'a",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Tipton",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Tyree",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Udoh",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ulatowski",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Valentine",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Vander Haar",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Vander Zee",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Vattiato",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Vick",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Vines-Bright",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Virgil",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Vizzina",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Walendzak",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ware",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Watters",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Weatherly",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Weimer",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Welsh",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wesco",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wetjen",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Whittington",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wiggins",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wilde",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wilder",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Williams-Thomas",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Winston",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wisner",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wolford",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Worthy",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wrenn",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Yacamelli",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Yarbrough",
+"weight": 2,
+"groups": [
+"White"
+]
+},
+{
+"name": "Aholelei",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Akana",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Akau",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Akau'ola",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Akiona",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Anewy",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Anoa'i",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Ao'ao",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Apa",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Aperahama",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Apikotoa",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Atan",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Auva'a",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Fa'agata",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Fainga'a",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Fainu",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Fakahokotau",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Faleafa",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Falemaka",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Faletutulu",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Fangupo",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Fatafehi",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Fatu",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Folau",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Fonua",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Fotuaika",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Fualalo",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Fuimaono",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Fukofuka",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Halaholo",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Halapio",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Hale",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Harawira",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Hauata",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Haumono",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Haupeakui",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Havili",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Hekekia",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "H\u0113nare",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Heneralau",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Hingano",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Hoapili",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Hoopii",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Hoopiiaina",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Hopoate",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "\u02bb\u014cp\u016bnui",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Ihimaera",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Ikahihifo",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Ikaika",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Ikilei",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kaaa",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kaaka",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kahale",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kahananui",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kahawai",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kahinu",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kahue",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kahuila",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Ka\u02bban\u0101\u02bban\u0101",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kaihau",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kainoa",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kalani",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kalaniuvalu",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kalawai\u02bba",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kalela",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kamaka",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kamalani",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kareama",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kauhane",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kavakava",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Keahi",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Keala",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kealoha",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Keikilawa",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kekoa",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kelekolio",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Kerei",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Koloamatangi",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Laei",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Lahela",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Latu",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Lea'alafa",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Leialoha",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Leiataua",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Lotulelei",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Ma\u2019afu",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Mahelona",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Mahi'ai",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Malaga",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Manuokafoa",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Manupuna",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Mareroa",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Mo'okini",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Moala",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Moana",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Momoa",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Nae'ole",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Naeole",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Neiufi",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Ngata",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Ngatai",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Ofahengaue",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Olakauatu",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Opetaia",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Paewai",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Pakarati",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Pangai",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Parata",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Pere",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "P\u014dh\u0101n\u014d",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Puletua",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Punga",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Rameka-Waapu",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Rapu",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Riroroko",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "R\u012bwai",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Samoa",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Sepuloni",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Seufale",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Silatolu",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Soakai",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Tagovailoa",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Taiaroa",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Talakai",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Talanoa",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Tanginoa",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Tanielu",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Tatola",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Taukeiaho",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Taumalolo",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Taumoepenu",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Te Hira",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Te Poki",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Te'o",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Teheiura",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Teriimana",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Teriyong",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Tetuanui",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Tilo",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Tipene",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Too",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Topasna",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Tu'ikolovatu",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Tu'ungafasi",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Tua",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Tuilotolava",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Tuipulotu",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Tuivailala",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Tukuafu",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Tupou",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Turei",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Unga",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Utoikamanu",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Uwekoolani",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Vaealiki",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Vaha'akolo",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Vainikolo",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Vaipulu",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Vaitai",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Vakapuna",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Vi",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Vunipola",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Waerea",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Waititi",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Winiata",
+"weight": 1,
+"groups": [
+"Pacific Islander"
+]
+},
+{
+"name": "Alves",
+"weight": 1,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Casares",
+"weight": 1,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Cheves",
+"weight": 1,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Cortez",
+"weight": 1,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Estrada",
+"weight": 1,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Herrera",
+"weight": 1,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Marquez",
+"weight": 1,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Martinez",
+"weight": 1,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Nunez",
+"weight": 1,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Rios",
+"weight": 1,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Santos",
+"weight": 1,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Suarez",
+"weight": 1,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Tamarez",
+"weight": 1,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Velez",
+"weight": 1,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Abney",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Abshire",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Adcock",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Addai",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Adkins",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ahumaraeze",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Albert",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Alfred",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Alstott",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Amachree",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Amendola",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Andrade",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Antwi",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ashcraft",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Asiasi",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Askren",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Aveni",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bacheyie",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Backe",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Badgley",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Barkate",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Barrick",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Barrow",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Barry",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Basten",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Batch",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bauman",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Beachem",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bean",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Beasley",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Beckham",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Beetham",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Berchal",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Beuerlein",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Biber",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bielski",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bierman",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bironas",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Blackshear",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "BlackStrain",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Blades",
+"weight": 1,
+"groups": [
+"Black"
+]
+},
+{
+"name": "Bladsoe",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Blanchard",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Blankenship",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bledsoe",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Blood",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bockler",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bodiford",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Boldin",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bollers",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Boniol",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Boone-Nelson",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bosma",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bowe",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bowick",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Braham",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Brailsford",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Brame",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Brandt",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Brenson",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Brien",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Brodie",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Brow",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bruckler",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Bruhn",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Buntyn",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Burgess",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Burk",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Burnett",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Burnside",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Burroughs",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Butker",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Byard",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Calip",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Canaan",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Canadeo",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Canty",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Capece",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Cappelletti",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Carlisle",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Carrier",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Carruth",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Cassens",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Catanzaro",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Cayenne",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Chambers",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Chapeau",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Chirchi",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Chirgwin",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Chrebet",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Chubb",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Cianfrini",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Clacks",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Combs",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Conerly",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Cooks",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Cope",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Cornist",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Corral",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Cothren",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Couch",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Cousins",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Coyne",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Crabtree",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Cravaack",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Crawford",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Cribbs",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Csonka",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Cuff",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Culpepper",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Cummings",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Cundiff",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Cutler",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Daisy",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dale",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Daluiso",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Danielson",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Darnold",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Day",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "DeGraaf",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Del",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Del Rio",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Delaney",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Delgadillo",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Delhomme",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Delp",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Demps",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dempsey",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dia-Johnson",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dicker",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dickerson",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dimopoulus",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dingle",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dinkins",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "DiNota",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dixon-Veal",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dodson",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dossett",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dowdy",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dowler",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dowling",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dozier",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Drennen",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Driver",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Drummer",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dryden",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dudley",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Duff",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Dunbar",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Duncan",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Durkin",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Duvall",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "East",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Easter",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Edelman",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Edmonds",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Edrine",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Eldredge",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Eligon",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ellard",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ellis",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Elston",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Elway",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Elzy",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Emery",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "English",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Erb",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ertz",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Esiason",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Eskildsen",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Etheredge",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ettridge",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Everett",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ezinwa",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ezirim",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ezukanma",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Fa'avae",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Fairbairn",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Falk",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Farrier",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Favre",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Favrow",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ferragamo",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ferrucci",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ficken",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Fiedler",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Finau",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Finks",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Fleischmann",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Foreman",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Formby",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Forsett",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Fortenberry",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Fournette",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Fouts",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Fowler",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Freauff",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Frerotte",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Friesz",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Fryar",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gabbert",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gaffney",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ganashamoorthy",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gandy",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gannon",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gano",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gans",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Garcon",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Garner",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Garoppolo",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Garrett",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Garrison",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gary",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gaskins",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gathings",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gay",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gazzaniga",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gerela",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gerrand",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ghea",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gibble",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gilchrist",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gillespie",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gilmer",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gist",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gister",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Givens",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Godwin",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Goffney",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Goodie",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gosnell",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gould",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gramstad",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Grbac",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Grear",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Green-Ellis",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Grier",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Grizzell",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Groen",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Grogan",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Grossman",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Groza",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Grupe",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Guesman",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Guillo",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gumms",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gurd",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Gurley",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Habermehl",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hagman",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hamlett",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hammer",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hamper",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hamsley",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Harpole",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Harpring",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Harriott",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hasley",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hasz",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Haughton",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Haygood",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hebert",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Herber",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hester",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hibner",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hinton",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hipple",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hoard",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hoernschemeyer",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Holden",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hollawayne",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Holley",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hollier",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Holloway",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Holman",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hopperton",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hornung",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Houshmandzadeh",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Howfield",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hoyer",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hoyet",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hrabowski",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Huff",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hurry",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Hyatt",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Igwebuike",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ivory",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Jacklich",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Jaeger",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Jay",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Jean",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kaeding",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kaio",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Karty",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kasemervisz",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kasper",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kattus",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kelce",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kelley",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kendall",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kennison",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Key",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Khayat",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kilmer",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kirch",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kirk",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Klare",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Klopfenstein",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Knothe",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Knowles",
+"weight": 1,
+"groups": [
+"Black"
+]
+},
+{
+"name": "Koger",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Koo",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kosar",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Koziol",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Krieg",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kroner",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kupp",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kurisky",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Kyle",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Laboy",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lamb",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lamonica",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lansford",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Largent",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Larry",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Larsen",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lauter",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Leahy",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Leavy",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "LeBaron",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Leckner",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Leftwich",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lemaster",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Libman",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lindenmeyer",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lio",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lloyd",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lockwood",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lohmiller",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lono-Wong",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lorick",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lott",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lowery",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Luck",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Luckhurst",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Lutovsky",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Magee",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Majkowski",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Malary",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mallory",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Malone-Bradford",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mann",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Marcol",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mare",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Marinaro",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Marino",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Maryland",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Massey",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Matte",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mauigoa",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Maynard",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mazzetti",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "McAlister",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "McAllister",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "McCallister",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "McCardell",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "McCarter",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "McClard",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "McConnachie",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "McConnell",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "McGary",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "McGohan",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "McIntyre",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "McManus",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "McMorris",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "McPherson",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "McRoy",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Meiga",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Melvin",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mendenhall",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mercer",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mikeska",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mikhael",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Milliner",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mills",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mills-Knight",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mingo",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Miska",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mmahat",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Moeaki",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Moeller",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Monk",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Moody",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Morrall",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Moseley",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mothershead",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Moulds",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Muhammad",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Mulder",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Munson",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Murdaugh",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Murrell",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Myhra",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Nance",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Nedney",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Newell",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Newhouse",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Newton-Short",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Niblack",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Nickelberry",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Nimrod",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Nix",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Noga",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Norberg",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Norfleet",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Norris",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Norwood",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Novak",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Novosad",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Nugent",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Nwawuihe",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Okoye",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Olugbode",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ortwerth",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ostrenga",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Otis",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Paaske",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pabst",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Page",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Park",
+"weight": 1,
+"groups": [
+"Asian"
+]
+},
+{
+"name": "Partee",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pascuzzi",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pastorini",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Patt-Henry",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pauling",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Paysour",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pedro",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Peete",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pelfrey",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Peppers",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Peterkin",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Petersen",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pettway",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Phifer",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pickens",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pierro",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pietrosante",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pimpton",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pitchford",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Podolak",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Poloskey",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Pough",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Powers",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Prater",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Prentice",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Prescott",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Quisenberry",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Racanelli",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ramper",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Randle",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Rashad",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ratliff",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ratterman",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ravare",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Reddell",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Reeder",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Rendina",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Reuben",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Reynoldson",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Rhaney",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ricardo",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Richey",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ridley",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Rippa",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ronning",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Rosas",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Roseborough",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ross-Simmons",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Royer",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Rozier",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ruzek",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ryland",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Rypien",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sadler",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Saldate",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sampson",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Samuels",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sanderson",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sanu",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sarratt",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sayers",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Scheidler",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Schlaffer",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Schoenfeld",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Scobee",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Scudero",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Searcy",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sebafundi",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Seder",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Septien",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sessoms",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Shockley",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Shuler",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Shurtz",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Sisson",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Skeete",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Slaughter",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Slye",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Smart",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Smith-Mack",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Smith-Schuster",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Smithson",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Spence",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Spierto",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Spikes",
+"weight": 1,
+"groups": [
+"Black"
+]
+},
+{
+"name": "Spiller",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Stafford",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Stamey",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Staurovsky",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Stellato",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Stocksdale",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Stoffel",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Stover",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Stribling",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Stroman",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Stroud",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Succop",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Suisham",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Swanson",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Swartz",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Swift",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Szaro",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Talich",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Tannehill",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Tarkenton",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Taulanga",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Tempest",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Testaverde",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Thaw",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Tia",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Tiller",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Tilley",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Tillman",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Timmons",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Toomer",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Totten",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Tounkara",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Treadway",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Tremble",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Trubisky",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Trudeau",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Tuioti",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Twitty",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Valentino",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Van Brocklin",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Van Raaphorst",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Vereen",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Villanueva",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Vinatieri",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wadle",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Walls",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ware-Hudson",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Warkentin",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Washington-Baker",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wasserstrom",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Webb",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Weber",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Welker",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wersching",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wheatley",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wheatley-Humphrey",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Whitlock",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Whittemore",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wiginton",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wiley",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Willard",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Winder",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Witten",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wittenborn",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Witthoft",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wittke",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wolf",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Wolff",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Worley",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Zeno",
+"weight": 1,
+"groups": [
+"White"
+]
+},
+{
+"name": "Ramos",
+"weight": 1,
+"groups": [
+"Hispanic"
+]
+},
+{
+"name": "Chang",
+"weight": 1,
+"groups": [
+"Asian"
+]
+},
+{
+"name": "Harvey",
+"weight": 1,
+"groups": [
+"Black",
+"White"
+]
+},
+{
+"name": "Ito",
+"weight": 1,
+"groups": [
+"Asian"
+]
+},
+{
+"name": "Liao",
+"weight": 1,
+"groups": [
+"Asian"
+]
+},
+{
+"name": "Sato",
+"weight": 1,
+"groups": [
+"Asian"
+]
+},
+{
+"name": "Song",
+"weight": 1,
+"groups": [
+"Asian"
+]
+},
+{
+"name": "Suzuki",
+"weight": 1,
+"groups": [
+"Asian"
+]
+},
+{
+"name": "Tanaka",
+"weight": 1,
+"groups": [
+"Asian"
+]
+}
+]

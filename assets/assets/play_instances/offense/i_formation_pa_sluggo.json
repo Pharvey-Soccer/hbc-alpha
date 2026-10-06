@@ -1,0 +1,38 @@
+{
+  "id": "i_formation_pa_sluggo",
+  "play_family": "PA Sluggo",
+  "category": "Long Pass",
+  "formation": "I Formation",
+  "personnel": "2WR/1TE/1FB/1RB",
+  "protection": "6-man (OL + RB)",
+  "protection_scheme": {
+    "type": "Man",
+    "assignments": {
+      "LT": "C_L",
+      "LG": "B_L",
+      "C": "A_R",
+      "RG": "B_R",
+      "RT": "C_R",
+      "RB": "A_L"
+    }
+  },
+  "qb_read_order": [
+    ["X", "Z"],
+    "Y",
+    { "type": "hot", "role": "RB", "min_pressure_tier": 2 }
+  ],
+  "notes": "Play action off i_formation_power -- Power's pulling-guard/FB-lead look is sold entirely through Pass Block (OL and FB), never a real Run/Pulling Block. RB fakes the Power mesh at Moment 0, then either blocks a free rusher in the back-side A gap or releases to the Flat checkdown per the block-or-release rule; A_L is the gap the Center does not own, matching the six-man split every other I Formation concept on disk uses. FB sells the lead block and settles into real pass protection as a seventh body outside the protection scheme, the same shape i_formation_pa_dagger uses. X and Z both run the Slant-n-Go and are authored as a leverage group rather than a fixed order: they are two mirrored deep routes with no true primary, which is the case play_instance_data_format.md Section 3 names for the group. Y's Go clears the middle third over the top of both. The RB checkdown is gated at Pressure Tier 2, not the Tier 1 every other Play Action instance uses, and that one digit is what makes this a shot rather than a checkdown play: at Tier 1 the safety valve is always in the read list, the double move never has time to finish, and the play measured 56% of its targets to the RB at 6.1 air yards a completion. At Tier 2 it is 18% to the RB at 13.5 air yards -- a real shot with a live valve. Tier 3 goes further (17.4 air yards) and is rejected because it kills the checkdown outright at 1%, which throws away the block-or-release rule the play is authored around. No alert candidate: the two Double Posts, the other Long Pass concepts built on a mirrored pair of deep routes, carry none either, and measurement confirms one would be inert here -- the leverage group is already the first read, so promoting it to the front moves nothing (66.6% completions against 66.8%).",
+  "players": [
+    { "role": "QB", "position_group": "QB", "starting_zone": "Pocket", "assignment_type": "dropback", "assignment": null },
+    { "role": "X",  "position_group": "WR", "starting_zone": "SL_L",  "assignment_type": "route", "assignment": "Slant-n-Go" },
+    { "role": "Z",  "position_group": "WR", "starting_zone": "SL_R",  "assignment_type": "route", "assignment": "Slant-n-Go" },
+    { "role": "Y",  "position_group": "TE", "starting_zone": "W_R",  "assignment_type": "route", "assignment": "Go" },
+    { "role": "RB", "position_group": "RB", "starting_zone": "Pocket", "assignment_type": "block", "assignment": "Blitz Pickup", "checkdown_release": "Flat" },
+    { "role": "FB", "position_group": "FB", "starting_zone": "Pocket", "assignment_type": "block", "assignment": "Pass Block" },
+    { "role": "LT", "position_group": "OL", "starting_zone": "C_L", "assignment_type": "block", "assignment": "Pass Block" },
+    { "role": "LG", "position_group": "OL", "starting_zone": "B_L", "assignment_type": "block", "assignment": "Pass Block" },
+    { "role": "C",  "position_group": "OL", "starting_zone": "A_R", "assignment_type": "block", "assignment": "Pass Block" },
+    { "role": "RG", "position_group": "OL", "starting_zone": "B_R", "assignment_type": "block", "assignment": "Pass Block" },
+    { "role": "RT", "position_group": "OL", "starting_zone": "C_R", "assignment_type": "block", "assignment": "Pass Block" }
+  ]
+}

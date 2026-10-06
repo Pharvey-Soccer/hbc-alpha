@@ -1,0 +1,23 @@
+{
+  "id": "shotgun_4wr_dive_option",
+  "play_family": "Dive Option",
+  "category": "Option Run",
+  "formation": "Shotgun 4WR",
+  "personnel": "4WR/1RB",
+  "option_side": "Right",
+  "target_gap": "A_R",
+  "notes": "HB Dive / QB Keep. A two-leg option on the Dive Read alone (run_play_loop.md Section 15, Consumer 2) -- give and keep, no trailing pitch back, so no Pitch Read fires. `resolveDiveRead` reads the dive leg and `resolvePitchRead` returns null on the missing one, the same two-leg shape pistol_read_option and shotgun_4wr_speed_option already use; only two `read_carry` entries are authored, not the three play_instance_data_format.md Section 3 describes. The dive back runs at target_gap; the QB's keep is aimed at the playside C-gap band by the engine itself (`_aimCarrierAtEdge`), not by anything authored here, which is what puts the two legs in genuinely different places. The Spread Option playbook is the only one that reaches it -- Shotgun 4WR plus `allowsOptionRun`.",
+  "players": [
+    { "role": "QB",     "position_group": "QB", "starting_zone": "Pocket", "assignment_type": "read_carry", "assignment": "Keep" },
+    { "role": "RB",     "position_group": "RB", "starting_zone": "Pocket", "assignment_type": "read_carry", "assignment": "Dive" },
+    { "role": "X",      "position_group": "WR", "starting_zone": "SL_L", "assignment_type": "block", "assignment": "Stalk Block" },
+    { "role": "Slot L", "position_group": "WR", "starting_zone": "W_L",  "assignment_type": "block", "assignment": "Stalk Block" },
+    { "role": "Slot R", "position_group": "WR", "starting_zone": "W_R",  "assignment_type": "block", "assignment": "Stalk Block" },
+    { "role": "Z",      "position_group": "WR", "starting_zone": "SL_R", "assignment_type": "block", "assignment": "Stalk Block" },
+    { "role": "LT", "position_group": "OL", "starting_zone": "C_L", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "LG", "position_group": "OL", "starting_zone": "B_L", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "C",  "position_group": "OL", "starting_zone": "A_R", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "RG", "position_group": "OL", "starting_zone": "B_R", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "RT", "position_group": "OL", "starting_zone": "C_R", "assignment_type": "block", "assignment": "Run Block" }
+  ]
+}

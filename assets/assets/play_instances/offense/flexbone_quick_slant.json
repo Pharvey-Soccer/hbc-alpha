@@ -1,0 +1,105 @@
+{
+  "id": "flexbone_quick_slant",
+  "play_family": "Quick Slant",
+  "category": "Short Pass",
+  "formation": "Pistol Flexbone",
+  "personnel": "2TE/3RB",
+  "protection_scheme": {
+    "type": "Man",
+    "assignments": {
+      "LT": "C_L",
+      "LG": "B_L",
+      "C": "A_R",
+      "RG": "B_R",
+      "RT": "C_R",
+      "RB_L": "A_L",
+      "RB": "W_L"
+    }
+  },
+  "qb_read_order": [
+    [
+      "Y",
+      "H"
+    ]
+  ],
+  "notes": "Both wings run Slant as a leverage group; RB_R releases to Flat as an unlisted outlet; RB_L and the B-back (role RB) stay in to protect",
+  "players": [
+    {
+      "role": "QB",
+      "position_group": "QB",
+      "starting_zone": "Pocket",
+      "assignment_type": "dropback",
+      "assignment": null
+    },
+    {
+      "role": "Y",
+      "position_group": "TE",
+      "starting_zone": "W_R",
+      "assignment_type": "route",
+      "assignment": "Slant"
+    },
+    {
+      "role": "H",
+      "position_group": "TE",
+      "starting_zone": "W_L",
+      "assignment_type": "route",
+      "assignment": "Slant"
+    },
+    {
+      "role": "RB_L",
+      "position_group": "RB",
+      "starting_zone": "BFSLL",
+      "assignment_type": "block",
+      "assignment": "Blitz Pickup"
+    },
+    {
+      "role": "RB_R",
+      "position_group": "RB",
+      "starting_zone": "BFSLR",
+      "assignment_type": "route",
+      "assignment": "Flat"
+    },
+    {
+      "role": "RB",
+      "position_group": "RB",
+      "starting_zone": "Pocket",
+      "assignment_type": "block",
+      "assignment": "Blitz Pickup"
+    },
+    {
+      "role": "LT",
+      "position_group": "OL",
+      "starting_zone": "C_L",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "LG",
+      "position_group": "OL",
+      "starting_zone": "B_L",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "C",
+      "position_group": "OL",
+      "starting_zone": "A_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "RG",
+      "position_group": "OL",
+      "starting_zone": "B_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "RT",
+      "position_group": "OL",
+      "starting_zone": "C_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    }
+  ]
+}

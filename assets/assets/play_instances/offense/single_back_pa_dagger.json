@@ -1,0 +1,113 @@
+{
+  "id": "single_back_pa_dagger",
+  "play_family": "PA Dagger",
+  "category": "Medium Pass",
+  "formation": "Single Back",
+  "personnel": "2WR/2TE/1RB",
+  "protection": "6-man (OL + RB)",
+  "protection_scheme": {
+    "type": "Man",
+    "assignments": {
+      "LT": "C_L",
+      "LG": "B_L",
+      "C": "A_R",
+      "RG": "B_R",
+      "RT": "C_R",
+      "RB": "A_L"
+    }
+  },
+  "qb_read_order": [
+    "Y",
+    {
+      "type": "hot",
+      "role": "Z",
+      "min_pressure_tier": 3
+    },
+    {
+      "type": "hot",
+      "role": "RB",
+      "min_pressure_tier": 1
+    }
+  ],
+  "notes": "Play action off single_back_dive (HB Dive, target gap A_R). OL pass-blocks throughout; run-blocking look is cosmetic. RB fakes into A_R selling the run, then settles into his real pass-pro assignment -- A_L, the back-side A gap the Center does not own. Blocks there only if a rusher shows, else releases on the checkdown (Flat). ASSUMPTION-corrected: an earlier pass matched his protection gap to his fake gap (both A_R), duplicating the Center's own assignment; reverted to A_L. H sells the run-block fake into the point of attack, same role FB plays in the I Formation version, before settling into real pass protection. Adapted from Dagger: Y takes the dig/primary read (Slot R's original role), X's Go clears, Z's backside Slant is the hot read at Tier 3.",
+  "players": [
+    {
+      "role": "QB",
+      "position_group": "QB",
+      "starting_zone": "Pocket",
+      "assignment_type": "dropback",
+      "assignment": null
+    },
+    {
+      "role": "RB",
+      "position_group": "RB",
+      "starting_zone": "Pocket",
+      "assignment_type": "block",
+      "assignment": "Blitz Pickup",
+      "checkdown_release": "Flat"
+    },
+    {
+      "role": "H",
+      "position_group": "TE",
+      "starting_zone": "W_L",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "X",
+      "position_group": "WR",
+      "starting_zone": "SL_L",
+      "assignment_type": "route",
+      "assignment": "Go"
+    },
+    {
+      "role": "Z",
+      "position_group": "WR",
+      "starting_zone": "SL_R",
+      "assignment_type": "route",
+      "assignment": "Slant"
+    },
+    {
+      "role": "Y",
+      "position_group": "TE",
+      "starting_zone": "W_R",
+      "assignment_type": "route",
+      "assignment": "In"
+    },
+    {
+      "role": "LT",
+      "position_group": "OL",
+      "starting_zone": "C_L",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "LG",
+      "position_group": "OL",
+      "starting_zone": "B_L",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "C",
+      "position_group": "OL",
+      "starting_zone": "A_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "RG",
+      "position_group": "OL",
+      "starting_zone": "B_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "RT",
+      "position_group": "OL",
+      "starting_zone": "C_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "flexbone_fb_toss",
+  "play_family": "FB Toss",
+  "category": "Outside Run",
+  "formation": "Pistol Flexbone",
+  "personnel": "2TE/3RB",
+  "notes": "Pitch to the B-back (role RB) fires at Moment 1, same engine-timing detail as the other Toss instances",
+  "players": [
+    {
+      "role": "QB",
+      "position_group": "QB",
+      "starting_zone": "Pocket",
+      "assignment_type": "handoff",
+      "assignment": "RB"
+    },
+    {
+      "role": "RB",
+      "position_group": "RB",
+      "starting_zone": "Boundary Right",
+      "assignment_type": "carry",
+      "assignment": null
+    },
+    {
+      "role": "RB_R",
+      "position_group": "RB",
+      "starting_zone": "BFSLR",
+      "assignment_type": "block",
+      "assignment": "Lead Block"
+    },
+    {
+      "role": "RB_L",
+      "position_group": "RB",
+      "starting_zone": "BFSLL",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "Y",
+      "position_group": "TE",
+      "starting_zone": "W_R",
+      "assignment_type": "block",
+      "assignment": "Stalk Block"
+    },
+    {
+      "role": "H",
+      "position_group": "TE",
+      "starting_zone": "W_L",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "LT",
+      "position_group": "OL",
+      "starting_zone": "C_L",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "LG",
+      "position_group": "OL",
+      "starting_zone": "B_L",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "C",
+      "position_group": "OL",
+      "starting_zone": "A_R",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "RG",
+      "position_group": "OL",
+      "starting_zone": "B_R",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "RT",
+      "position_group": "OL",
+      "starting_zone": "C_R",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    }
+  ]
+}

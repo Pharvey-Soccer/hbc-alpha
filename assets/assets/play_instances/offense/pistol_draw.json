@@ -1,0 +1,21 @@
+{
+  "id": "pistol_draw",
+  "play_family": "Draw",
+  "category": "Inside Run",
+  "formation": "Pistol",
+  "personnel": "3WR/1TE/1RB",
+  "notes": "Delayed handoff fires at the Moment 1→2 transition (run_play_loop.md Section 9, QB Handoff Phase, delayed-handoff plays); OL genuinely pass-blocks through Moments 0-1 before transitioning to run-blocking, RB holds a stationary pass-pro stance (V=0/H=0) through the same window. No category is 'Long/Medium/Short Pass' since Draw is designed and called as a run; receivers release into real routes only to sell coverage, none are part of a read.",
+  "players": [
+    { "role": "QB", "position_group": "QB", "starting_zone": "Pocket", "assignment_type": "handoff", "assignment": "RB" },
+    { "role": "RB", "position_group": "RB", "starting_zone": "Pocket", "assignment_type": "carry", "assignment": null },
+    { "role": "X",  "position_group": "WR", "starting_zone": "SL_L",  "assignment_type": "route", "assignment": "Go" },
+    { "role": "Z",  "position_group": "WR", "starting_zone": "SL_R",  "assignment_type": "route", "assignment": "Go" },
+    { "role": "Slot","position_group": "WR", "starting_zone": "W_L", "assignment_type": "route", "assignment": "Corner" },
+    { "role": "Y",  "position_group": "TE", "starting_zone": "W_R",  "assignment_type": "route", "assignment": "Out" },
+    { "role": "LT", "position_group": "OL", "starting_zone": "C_L", "assignment_type": "block", "assignment": "Pass Block" },
+    { "role": "LG", "position_group": "OL", "starting_zone": "B_L", "assignment_type": "block", "assignment": "Pass Block" },
+    { "role": "C",  "position_group": "OL", "starting_zone": "A_R", "assignment_type": "block", "assignment": "Pass Block" },
+    { "role": "RG", "position_group": "OL", "starting_zone": "B_R", "assignment_type": "block", "assignment": "Pass Block" },
+    { "role": "RT", "position_group": "OL", "starting_zone": "C_R", "assignment_type": "block", "assignment": "Pass Block" }
+  ]
+}

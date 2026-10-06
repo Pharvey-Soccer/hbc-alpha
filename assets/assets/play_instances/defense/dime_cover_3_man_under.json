@@ -1,0 +1,101 @@
+{
+  "id": "dime_cover_3_man_under",
+  "call_name": "Dime Three Deep",
+  "front": "Dime",
+  "coverage_shell": "Cover 3-Man-Under",
+  "blitz": false,
+  "goal_tags": [
+    "Situational",
+    "Stop Deep Pass"
+  ],
+  "players": [
+    {
+      "role": "DE_L",
+      "position_group": "DL",
+      "starting_zone": "C_L",
+      "run_fit": null,
+      "pass_assignment_type": "rush",
+      "pass_assignment": "contain"
+    },
+    {
+      "role": "NT",
+      "position_group": "DL",
+      "starting_zone": "A_L",
+      "run_fit": null,
+      "pass_assignment_type": "rush",
+      "pass_assignment": null
+    },
+    {
+      "role": "DE_R",
+      "position_group": "DL",
+      "starting_zone": "C_R",
+      "run_fit": null,
+      "pass_assignment_type": "rush",
+      "pass_assignment": "contain"
+    },
+    {
+      "role": "WILL",
+      "position_group": "LB",
+      "starting_zone": "2nd Level L",
+      "run_fit": "B_L",
+      "pass_assignment_type": "man_cover",
+      "pass_assignment": null
+    },
+    {
+      "role": "MIKE",
+      "position_group": "LB",
+      "starting_zone": "2nd Level C",
+      "run_fit": "A_R",
+      "pass_assignment_type": "zone_cover",
+      "pass_assignment": "Hook/Curl - Middle"
+    },
+    {
+      "role": "CB_L",
+      "position_group": "DB",
+      "starting_zone": "Deep Left",
+      "run_fit": null,
+      "pass_assignment_type": "zone_cover",
+      "pass_assignment": "Deep Third - Left"
+    },
+    {
+      "role": "CB_R",
+      "position_group": "DB",
+      "starting_zone": "Deep Right",
+      "run_fit": null,
+      "pass_assignment_type": "zone_cover",
+      "pass_assignment": "Deep Third - Right"
+    },
+    {
+      "role": "NB",
+      "position_group": "DB",
+      "starting_zone": "2nd Level R",
+      "run_fit": null,
+      "pass_assignment_type": "man_cover",
+      "pass_assignment": null
+    },
+    {
+      "role": "DIME",
+      "position_group": "DB",
+      "starting_zone": "2nd Level L",
+      "run_fit": null,
+      "pass_assignment_type": "man_cover",
+      "pass_assignment": null
+    },
+    {
+      "role": "FS",
+      "position_group": "DB",
+      "starting_zone": "Deep Center",
+      "run_fit": null,
+      "pass_assignment_type": "zone_cover",
+      "pass_assignment": "Deep Third - Middle"
+    },
+    {
+      "role": "SS",
+      "position_group": "DB",
+      "starting_zone": "2nd Level R",
+      "run_fit": null,
+      "pass_assignment_type": "zone_cover",
+      "pass_assignment": "Flat - Right"
+    }
+  ]
+}

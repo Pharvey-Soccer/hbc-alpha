@@ -1,0 +1,105 @@
+{
+  "id": "flexbone_wheel_shot",
+  "play_family": "Wheel Shot",
+  "category": "Medium Pass",
+  "formation": "Pistol Flexbone",
+  "personnel": "2TE/3RB",
+  "protection_scheme": {
+    "type": "Man",
+    "assignments": {
+      "LT": "C_L",
+      "LG": "B_L",
+      "C": "A_R",
+      "RG": "B_R",
+      "RT": "C_R",
+      "RB": "A_L"
+    }
+  },
+  "qb_read_order": [
+    "RB_R",
+    [
+      "Y",
+      "RB_L"
+    ]
+  ],
+  "notes": "RB_R releases right on a Wheel (primary read); H clears out right to open his lane; Y/RB_L form a backside high-low leverage group",
+  "players": [
+    {
+      "role": "QB",
+      "position_group": "QB",
+      "starting_zone": "Pocket",
+      "assignment_type": "dropback",
+      "assignment": null
+    },
+    {
+      "role": "Y",
+      "position_group": "TE",
+      "starting_zone": "W_R",
+      "assignment_type": "route",
+      "assignment": "Post"
+    },
+    {
+      "role": "H",
+      "position_group": "TE",
+      "starting_zone": "W_L",
+      "assignment_type": "route",
+      "assignment": "Go"
+    },
+    {
+      "role": "RB_L",
+      "position_group": "RB",
+      "starting_zone": "BFSLL",
+      "assignment_type": "route",
+      "assignment": "In"
+    },
+    {
+      "role": "RB_R",
+      "position_group": "RB",
+      "starting_zone": "BFSLR",
+      "assignment_type": "route",
+      "assignment": "Wheel"
+    },
+    {
+      "role": "RB",
+      "position_group": "RB",
+      "starting_zone": "Pocket",
+      "assignment_type": "block",
+      "assignment": "Blitz Pickup"
+    },
+    {
+      "role": "LT",
+      "position_group": "OL",
+      "starting_zone": "C_L",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "LG",
+      "position_group": "OL",
+      "starting_zone": "B_L",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "C",
+      "position_group": "OL",
+      "starting_zone": "A_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "RG",
+      "position_group": "OL",
+      "starting_zone": "B_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "RT",
+      "position_group": "OL",
+      "starting_zone": "C_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "power_i_fb_screen",
+  "play_family": "FB Screen",
+  "category": "Short Pass",
+  "formation": "Power I",
+  "personnel": "1WR/2TE/1FB/1RB",
+  "protection_scheme": {
+    "type": "Man",
+    "assignments": {
+      "LT": "C_L",
+      "LG": "B_L",
+      "C": "A_R",
+      "RG": "B_R",
+      "RT": "C_R"
+    }
+  },
+  "qb_read_order": [
+    "FB"
+  ],
+  "notes": "",
+  "players": [
+    {
+      "role": "QB",
+      "position_group": "QB",
+      "starting_zone": "Pocket",
+      "assignment_type": "dropback",
+      "assignment": null
+    },
+    {
+      "role": "X",
+      "position_group": "WR",
+      "starting_zone": "SL_R",
+      "assignment_type": "route",
+      "assignment": "Go"
+    },
+    {
+      "role": "Y",
+      "position_group": "TE",
+      "starting_zone": "W_L",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "H",
+      "position_group": "TE",
+      "starting_zone": "W_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "FB",
+      "position_group": "FB",
+      "starting_zone": "Pocket",
+      "assignment_type": "route",
+      "assignment": "Screen"
+    },
+    {
+      "role": "RB",
+      "position_group": "RB",
+      "starting_zone": "Pocket",
+      "assignment_type": "block",
+      "assignment": "Lead Block"
+    },
+    {
+      "role": "LT",
+      "position_group": "OL",
+      "starting_zone": "C_L",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "LG",
+      "position_group": "OL",
+      "starting_zone": "B_L",
+      "assignment_type": "block",
+      "assignment": "Screen Block"
+    },
+    {
+      "role": "C",
+      "position_group": "OL",
+      "starting_zone": "A_R",
+      "assignment_type": "block",
+      "assignment": "Screen Block"
+    },
+    {
+      "role": "RG",
+      "position_group": "OL",
+      "starting_zone": "B_R",
+      "assignment_type": "block",
+      "assignment": "Screen Block"
+    },
+    {
+      "role": "RT",
+      "position_group": "OL",
+      "starting_zone": "C_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    }
+  ]
+}

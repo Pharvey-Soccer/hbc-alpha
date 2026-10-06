@@ -1,0 +1,101 @@
+{
+  "id": "3_4_3_cover_2_man_5tech",
+  "call_name": "Okie Two-Man",
+  "front": "3-4-3",
+  "coverage_shell": "Cover 2-Man",
+  "blitz": false,
+  "goal_tags": [
+    "Stop the Run",
+    "Stop Short Pass"
+  ],
+  "players": [
+    {
+      "role": "DE_L",
+      "position_group": "DL",
+      "starting_zone": "B_L",
+      "run_fit": null,
+      "pass_assignment_type": "rush",
+      "pass_assignment": null
+    },
+    {
+      "role": "NT",
+      "position_group": "DL",
+      "starting_zone": "A_L",
+      "run_fit": null,
+      "pass_assignment_type": "rush",
+      "pass_assignment": null
+    },
+    {
+      "role": "DE_R",
+      "position_group": "DL",
+      "starting_zone": "B_R",
+      "run_fit": null,
+      "pass_assignment_type": "rush",
+      "pass_assignment": null
+    },
+    {
+      "role": "JACK",
+      "position_group": "LB",
+      "starting_zone": "W_L",
+      "run_fit": null,
+      "pass_assignment_type": "rush",
+      "pass_assignment": null
+    },
+    {
+      "role": "WILL",
+      "position_group": "LB",
+      "starting_zone": "2nd Level L",
+      "run_fit": "C_L",
+      "pass_assignment_type": "zone_cover",
+      "pass_assignment": "Flat - Left"
+    },
+    {
+      "role": "MIKE",
+      "position_group": "LB",
+      "starting_zone": "2nd Level C",
+      "run_fit": "A_R",
+      "pass_assignment_type": "zone_cover",
+      "pass_assignment": "Hook/Curl - Middle"
+    },
+    {
+      "role": "SAM",
+      "position_group": "LB",
+      "starting_zone": "2nd Level R",
+      "run_fit": "C_R",
+      "pass_assignment_type": "zone_cover",
+      "pass_assignment": "Flat - Right"
+    },
+    {
+      "role": "CB_L",
+      "position_group": "DB",
+      "starting_zone": "SL_L",
+      "run_fit": null,
+      "pass_assignment_type": "man_cover",
+      "pass_assignment": null
+    },
+    {
+      "role": "CB_R",
+      "position_group": "DB",
+      "starting_zone": "SL_R",
+      "run_fit": null,
+      "pass_assignment_type": "man_cover",
+      "pass_assignment": null
+    },
+    {
+      "role": "FS",
+      "position_group": "DB",
+      "starting_zone": "Deep Left",
+      "run_fit": null,
+      "pass_assignment_type": "zone_cover",
+      "pass_assignment": "Deep Half - Left"
+    },
+    {
+      "role": "SS",
+      "position_group": "DB",
+      "starting_zone": "Deep Right",
+      "run_fit": null,
+      "pass_assignment_type": "zone_cover",
+      "pass_assignment": "Deep Half - Right"
+    }
+  ]
+}

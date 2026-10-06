@@ -1,0 +1,21 @@
+{
+  "id": "empty_jet_sweep",
+  "play_family": "Jet Sweep",
+  "category": "Outside Run",
+  "notes": "Slot L comes in jet motion across the formation and takes the handoff at full speed on the edge. Authored playside-right like every other symmetric run in the catalog; the engine mirrors it at runtime (`OffensivePlayInstance.mirror`), which is also what turns the motion around -- Slot L and Slot R swap names on the reflection, so the motion man is always the backside slot. Aligned at Boundary Right rather than Pocket, which is what makes this a true Sweep to `RunPlayState.isSweepPlay` and gets it the CB-fulcrum Sweep Read Phase (run_play_loop.md Section 12) instead of Zone Stretch's off-tackle read. No target_gap for the same reason as i_formation_toss and power_i_toss: the Sweep Read Phase sets the runner's Line of Scrimmage entry dynamically once the corner's block status resolves, so a static target would be overwritten. Z stalks the playside corner -- he is the fulcrum that read is posed against. He carries `motion: true` -- the Motion Velocity Bonus (run_play_loop.md Section 3) is his, and this is the play the section names. His `starting_zone` is authored at his near-snap position, already carried to the play side, which is what Section 3 says to do with a motion player.",
+  "formation": "Empty",
+  "personnel": "4WR/1TE",
+  "players": [
+    { "role": "QB",     "position_group": "QB", "starting_zone": "Pocket",         "assignment_type": "handoff", "assignment": "Slot L" },
+    { "role": "Slot L", "position_group": "WR", "starting_zone": "Boundary Right", "assignment_type": "carry",   "assignment": null, "motion": true },
+    { "role": "Z",      "position_group": "WR", "starting_zone": "SL_R", "assignment_type": "block", "assignment": "Stalk Block" },
+    { "role": "Slot R", "position_group": "WR", "starting_zone": "W_R",  "assignment_type": "block", "assignment": "Stalk Block" },
+    { "role": "Y",      "position_group": "TE", "starting_zone": "W_L",  "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "X",      "position_group": "WR", "starting_zone": "SL_L", "assignment_type": "block", "assignment": "Stalk Block" },
+    { "role": "LT", "position_group": "OL", "starting_zone": "C_L", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "LG", "position_group": "OL", "starting_zone": "B_L", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "C",  "position_group": "OL", "starting_zone": "A_R", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "RG", "position_group": "OL", "starting_zone": "B_R", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "RT", "position_group": "OL", "starting_zone": "C_R", "assignment_type": "block", "assignment": "Run Block" }
+  ]
+}

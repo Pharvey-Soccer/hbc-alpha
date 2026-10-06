@@ -1,0 +1,89 @@
+{
+  "id": "shotgun_4wr_speed_option",
+  "play_family": "Speed Option",
+  "category": "Option Run",
+  "formation": "Shotgun 4WR",
+  "personnel": "4WR/1RB",
+  "option_side": "Right",
+  "target_gap": "C_R",
+  "notes": "Two-way keep/pitch option built on Pitch Read only (run_play_loop.md Section 15, Consumer 2), standalone with no preceding Dive Read since there's no interior give leg. Read-key resolution without a Dive Read establishing a reference point is a small open item for implementation to confirm \u2014 the alley/force defender left unblocked by design should still resolve as the key, but flag before building.",
+  "players": [
+    {
+      "role": "QB",
+      "position_group": "QB",
+      "starting_zone": "Pocket",
+      "assignment_type": "read_carry",
+      "assignment": "Keep"
+    },
+    {
+      "role": "RB",
+      "position_group": "RB",
+      "starting_zone": "Pocket",
+      "assignment_type": "read_carry",
+      "assignment": "Pitch"
+    },
+    {
+      "role": "X",
+      "position_group": "WR",
+      "starting_zone": "SL_L",
+      "assignment_type": "block",
+      "assignment": "Stalk Block"
+    },
+    {
+      "role": "Slot L",
+      "position_group": "WR",
+      "starting_zone": "W_L",
+      "assignment_type": "block",
+      "assignment": "Stalk Block"
+    },
+    {
+      "role": "Z",
+      "position_group": "WR",
+      "starting_zone": "SL_R",
+      "assignment_type": "block",
+      "assignment": "Stalk Block"
+    },
+    {
+      "role": "Slot R",
+      "position_group": "WR",
+      "starting_zone": "W_R",
+      "assignment_type": "block",
+      "assignment": "Stalk Block"
+    },
+    {
+      "role": "LT",
+      "position_group": "OL",
+      "starting_zone": "C_L",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "LG",
+      "position_group": "OL",
+      "starting_zone": "B_L",
+      "assignment_type": "block",
+      "assignment": "Pulling Block"
+    },
+    {
+      "role": "C",
+      "position_group": "OL",
+      "starting_zone": "A_R",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "RG",
+      "position_group": "OL",
+      "starting_zone": "B_R",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "RT",
+      "position_group": "OL",
+      "starting_zone": "C_R",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    }
+  ]
+}

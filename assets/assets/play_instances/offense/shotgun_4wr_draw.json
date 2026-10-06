@@ -1,0 +1,88 @@
+{
+  "id": "shotgun_4wr_draw",
+  "play_family": "Draw",
+  "category": "Inside Run",
+  "formation": "Shotgun 4WR",
+  "personnel": "4WR/1RB",
+  "target_gap": "A_R",
+  "notes": "Real pass-blocking resolution through Moments 0-1 sells the play; QB Handoff Phase fires at the Moment 1\u21922 transition; OL transitions to run blocking from Moment 2",
+  "players": [
+    {
+      "role": "QB",
+      "position_group": "QB",
+      "starting_zone": "Pocket",
+      "assignment_type": "handoff",
+      "assignment": "RB"
+    },
+    {
+      "role": "RB",
+      "position_group": "RB",
+      "starting_zone": "Pocket",
+      "assignment_type": "carry",
+      "assignment": null
+    },
+    {
+      "role": "X",
+      "position_group": "WR",
+      "starting_zone": "SL_L",
+      "assignment_type": "route",
+      "assignment": "Go"
+    },
+    {
+      "role": "Slot L",
+      "position_group": "WR",
+      "starting_zone": "W_L",
+      "assignment_type": "route",
+      "assignment": "Go"
+    },
+    {
+      "role": "Z",
+      "position_group": "WR",
+      "starting_zone": "SL_R",
+      "assignment_type": "route",
+      "assignment": "Go"
+    },
+    {
+      "role": "Slot R",
+      "position_group": "WR",
+      "starting_zone": "W_R",
+      "assignment_type": "route",
+      "assignment": "Go"
+    },
+    {
+      "role": "LT",
+      "position_group": "OL",
+      "starting_zone": "C_L",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "LG",
+      "position_group": "OL",
+      "starting_zone": "B_L",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "C",
+      "position_group": "OL",
+      "starting_zone": "A_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "RG",
+      "position_group": "OL",
+      "starting_zone": "B_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "RT",
+      "position_group": "OL",
+      "starting_zone": "C_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    }
+  ]
+}

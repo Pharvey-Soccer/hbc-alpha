@@ -1,0 +1,107 @@
+{
+  "id": "shotgun_4wr_dagger",
+  "play_family": "Dagger",
+  "category": "Medium Pass",
+  "formation": "Shotgun 4WR",
+  "personnel": "4WR/1RB",
+  "protection": "6-man (OL + RB)",
+  "protection_scheme": {
+    "type": "Man",
+    "assignments": {
+      "LT": "C_L",
+      "LG": "B_L",
+      "C": "A_R",
+      "RG": "B_R",
+      "RT": "C_R",
+      "RB": "A_L"
+    }
+  },
+  "qb_read_order": [
+    "Slot R",
+    {
+      "type": "hot",
+      "role": "Z",
+      "min_pressure_tier": 3
+    }
+  ],
+  "notes": "X's Go clears the deep half; Slot R settles into the vacated middle void on the dig, and is the entire progression by design. Z's backside Slant is the hot (bug #76) -- ineligible until the rush declares at Tier 3, then the first thing he looks at. Authored from docs/design/intermediate_pass_plays.md; the protection_scheme gap map is the one field that write-up omitted, and the back takes A_L opposite the centre.",
+  "players": [
+    {
+      "role": "QB",
+      "position_group": "QB",
+      "starting_zone": "Pocket",
+      "assignment_type": "dropback",
+      "assignment": null
+    },
+    {
+      "role": "X",
+      "position_group": "WR",
+      "starting_zone": "SL_L",
+      "assignment_type": "route",
+      "assignment": "Go"
+    },
+    {
+      "role": "Z",
+      "position_group": "WR",
+      "starting_zone": "SL_R",
+      "assignment_type": "route",
+      "assignment": "Slant"
+    },
+    {
+      "role": "Slot L",
+      "position_group": "WR",
+      "starting_zone": "W_L",
+      "assignment_type": "route",
+      "assignment": "Out"
+    },
+    {
+      "role": "Slot R",
+      "position_group": "WR",
+      "starting_zone": "W_R",
+      "assignment_type": "route",
+      "assignment": "In"
+    },
+    {
+      "role": "RB",
+      "position_group": "RB",
+      "starting_zone": "Pocket",
+      "assignment_type": "block",
+      "assignment": "Blitz Pickup"
+    },
+    {
+      "role": "LT",
+      "position_group": "OL",
+      "starting_zone": "C_L",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "LG",
+      "position_group": "OL",
+      "starting_zone": "B_L",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "C",
+      "position_group": "OL",
+      "starting_zone": "A_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "RG",
+      "position_group": "OL",
+      "starting_zone": "B_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "RT",
+      "position_group": "OL",
+      "starting_zone": "C_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    }
+  ]
+}

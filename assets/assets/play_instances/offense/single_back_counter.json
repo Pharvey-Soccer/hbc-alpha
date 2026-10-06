@@ -1,0 +1,23 @@
+{
+  "id": "single_back_counter",
+  "play_family": "Counter",
+  "category": "Inside Run",
+  "formation": "Single Back",
+  "personnel": "2WR/2TE/1RB",
+  "notes": "LT and LG both pull from the backside (left) to lead through the playside (right) B-gap. RB takes a false counter-step toward B_L before the handoff, triggering the Misdirection Read (run_play_loop.md Section 12) for LBs and run-fit DBs at Moment 0. RB aligns Off Tackle Right (playside) rather than dead-center Pocket -- bug #39 (docs/run_play_engine_NOTES.md), giving a freed backside rusher real extra distance to cross.",
+  "target_gap": "B_R",
+  "misdirection_gap": "B_L",
+  "players": [
+    { "role": "QB", "position_group": "QB", "starting_zone": "Pocket", "assignment_type": "handoff", "assignment": "RB" },
+    { "role": "RB", "position_group": "RB", "starting_zone": "Off Tackle Right", "assignment_type": "carry", "assignment": null },
+    { "role": "X",  "position_group": "WR", "starting_zone": "SL_L",  "assignment_type": "block", "assignment": "Stalk Block" },
+    { "role": "Z",  "position_group": "WR", "starting_zone": "SL_R",  "assignment_type": "block", "assignment": "Stalk Block" },
+    { "role": "Y",  "position_group": "TE", "starting_zone": "W_R",  "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "H",  "position_group": "TE", "starting_zone": "W_L",  "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "LT", "position_group": "OL", "starting_zone": "C_L", "assignment_type": "block", "assignment": "Pulling Block" },
+    { "role": "LG", "position_group": "OL", "starting_zone": "B_L", "assignment_type": "block", "assignment": "Pulling Block" },
+    { "role": "C",  "position_group": "OL", "starting_zone": "A_R", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "RG", "position_group": "OL", "starting_zone": "B_R", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "RT", "position_group": "OL", "starting_zone": "C_R", "assignment_type": "block", "assignment": "Run Block" }
+  ]
+}

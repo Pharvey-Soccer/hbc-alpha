@@ -1,0 +1,88 @@
+{
+  "id": "pistol_qb_draw",
+  "play_family": "QB Draw",
+  "category": "Inside Run",
+  "formation": "Pistol",
+  "personnel": "3WR/1TE/1RB",
+  "target_gap": "A_R",
+  "notes": "Real pass-set look through Moments 0-1 sells the play before the QB tucks and runs",
+  "players": [
+    {
+      "role": "QB",
+      "position_group": "QB",
+      "starting_zone": "Pocket",
+      "assignment_type": "carry",
+      "assignment": null
+    },
+    {
+      "role": "RB",
+      "position_group": "RB",
+      "starting_zone": "Pocket",
+      "assignment_type": "route",
+      "assignment": "Go"
+    },
+    {
+      "role": "X",
+      "position_group": "WR",
+      "starting_zone": "SL_L",
+      "assignment_type": "route",
+      "assignment": "Go"
+    },
+    {
+      "role": "Z",
+      "position_group": "WR",
+      "starting_zone": "SL_R",
+      "assignment_type": "route",
+      "assignment": "Go"
+    },
+    {
+      "role": "Slot",
+      "position_group": "WR",
+      "starting_zone": "W_R",
+      "assignment_type": "route",
+      "assignment": "Go"
+    },
+    {
+      "role": "Y",
+      "position_group": "TE",
+      "starting_zone": "W_L",
+      "assignment_type": "route",
+      "assignment": "Go"
+    },
+    {
+      "role": "LT",
+      "position_group": "OL",
+      "starting_zone": "C_L",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "LG",
+      "position_group": "OL",
+      "starting_zone": "B_L",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "C",
+      "position_group": "OL",
+      "starting_zone": "A_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "RG",
+      "position_group": "OL",
+      "starting_zone": "B_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "RT",
+      "position_group": "OL",
+      "starting_zone": "C_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "single_back_zone_stretch",
+  "play_family": "Zone Stretch",
+  "category": "Outside Run",
+  "formation": "Single Back",
+  "personnel": "2WR/2TE/1RB",
+  "notes": "Play side: Right (canonical direction for this slice; mirrored Left version not separately authored). RB aligns Off Tackle Right (not Pocket) and targets the Wing zone (W_R, off-tackle edge) rather than an interior gap -- run_play_loop.md Section 12's 'no additional moment cost vs interior runs -- starting position is play-design determined,' matching bug #39's Off-Tackle-Right precedent for Power/Counter. As-authored (no target_gap, RB at Pocket) this play previously produced stats byte-identical to Dive -- see bin/outside_run_baseline_check.dart. A Stretch Read Phase (bug #43, docs/run_play_engine_NOTES.md; not part of run_play_loop.md Section 12's own text, added at the user's direct request) fires at Moment 0: reads the C_R edge defender's block, banging it up to the C gap if he's sealed, staying course if contested, or improvising off a genuinely blown-up point of attack.",
+  "target_gap": "W_R",
+  "players": [
+    { "role": "QB", "position_group": "QB", "starting_zone": "Pocket", "assignment_type": "handoff", "assignment": "RB" },
+    { "role": "RB", "position_group": "RB", "starting_zone": "Off Tackle Right", "assignment_type": "carry", "assignment": null },
+    { "role": "X",  "position_group": "WR", "starting_zone": "SL_L",  "assignment_type": "block", "assignment": "Stalk Block" },
+    { "role": "Z",  "position_group": "WR", "starting_zone": "SL_R",  "assignment_type": "block", "assignment": "Stalk Block" },
+    { "role": "Y",  "position_group": "TE", "starting_zone": "W_R",  "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "H",  "position_group": "TE", "starting_zone": "W_L",  "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "LT", "position_group": "OL", "starting_zone": "C_L", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "LG", "position_group": "OL", "starting_zone": "B_L", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "C",  "position_group": "OL", "starting_zone": "A_R", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "RG", "position_group": "OL", "starting_zone": "B_R", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "RT", "position_group": "OL", "starting_zone": "C_R", "assignment_type": "block", "assignment": "Run Block" }
+  ]
+}

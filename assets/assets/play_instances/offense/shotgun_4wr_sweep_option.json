@@ -1,0 +1,24 @@
+{
+  "id": "shotgun_4wr_sweep_option",
+  "play_family": "Sweep Option",
+  "category": "Option Run",
+  "formation": "Shotgun 4WR",
+  "personnel": "4WR/1RB",
+  "option_side": "Right",
+  "target_gap": "C_R",
+  "keep_gap": "A_R",
+  "notes": "The mirror image of shotgun_4wr_dive_option, and the play keep_gap was added for (SS93). The author's own description: \"the QB is reading the playside DE or OLB, if he goes inside it's a sweep to HB, if he follows the back the QB pulls it and runs into the A gap.\" So the give leg sweeps outside (target_gap C_R) and the keep attacks the interior (keep_gap A_R) -- the opposite assignment of gaps to legs from the Dive Option, fielded from the identical formation and blocking look so the two disguise each other. Two read_carry legs, no pitch back, the same shape pistol_read_option and shotgun_4wr_speed_option already use. The give leg takes no downhill snap velocity here, because target_gap is not an interior gap -- see run_play_state.dart: a sweeping back handed a dive back's head start arrives at an unblocked edge at full speed and measured 10.35 yards a carry.",
+  "players": [
+    { "role": "QB",     "position_group": "QB", "starting_zone": "Pocket", "assignment_type": "read_carry", "assignment": "Keep" },
+    { "role": "RB",     "position_group": "RB", "starting_zone": "Pocket", "assignment_type": "read_carry", "assignment": "Dive" },
+    { "role": "X",      "position_group": "WR", "starting_zone": "SL_L", "assignment_type": "block", "assignment": "Stalk Block" },
+    { "role": "Slot L", "position_group": "WR", "starting_zone": "W_L",  "assignment_type": "block", "assignment": "Stalk Block" },
+    { "role": "Slot R", "position_group": "WR", "starting_zone": "W_R",  "assignment_type": "block", "assignment": "Stalk Block" },
+    { "role": "Z",      "position_group": "WR", "starting_zone": "SL_R", "assignment_type": "block", "assignment": "Stalk Block" },
+    { "role": "LT", "position_group": "OL", "starting_zone": "C_L", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "LG", "position_group": "OL", "starting_zone": "B_L", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "C",  "position_group": "OL", "starting_zone": "A_R", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "RG", "position_group": "OL", "starting_zone": "B_R", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "RT", "position_group": "OL", "starting_zone": "C_R", "assignment_type": "block", "assignment": "Run Block" }
+  ]
+}

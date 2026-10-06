@@ -1,0 +1,22 @@
+{
+  "id": "power_i_qb_sneak",
+  "play_family": "QB Sneak",
+  "category": "Inside Run",
+  "formation": "Power I",
+  "personnel": "1WR/2TE/1FB/1RB",
+  "target_gap": "A_R",
+  "notes": "QB takes the snap and surges straight into the strong-side A gap. FB and RB both carry Lead Block as a dual lead-block abstraction for the short-yardage push from behind -- no dedicated 'push' blocking type exists in the catalog, so both backs lead rather than inventing one. The QB hands off to himself, the same `carry`-with-no-`handoff` shape every designed quarterback run on disk already uses (empty_qb_dive, shotgun_4wr_qb_dive).",
+  "players": [
+    { "role": "QB", "position_group": "QB", "starting_zone": "Pocket", "assignment_type": "carry", "assignment": null },
+    { "role": "FB", "position_group": "FB", "starting_zone": "Pocket", "assignment_type": "block", "assignment": "Lead Block" },
+    { "role": "RB", "position_group": "RB", "starting_zone": "Pocket", "assignment_type": "block", "assignment": "Lead Block" },
+    { "role": "X",  "position_group": "WR", "starting_zone": "SL_R", "assignment_type": "block", "assignment": "Stalk Block" },
+    { "role": "Y",  "position_group": "TE", "starting_zone": "W_R",  "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "H",  "position_group": "TE", "starting_zone": "W_L",  "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "LT", "position_group": "OL", "starting_zone": "C_L", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "LG", "position_group": "OL", "starting_zone": "B_L", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "C",  "position_group": "OL", "starting_zone": "A_R", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "RG", "position_group": "OL", "starting_zone": "B_R", "assignment_type": "block", "assignment": "Run Block" },
+    { "role": "RT", "position_group": "OL", "starting_zone": "C_R", "assignment_type": "block", "assignment": "Run Block" }
+  ]
+}

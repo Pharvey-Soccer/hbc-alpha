@@ -1,0 +1,116 @@
+{
+  "id": "pistol_pa_boot_spot",
+  "play_family": "PA Boot Spot",
+  "category": "Medium Pass",
+  "formation": "Pistol",
+  "personnel": "3WR/1TE/1RB",
+  "protection": "5-man (OL only); RB conditional",
+  "rollout_side": "Right",
+  "protection_scheme": {
+    "type": "Man",
+    "assignments": {
+      "LT": "C_L",
+      "LG": "B_L",
+      "C": "A_R",
+      "RG": "B_R",
+      "RT": "C_R",
+      "RB": "A_L"
+    }
+  },
+  "qb_read_order": [
+    {
+      "type": "force",
+      "roles": [
+        "Slot",
+        "Y"
+      ]
+    },
+    "X",
+    {
+      "type": "hot",
+      "role": "RB",
+      "min_pressure_tier": 1
+    }
+  ],
+  "notes": "Play action boot right off pistol_dive (HB Dive, target gap A_R). Authored running right (canonical direction); mirrored left at runtime per standard convention. ASSUMPTION -- biggest structural change of the six: source Spot's force read pairs RB(Flat)/Y(Out), but our RB is now conditional (block-or-release), not a fixed route runner, so it can't anchor a genuine two-route force key. Substituted Slot for RB in the force pair (Slot Flat near, Y Out far), with RB demoted to its standard PA role -- conditional blocker/checkdown, reachable as a hot dump-off once pressure builds. X's Corner is still the final read; Z's Slant is a pure decoy, same as the source instance.",
+  "players": [
+    {
+      "role": "QB",
+      "position_group": "QB",
+      "starting_zone": "Pocket",
+      "assignment_type": "dropback",
+      "assignment": null
+    },
+    {
+      "role": "RB",
+      "position_group": "RB",
+      "starting_zone": "Pocket",
+      "assignment_type": "block",
+      "assignment": "Blitz Pickup",
+      "checkdown_release": "Flat"
+    },
+    {
+      "role": "X",
+      "position_group": "WR",
+      "starting_zone": "SL_L",
+      "assignment_type": "route",
+      "assignment": "Corner"
+    },
+    {
+      "role": "Z",
+      "position_group": "WR",
+      "starting_zone": "SL_R",
+      "assignment_type": "route",
+      "assignment": "Slant"
+    },
+    {
+      "role": "Y",
+      "position_group": "TE",
+      "starting_zone": "W_R",
+      "assignment_type": "route",
+      "assignment": "Out"
+    },
+    {
+      "role": "Slot",
+      "position_group": "WR",
+      "starting_zone": "W_L",
+      "assignment_type": "route",
+      "assignment": "Flat"
+    },
+    {
+      "role": "LT",
+      "position_group": "OL",
+      "starting_zone": "C_L",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "LG",
+      "position_group": "OL",
+      "starting_zone": "B_L",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "C",
+      "position_group": "OL",
+      "starting_zone": "A_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "RG",
+      "position_group": "OL",
+      "starting_zone": "B_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "RT",
+      "position_group": "OL",
+      "starting_zone": "C_R",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    }
+  ]
+}

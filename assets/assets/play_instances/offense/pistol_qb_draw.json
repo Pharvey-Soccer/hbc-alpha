@@ -5,7 +5,7 @@
   "formation": "Pistol",
   "personnel": "3WR/1TE/1RB",
   "target_gap": "A_R",
-  "notes": "Real pass-set look through Moments 0-1 sells the play before the QB tucks and runs",
+  "notes": "Real pass-set look through Moments 0-1 sells the play before the QB tucks and runs; the RB runs a Wheel to take his man out of the middle rather than a Go up it",
   "players": [
     {
       "role": "QB",
@@ -19,7 +19,7 @@
       "position_group": "RB",
       "starting_zone": "Pocket",
       "assignment_type": "route",
-      "assignment": "Go"
+      "assignment": "Wheel"
     },
     {
       "role": "X",

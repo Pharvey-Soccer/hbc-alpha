@@ -1,8 +1,8 @@
 {
-  "id": "pistol_post_shot",
+  "id": "single_back_post_shot",
   "play_family": "Post Shot",
   "category": "Long Pass",
-  "formation": "Pistol",
+  "formation": "Single Back",
   "personnel": "2WR/2TE/1RB",
   "protection": "7-man (OL + Y + H)",
   "protection_scheme": {
@@ -25,7 +25,7 @@
       "min_pressure_tier": 3
     }
   ],
-  "notes": "Z's Go holds the backside deep defender away from the middle; both TEs stay in to buy time for the post to develop. Authored from docs/design/deep_shot_plays.md; protection_scheme added on ingestion, with the two kept-in tight ends owning the wing gaps they align in.",
+  "notes": "Z's Go holds the backside deep defender away from the middle; both TEs stay in to buy time for the post to develop. Authored from docs/design/deep_shot_plays.md; protection_scheme added on ingestion, with the two kept-in tight ends owning the wing gaps they align in. Moved from Pistol to Single Back at the author's direction: it carries Single Back's personnel (2WR/2TE/1RB), and under center makes no real difference to the shot; its blitz check moves with it to single_back_slant_flat.",
   "players": [
     {
       "role": "QB",
@@ -105,5 +105,5 @@
       "assignment": "Pass Block"
     }
   ],
-  "audible_blitz_check": "pistol_curl_flat"
+  "audible_blitz_check": "single_back_slant_flat"
 }

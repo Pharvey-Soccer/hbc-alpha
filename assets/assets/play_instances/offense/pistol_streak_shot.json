@@ -19,10 +19,10 @@
     "Slot",
     {
       "type": "alert",
-      "role": "Y"
+      "role": "Z"
     }
   ],
-  "notes": "6-man protection (RB Blitz Pickup) to buy Streak's extra development time",
+  "notes": "6-man protection (RB Blitz Pickup) to buy Streak's extra development time; the alert is the Z's Go (the author: switch the alert to the Z, not the Y, or it is the Seam Shot again) -- the Y's Streak clears the seam safety",
   "players": [
     {
       "role": "QB",

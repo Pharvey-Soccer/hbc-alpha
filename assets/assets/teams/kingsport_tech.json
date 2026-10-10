@@ -66,7 +66,7 @@
     },
     {
       "slot": "Slot L",
-      "pos": "SLOT",
+      "pos": "WR",
       "profile": "Slot L",
       "group": "WR",
       "num": 8,
@@ -78,7 +78,7 @@
     },
     {
       "slot": "Slot L",
-      "pos": "SLOT",
+      "pos": "WR",
       "profile": "Slot L",
       "group": "WR",
       "num": 17,
@@ -90,7 +90,7 @@
     },
     {
       "slot": "Y",
-      "pos": "TE",
+      "pos": "TE/FB",
       "profile": "Y",
       "group": "TE",
       "num": 88,
@@ -102,7 +102,7 @@
     },
     {
       "slot": "Y",
-      "pos": "TE",
+      "pos": "TE/FB",
       "profile": "Y",
       "group": "TE",
       "num": 86,
@@ -138,7 +138,7 @@
     },
     {
       "slot": "Slot R",
-      "pos": "SLOT",
+      "pos": "WR",
       "profile": "Slot R",
       "group": "WR",
       "num": 2,
@@ -150,7 +150,7 @@
     },
     {
       "slot": "Slot R",
-      "pos": "SLOT",
+      "pos": "WR",
       "profile": "Slot R",
       "group": "WR",
       "num": 6,
@@ -162,7 +162,7 @@
     },
     {
       "slot": "LT",
-      "pos": "LT",
+      "pos": "OT",
       "profile": "LT",
       "group": "OL",
       "num": 66,
@@ -174,7 +174,7 @@
     },
     {
       "slot": "LT",
-      "pos": "LT",
+      "pos": "OT",
       "profile": "LT",
       "group": "OL",
       "num": 59,
@@ -186,7 +186,7 @@
     },
     {
       "slot": "LT",
-      "pos": "LT",
+      "pos": "OT",
       "profile": "LT",
       "group": "OL",
       "num": 69,
@@ -198,7 +198,7 @@
     },
     {
       "slot": "LG",
-      "pos": "LG",
+      "pos": "IOL",
       "profile": "LG",
       "group": "OL",
       "num": 52,
@@ -210,7 +210,7 @@
     },
     {
       "slot": "LG",
-      "pos": "LG",
+      "pos": "IOL",
       "profile": "LG",
       "group": "OL",
       "num": 57,
@@ -222,7 +222,7 @@
     },
     {
       "slot": "LG",
-      "pos": "LG",
+      "pos": "IOL",
       "profile": "LG",
       "group": "OL",
       "num": 73,
@@ -234,7 +234,7 @@
     },
     {
       "slot": "C",
-      "pos": "C",
+      "pos": "IOL",
       "profile": "C",
       "group": "OL",
       "num": 77,
@@ -246,7 +246,7 @@
     },
     {
       "slot": "C",
-      "pos": "C",
+      "pos": "IOL",
       "profile": "C",
       "group": "OL",
       "num": 51,
@@ -258,7 +258,7 @@
     },
     {
       "slot": "C",
-      "pos": "C",
+      "pos": "IOL",
       "profile": "C",
       "group": "OL",
       "num": 54,
@@ -270,7 +270,7 @@
     },
     {
       "slot": "RG",
-      "pos": "RG",
+      "pos": "IOL",
       "profile": "RG",
       "group": "OL",
       "num": 74,
@@ -282,7 +282,7 @@
     },
     {
       "slot": "RG",
-      "pos": "RG",
+      "pos": "IOL",
       "profile": "RG",
       "group": "OL",
       "num": 76,
@@ -294,7 +294,7 @@
     },
     {
       "slot": "RG",
-      "pos": "RG",
+      "pos": "IOL",
       "profile": "RG",
       "group": "OL",
       "num": 55,
@@ -306,7 +306,7 @@
     },
     {
       "slot": "RT",
-      "pos": "RT",
+      "pos": "OT",
       "profile": "RT",
       "group": "OL",
       "num": 53,
@@ -318,7 +318,7 @@
     },
     {
       "slot": "RT",
-      "pos": "RT",
+      "pos": "OT",
       "profile": "RT",
       "group": "OL",
       "num": 61,
@@ -330,7 +330,7 @@
     },
     {
       "slot": "RT",
-      "pos": "RT",
+      "pos": "OT",
       "profile": "RT",
       "group": "OL",
       "num": 65,
@@ -414,7 +414,7 @@
     },
     {
       "slot": "H",
-      "pos": "TE",
+      "pos": "TE/FB",
       "profile": "H",
       "group": "TE",
       "num": 82,
@@ -426,7 +426,7 @@
     },
     {
       "slot": "H",
-      "pos": "TE",
+      "pos": "TE/FB",
       "profile": "H",
       "group": "TE",
       "num": 80,
@@ -438,7 +438,7 @@
     },
     {
       "slot": "FB",
-      "pos": "FB",
+      "pos": "TE/FB",
       "profile": "FB",
       "group": "FB",
       "num": 21,
@@ -450,7 +450,7 @@
     },
     {
       "slot": "FB",
-      "pos": "FB",
+      "pos": "TE/FB",
       "profile": "FB",
       "group": "FB",
       "num": 45,
@@ -462,7 +462,7 @@
     },
     {
       "slot": "Slot",
-      "pos": "SLOT",
+      "pos": "WR",
       "profile": "Slot",
       "group": "WR",
       "num": 18,
@@ -474,7 +474,7 @@
     },
     {
       "slot": "Slot",
-      "pos": "SLOT",
+      "pos": "WR",
       "profile": "Slot",
       "group": "WR",
       "num": 19,
@@ -582,7 +582,7 @@
     },
     {
       "slot": "WILL",
-      "pos": "WILL",
+      "pos": "LB",
       "profile": "WILL",
       "group": "LB",
       "num": 42,
@@ -594,7 +594,7 @@
     },
     {
       "slot": "WILL",
-      "pos": "WILL",
+      "pos": "LB",
       "profile": "WILL",
       "group": "LB",
       "num": 57,
@@ -606,7 +606,7 @@
     },
     {
       "slot": "WILL",
-      "pos": "WILL",
+      "pos": "LB",
       "profile": "WILL",
       "group": "LB",
       "num": 40,
@@ -618,7 +618,7 @@
     },
     {
       "slot": "MIKE",
-      "pos": "MIKE",
+      "pos": "LB",
       "profile": "MIKE",
       "group": "LB",
       "num": 31,
@@ -630,7 +630,7 @@
     },
     {
       "slot": "MIKE",
-      "pos": "MIKE",
+      "pos": "LB",
       "profile": "MIKE",
       "group": "LB",
       "num": 53,
@@ -642,7 +642,7 @@
     },
     {
       "slot": "MIKE",
-      "pos": "MIKE",
+      "pos": "LB",
       "profile": "MIKE",
       "group": "LB",
       "num": 34,
@@ -726,7 +726,7 @@
     },
     {
       "slot": "NB",
-      "pos": "NB",
+      "pos": "CB",
       "profile": "NB",
       "group": "DB",
       "num": 6,
@@ -738,7 +738,7 @@
     },
     {
       "slot": "NB",
-      "pos": "NB",
+      "pos": "CB",
       "profile": "NB",
       "group": "DB",
       "num": 24,
@@ -750,7 +750,7 @@
     },
     {
       "slot": "NB",
-      "pos": "NB",
+      "pos": "CB",
       "profile": "NB",
       "group": "DB",
       "num": 11,
@@ -762,7 +762,7 @@
     },
     {
       "slot": "FS",
-      "pos": "FS",
+      "pos": "S",
       "profile": "FS",
       "group": "DB",
       "num": 8,
@@ -774,7 +774,7 @@
     },
     {
       "slot": "FS",
-      "pos": "FS",
+      "pos": "S",
       "profile": "FS",
       "group": "DB",
       "num": 7,
@@ -786,7 +786,7 @@
     },
     {
       "slot": "FS",
-      "pos": "FS",
+      "pos": "S",
       "profile": "FS",
       "group": "DB",
       "num": 12,
@@ -798,7 +798,7 @@
     },
     {
       "slot": "SS",
-      "pos": "SS",
+      "pos": "S",
       "profile": "SS",
       "group": "DB",
       "num": 2,
@@ -810,7 +810,7 @@
     },
     {
       "slot": "SS",
-      "pos": "SS",
+      "pos": "S",
       "profile": "SS",
       "group": "DB",
       "num": 23,
@@ -822,7 +822,7 @@
     },
     {
       "slot": "SS",
-      "pos": "SS",
+      "pos": "S",
       "profile": "SS",
       "group": "DB",
       "num": 30,
@@ -834,7 +834,7 @@
     },
     {
       "slot": "SAM",
-      "pos": "SAM",
+      "pos": "LB",
       "profile": "SAM",
       "group": "LB",
       "num": 32,
@@ -846,7 +846,7 @@
     },
     {
       "slot": "SAM",
-      "pos": "SAM",
+      "pos": "LB",
       "profile": "SAM",
       "group": "LB",
       "num": 33,
@@ -858,7 +858,7 @@
     },
     {
       "slot": "SAM",
-      "pos": "SAM",
+      "pos": "LB",
       "profile": "SAM",
       "group": "LB",
       "num": 56,
@@ -870,7 +870,7 @@
     },
     {
       "slot": "NT",
-      "pos": "NT",
+      "pos": "DT",
       "profile": "NT",
       "group": "DL",
       "num": 63,
@@ -882,7 +882,7 @@
     },
     {
       "slot": "NT",
-      "pos": "NT",
+      "pos": "DT",
       "profile": "NT",
       "group": "DL",
       "num": 60,
@@ -894,7 +894,7 @@
     },
     {
       "slot": "JACK",
-      "pos": "JACK",
+      "pos": "LB",
       "profile": "JACK",
       "group": "LB",
       "num": 36,
@@ -906,7 +906,7 @@
     },
     {
       "slot": "JACK",
-      "pos": "JACK",
+      "pos": "LB",
       "profile": "JACK",
       "group": "LB",
       "num": 48,
@@ -918,7 +918,7 @@
     },
     {
       "slot": "JACK",
-      "pos": "JACK",
+      "pos": "LB",
       "profile": "JACK",
       "group": "LB",
       "num": 45,

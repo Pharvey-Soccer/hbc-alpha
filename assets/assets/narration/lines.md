@@ -694,7 +694,7 @@ These are not detected triggers: every play has some version of them.
 - ~ Flags on both sides -- offsetting penalties, replay the down
 
 ## firedUp
-- {{player}} is fired up!
+- {{player}} is Fired Up!
 
 ## slowToGetUp
 - {{player}} is slow to get up

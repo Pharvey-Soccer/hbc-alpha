@@ -1,0 +1,405 @@
+{
+ "source": "HBC Player Portraits 2.psd",
+ "size": 48,
+ "layers": [
+  {
+   "id": "base/big_1",
+   "category": "base",
+   "family": "big",
+   "path": "assets/portraits/base/big_1.png",
+   "source": "BASES/Big"
+  },
+  {
+   "id": "base/skinny_1",
+   "category": "base",
+   "family": "skinny",
+   "path": "assets/portraits/base/skinny_1.png",
+   "source": "BASES/Skinny"
+  },
+  {
+   "id": "base/fat_1",
+   "category": "base",
+   "family": "fat",
+   "path": "assets/portraits/base/fat_1.png",
+   "source": "BASES/Fat"
+  },
+  {
+   "id": "face/white_1",
+   "category": "face",
+   "family": "white",
+   "path": "assets/portraits/face/white_1.png",
+   "source": "FACES/White 1"
+  },
+  {
+   "id": "face/white_2",
+   "category": "face",
+   "family": "white",
+   "path": "assets/portraits/face/white_2.png",
+   "source": "FACES/White 2"
+  },
+  {
+   "id": "face/white_3",
+   "category": "face",
+   "family": "white",
+   "path": "assets/portraits/face/white_3.png",
+   "source": "FACES/White 3"
+  },
+  {
+   "id": "face/white_4",
+   "category": "face",
+   "family": "white",
+   "path": "assets/portraits/face/white_4.png",
+   "source": "FACES/White 4"
+  },
+  {
+   "id": "face/white_5",
+   "category": "face",
+   "family": "white",
+   "path": "assets/portraits/face/white_5.png",
+   "source": "FACES/White 5"
+  },
+  {
+   "id": "face/white_6",
+   "category": "face",
+   "family": "white",
+   "path": "assets/portraits/face/white_6.png",
+   "source": "FACES/White 6"
+  },
+  {
+   "id": "face/white_7",
+   "category": "face",
+   "family": "white",
+   "path": "assets/portraits/face/white_7.png",
+   "source": "FACES/White 7"
+  },
+  {
+   "id": "face/black_1",
+   "category": "face",
+   "family": "black",
+   "path": "assets/portraits/face/black_1.png",
+   "source": "FACES/Black 1"
+  },
+  {
+   "id": "face/black_2",
+   "category": "face",
+   "family": "black",
+   "path": "assets/portraits/face/black_2.png",
+   "source": "FACES/Black 2"
+  },
+  {
+   "id": "face/black_3",
+   "category": "face",
+   "family": "black",
+   "path": "assets/portraits/face/black_3.png",
+   "source": "FACES/Black 3"
+  },
+  {
+   "id": "face/black_4",
+   "category": "face",
+   "family": "black",
+   "path": "assets/portraits/face/black_4.png",
+   "source": "FACES/Black 4"
+  },
+  {
+   "id": "face/black_5",
+   "category": "face",
+   "family": "black",
+   "path": "assets/portraits/face/black_5.png",
+   "source": "FACES/Black 5"
+  },
+  {
+   "id": "face/black_6",
+   "category": "face",
+   "family": "black",
+   "path": "assets/portraits/face/black_6.png",
+   "source": "FACES/Black 6"
+  },
+  {
+   "id": "face/black_7",
+   "category": "face",
+   "family": "black",
+   "path": "assets/portraits/face/black_7.png",
+   "source": "FACES/Black 7"
+  },
+  {
+   "id": "face/asian_1",
+   "category": "face",
+   "family": "asian",
+   "path": "assets/portraits/face/asian_1.png",
+   "source": "FACES/Asian 1"
+  },
+  {
+   "id": "face/asian_2",
+   "category": "face",
+   "family": "asian",
+   "path": "assets/portraits/face/asian_2.png",
+   "source": "FACES/Asian 2"
+  },
+  {
+   "id": "face/asian_3",
+   "category": "face",
+   "family": "asian",
+   "path": "assets/portraits/face/asian_3.png",
+   "source": "FACES/Asian 3"
+  },
+  {
+   "id": "face/asian_4",
+   "category": "face",
+   "family": "asian",
+   "path": "assets/portraits/face/asian_4.png",
+   "source": "FACES/Asian 4"
+  },
+  {
+   "id": "face/pi_1",
+   "category": "face",
+   "family": "pi",
+   "path": "assets/portraits/face/pi_1.png",
+   "source": "FACES/PI 1"
+  },
+  {
+   "id": "face/pi_2",
+   "category": "face",
+   "family": "pi",
+   "path": "assets/portraits/face/pi_2.png",
+   "source": "FACES/PI 2"
+  },
+  {
+   "id": "face/pi_3",
+   "category": "face",
+   "family": "pi",
+   "path": "assets/portraits/face/pi_3.png",
+   "source": "FACES/PI 3"
+  },
+  {
+   "id": "face/pi_4",
+   "category": "face",
+   "family": "pi",
+   "path": "assets/portraits/face/pi_4.png",
+   "source": "FACES/PI 4"
+  },
+  {
+   "id": "shirt/jersey_1",
+   "category": "shirt",
+   "family": "jersey",
+   "path": "assets/portraits/shirt/jersey_1.png",
+   "source": "ROOT/Shirt 1"
+  },
+  {
+   "id": "beard/dark_1",
+   "category": "beard",
+   "family": "dark",
+   "path": "assets/portraits/beard/dark_1.png",
+   "source": "BEARDS/Dark Beard 1"
+  },
+  {
+   "id": "beard/dark_2",
+   "category": "beard",
+   "family": "dark",
+   "path": "assets/portraits/beard/dark_2.png",
+   "source": "BEARDS/Dark Beard 2"
+  },
+  {
+   "id": "beard/dark_3",
+   "category": "beard",
+   "family": "dark",
+   "path": "assets/portraits/beard/dark_3.png",
+   "source": "BEARDS/Dark Beard 3"
+  },
+  {
+   "id": "beard/dark_4",
+   "category": "beard",
+   "family": "dark",
+   "path": "assets/portraits/beard/dark_4.png",
+   "source": "BEARDS/Dark Beard  4"
+  },
+  {
+   "id": "beard/light_1",
+   "category": "beard",
+   "family": "light",
+   "path": "assets/portraits/beard/light_1.png",
+   "source": "BEARDS/White Beard 1"
+  },
+  {
+   "id": "beard/light_2",
+   "category": "beard",
+   "family": "light",
+   "path": "assets/portraits/beard/light_2.png",
+   "source": "BEARDS/White Beard 2"
+  },
+  {
+   "id": "beard/light_3",
+   "category": "beard",
+   "family": "light",
+   "path": "assets/portraits/beard/light_3.png",
+   "source": "BEARDS/White Beard 3"
+  },
+  {
+   "id": "beard/light_4",
+   "category": "beard",
+   "family": "light",
+   "path": "assets/portraits/beard/light_4.png",
+   "source": "BEARDS/White Beard 4"
+  },
+  {
+   "id": "hair/white_1",
+   "category": "hair",
+   "family": "white",
+   "path": "assets/portraits/hair/white_1.png",
+   "source": "HAIR/White H1"
+  },
+  {
+   "id": "hair/white_2",
+   "category": "hair",
+   "family": "white",
+   "path": "assets/portraits/hair/white_2.png",
+   "source": "HAIR/White H2"
+  },
+  {
+   "id": "hair/white_3",
+   "category": "hair",
+   "family": "white",
+   "path": "assets/portraits/hair/white_3.png",
+   "source": "HAIR/White H3"
+  },
+  {
+   "id": "hair/white_4",
+   "category": "hair",
+   "family": "white",
+   "path": "assets/portraits/hair/white_4.png",
+   "source": "HAIR/White H4"
+  },
+  {
+   "id": "hair/white_5",
+   "category": "hair",
+   "family": "white",
+   "path": "assets/portraits/hair/white_5.png",
+   "source": "HAIR/White H5"
+  },
+  {
+   "id": "hair/white_6",
+   "category": "hair",
+   "family": "white",
+   "path": "assets/portraits/hair/white_6.png",
+   "source": "HAIR/White H6"
+  },
+  {
+   "id": "hair/white_7",
+   "category": "hair",
+   "family": "white",
+   "path": "assets/portraits/hair/white_7.png",
+   "source": "HAIR/White H7"
+  },
+  {
+   "id": "hair/black_4",
+   "category": "hair",
+   "family": "black",
+   "path": "assets/portraits/hair/black_4.png",
+   "source": "HAIR/Black H4"
+  },
+  {
+   "id": "hair/black_5",
+   "category": "hair",
+   "family": "black",
+   "path": "assets/portraits/hair/black_5.png",
+   "source": "HAIR/Black H5"
+  },
+  {
+   "id": "hair/black_6",
+   "category": "hair",
+   "family": "black",
+   "path": "assets/portraits/hair/black_6.png",
+   "source": "HAIR/Black H6"
+  },
+  {
+   "id": "hair/bapi_5",
+   "category": "hair",
+   "family": "bapi",
+   "path": "assets/portraits/hair/bapi_5.png",
+   "source": "HAIR/BAPI 5"
+  },
+  {
+   "id": "hair/bapi_4",
+   "category": "hair",
+   "family": "bapi",
+   "path": "assets/portraits/hair/bapi_4.png",
+   "source": "HAIR/BAPI 4"
+  },
+  {
+   "id": "hair/bapi_3",
+   "category": "hair",
+   "family": "bapi",
+   "path": "assets/portraits/hair/bapi_3.png",
+   "source": "HAIR/BAPI 3"
+  },
+  {
+   "id": "hair/bapi_2",
+   "category": "hair",
+   "family": "bapi",
+   "path": "assets/portraits/hair/bapi_2.png",
+   "source": "HAIR/BAPI 2"
+  },
+  {
+   "id": "hair/bapi_1",
+   "category": "hair",
+   "family": "bapi",
+   "path": "assets/portraits/hair/bapi_1.png",
+   "source": "HAIR/BAPI 1"
+  },
+  {
+   "id": "hair/aapi_1",
+   "category": "hair",
+   "family": "aapi",
+   "path": "assets/portraits/hair/aapi_1.png",
+   "source": "HAIR/AAPI H1"
+  },
+  {
+   "id": "hair/aapi_2",
+   "category": "hair",
+   "family": "aapi",
+   "path": "assets/portraits/hair/aapi_2.png",
+   "source": "HAIR/AAPI H2"
+  },
+  {
+   "id": "brows/light_1",
+   "category": "brows",
+   "family": "light",
+   "path": "assets/portraits/brows/light_1.png",
+   "source": "BROWS/Light 1"
+  },
+  {
+   "id": "brows/light_2",
+   "category": "brows",
+   "family": "light",
+   "path": "assets/portraits/brows/light_2.png",
+   "source": "BROWS/Light 2"
+  },
+  {
+   "id": "brows/light_3",
+   "category": "brows",
+   "family": "light",
+   "path": "assets/portraits/brows/light_3.png",
+   "source": "BROWS/Light 3"
+  },
+  {
+   "id": "brows/dark_1",
+   "category": "brows",
+   "family": "dark",
+   "path": "assets/portraits/brows/dark_1.png",
+   "source": "BROWS/Dark 1"
+  },
+  {
+   "id": "brows/dark_2",
+   "category": "brows",
+   "family": "dark",
+   "path": "assets/portraits/brows/dark_2.png",
+   "source": "BROWS/Dark 2"
+  },
+  {
+   "id": "brows/dark_3",
+   "category": "brows",
+   "family": "dark",
+   "path": "assets/portraits/brows/dark_3.png",
+   "source": "BROWS/Dark 3"
+  }
+ ]
+}

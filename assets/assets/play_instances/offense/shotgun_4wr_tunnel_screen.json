@@ -1,0 +1,101 @@
+{
+  "id": "shotgun_4wr_tunnel_screen",
+  "play_family": "Tunnel Screen",
+  "category": "Short Pass",
+  "formation": "Shotgun 4WR",
+  "personnel": "4WR/1RB",
+  "protection_scheme": {
+    "type": "Man",
+    "assignments": {
+      "LT": "C_L",
+      "LG": "B_L",
+      "C": "A_R",
+      "RG": "B_R",
+      "RT": "C_R",
+      "RB": "B_R"
+    }
+  },
+  "qb_read_order": [
+    "Z"
+  ],
+  "notes": "The author's design (§253): Slot R stalk blocks while C, RG and RT all run right to block in Wide Right space. Z runs left and into the backfield toward the QB, from SL Right to Boundary Right; when the catch is made he turns upfield with the linemen, who should now be in front of him. The backside receivers clear out; the back stays in.",
+  "players": [
+    {
+      "role": "QB",
+      "position_group": "QB",
+      "starting_zone": "Pocket",
+      "assignment_type": "dropback",
+      "assignment": null
+    },
+    {
+      "role": "X",
+      "position_group": "WR",
+      "starting_zone": "SL_L",
+      "assignment_type": "route",
+      "assignment": "Go"
+    },
+    {
+      "role": "Slot L",
+      "position_group": "WR",
+      "starting_zone": "W_L",
+      "assignment_type": "route",
+      "assignment": "Go"
+    },
+    {
+      "role": "Z",
+      "position_group": "WR",
+      "starting_zone": "SL_R",
+      "assignment_type": "route",
+      "assignment": "Tunnel Screen"
+    },
+    {
+      "role": "Slot R",
+      "position_group": "WR",
+      "starting_zone": "W_R",
+      "assignment_type": "block",
+      "assignment": "Stalk Block"
+    },
+    {
+      "role": "RB",
+      "position_group": "RB",
+      "starting_zone": "Pocket",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "LT",
+      "position_group": "OL",
+      "starting_zone": "C_L",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "LG",
+      "position_group": "OL",
+      "starting_zone": "B_L",
+      "assignment_type": "block",
+      "assignment": "Pass Block"
+    },
+    {
+      "role": "C",
+      "position_group": "OL",
+      "starting_zone": "A_R",
+      "assignment_type": "block",
+      "assignment": "Screen Block"
+    },
+    {
+      "role": "RG",
+      "position_group": "OL",
+      "starting_zone": "B_R",
+      "assignment_type": "block",
+      "assignment": "Screen Block"
+    },
+    {
+      "role": "RT",
+      "position_group": "OL",
+      "starting_zone": "C_R",
+      "assignment_type": "block",
+      "assignment": "Screen Block"
+    }
+  ]
+}

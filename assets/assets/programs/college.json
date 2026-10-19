@@ -17,7 +17,9 @@
   "srs": 6.24,
   "winPct": 0.547,
   "academicsRank": 138.0,
-  "logo": "assets/logos/college/bay_area_barons.svg"
+  "logo": "assets/logos/college/bay_area_barons.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#8C1515"
  },
  {
   "id": "durham_smokers",
@@ -37,7 +39,9 @@
   "srs": 2.68,
   "winPct": 0.49,
   "academicsRank": 137.0,
-  "logo": "assets/logos/college/durham_smokers.svg"
+  "logo": "assets/logos/college/durham_smokers.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#003087"
  },
  {
   "id": "air_school_wild_blue",
@@ -57,7 +61,9 @@
   "srs": 1.09,
   "winPct": 0.55,
   "academicsRank": 137.0,
-  "logo": "assets/logos/college/air_school_wild_blue.svg"
+  "logo": "assets/logos/college/air_school_wild_blue.svg",
+  "textColor": "#8A8D8F",
+  "textShadow": "#003087"
  },
  {
   "id": "evanston_elites",
@@ -77,7 +83,9 @@
   "srs": 2.82,
   "winPct": 0.446,
   "academicsRank": 135.0,
-  "logo": "assets/logos/college/evanston_elites.svg"
+  "logo": "assets/logos/college/evanston_elites.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#4E2A84"
  },
  {
   "id": "boat_academy_battleships",
@@ -97,7 +105,9 @@
   "srs": 3.88,
   "winPct": 0.551,
   "academicsRank": 134.0,
-  "logo": "assets/logos/college/boat_academy_battleships.svg"
+  "logo": "assets/logos/college/boat_academy_battleships.svg",
+  "textColor": "#C5B783",
+  "textShadow": "#00205B"
  },
  {
   "id": "los_angeles_superstars",
@@ -117,7 +127,9 @@
   "srs": 8.89,
   "winPct": 0.592,
   "academicsRank": 133.0,
-  "logo": "assets/logos/college/los_angeles_superstars.svg"
+  "logo": "assets/logos/college/los_angeles_superstars.svg",
+  "textColor": "#F2A900",
+  "textShadow": "#2D68C4"
  },
  {
   "id": "golden_state_grizzlies",
@@ -137,7 +149,9 @@
   "srs": 5.11,
   "winPct": 0.522,
   "academicsRank": 133.0,
-  "logo": "assets/logos/college/golden_state_grizzlies.svg"
+  "logo": "assets/logos/college/golden_state_grizzlies.svg",
+  "textColor": "#FDB515",
+  "textShadow": "#003262"
  },
  {
   "id": "space_city_screechers",
@@ -157,7 +171,9 @@
   "srs": -0.71,
   "winPct": 0.427,
   "academicsRank": 131.0,
-  "logo": "assets/logos/college/space_city_screechers.svg"
+  "logo": "assets/logos/college/space_city_screechers.svg",
+  "textColor": "#C1C6C8",
+  "textShadow": "#00205B"
  },
  {
   "id": "cornelius_ferrymen",
@@ -177,7 +193,9 @@
   "srs": 3.46,
   "winPct": 0.469,
   "academicsRank": 130.0,
-  "logo": "assets/logos/college/cornelius_ferrymen.svg"
+  "logo": "assets/logos/college/cornelius_ferrymen.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#866D4B"
  },
  {
   "id": "our_lady_gallowglasses",
@@ -197,7 +215,9 @@
   "srs": 14.87,
   "winPct": 0.731,
   "academicsRank": 129.0,
-  "logo": "assets/logos/college/our_lady_gallowglasses.svg"
+  "logo": "assets/logos/college/our_lady_gallowglasses.svg",
+  "textColor": "#C99700",
+  "textShadow": "#0C2340"
  },
  {
   "id": "ann_arbor_aardvarks",
@@ -217,7 +237,9 @@
   "srs": 13.8,
   "winPct": 0.732,
   "academicsRank": 128.0,
-  "logo": "assets/logos/college/ann_arbor_aardvarks.svg"
+  "logo": "assets/logos/college/ann_arbor_aardvarks.svg",
+  "textColor": "#FFCB05",
+  "textShadow": "#00274C"
  },
  {
   "id": "ground_school_tanks",
@@ -237,7 +259,9 @@
   "srs": 3.29,
   "winPct": 0.57,
   "academicsRank": 128.0,
-  "logo": "assets/logos/college/ground_school_tanks.svg"
+  "logo": "assets/logos/college/ground_school_tanks.svg",
+  "textColor": "#D4BF91",
+  "textShadow": "#000000"
  },
  {
   "id": "chapel_hill_anglers",
@@ -257,7 +281,9 @@
   "srs": 4.64,
   "winPct": 0.554,
   "academicsRank": 126.0,
-  "logo": "assets/logos/college/chapel_hill_anglers.svg"
+  "logo": "assets/logos/college/chapel_hill_anglers.svg",
+  "textColor": "#7BAFD4",
+  "textShadow": "#13294B"
  },
  {
   "id": "charlottesville_chargers",
@@ -277,7 +303,9 @@
   "srs": 1.06,
   "winPct": 0.499,
   "academicsRank": 125.0,
-  "logo": "assets/logos/college/charlottesville_chargers.svg"
+  "logo": "assets/logos/college/charlottesville_chargers.svg",
+  "textColor": "#F84C1E",
+  "textShadow": "#232D4B"
  },
  {
   "id": "southland_dardanians",
@@ -297,7 +325,9 @@
   "srs": 13.79,
   "winPct": 0.698,
   "academicsRank": 124.0,
-  "logo": "assets/logos/college/southland_dardanians.svg"
+  "logo": "assets/logos/college/southland_dardanians.svg",
+  "textColor": "#FFCC00",
+  "textShadow": "#990000"
  },
  {
   "id": "gainesville_iguanas",
@@ -317,7 +347,9 @@
   "srs": 8.87,
   "winPct": 0.62,
   "academicsRank": 124.0,
-  "logo": "assets/logos/college/gainesville_iguanas.svg"
+  "logo": "assets/logos/college/gainesville_iguanas.svg",
+  "textColor": "#FA4616",
+  "textShadow": "#0021A5"
  },
  {
   "id": "austin_cattlemen",
@@ -337,7 +369,9 @@
   "srs": 11.97,
   "winPct": 0.699,
   "academicsRank": 122.0,
-  "logo": "assets/logos/college/austin_cattlemen.svg"
+  "logo": "assets/logos/college/austin_cattlemen.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#BF5700"
  },
  {
   "id": "atlanta_ramblers",
@@ -357,7 +391,9 @@
   "srs": 8.26,
   "winPct": 0.589,
   "academicsRank": 121.0,
-  "logo": "assets/logos/college/atlanta_ramblers.svg"
+  "logo": "assets/logos/college/atlanta_ramblers.svg",
+  "textColor": "#B3A369",
+  "textShadow": "#003057"
  },
  {
   "id": "madison_bombers",
@@ -377,7 +413,9 @@
   "srs": 8.19,
   "winPct": 0.582,
   "academicsRank": 120.0,
-  "logo": "assets/logos/college/madison_bombers.svg"
+  "logo": "assets/logos/college/madison_bombers.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#C5050C"
  },
  {
   "id": "champagne_locomotives",
@@ -397,7 +435,9 @@
   "srs": 5.98,
   "winPct": 0.504,
   "academicsRank": 120.0,
-  "logo": "assets/logos/college/champagne_locomotives.svg"
+  "logo": "assets/logos/college/champagne_locomotives.svg",
+  "textColor": "#E84A27",
+  "textShadow": "#13294B"
  },
  {
   "id": "boston_chestnuts",
@@ -417,7 +457,9 @@
   "srs": 1.74,
   "winPct": 0.549,
   "academicsRank": 118.0,
-  "logo": "assets/logos/college/boston_chestnuts.svg"
+  "logo": "assets/logos/college/boston_chestnuts.svg",
+  "textColor": "#BC9B6A",
+  "textShadow": "#800000"
  },
  {
   "id": "seattle_sledders",
@@ -437,7 +479,9 @@
   "srs": 8.13,
   "winPct": 0.601,
   "academicsRank": 117.0,
-  "logo": "assets/logos/college/seattle_sledders.svg"
+  "logo": "assets/logos/college/seattle_sledders.svg",
+  "textColor": "#B7A57A",
+  "textShadow": "#4B2E83"
  },
  {
   "id": "piscataway_pandemonium",
@@ -457,7 +501,9 @@
   "srs": -2.98,
   "winPct": 0.492,
   "academicsRank": 117.0,
-  "logo": "assets/logos/college/piscataway_pandemonium.svg"
+  "logo": "assets/logos/college/piscataway_pandemonium.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#CC0033"
  },
  {
   "id": "columbus_state_walnuts",
@@ -477,7 +523,9 @@
   "srs": 15.44,
   "winPct": 0.758,
   "academicsRank": 115.0,
-  "logo": "assets/logos/college/columbus_state_walnuts.svg"
+  "logo": "assets/logos/college/columbus_state_walnuts.svg",
+  "textColor": "#B0B7BC",
+  "textShadow": "#CE0F3D"
  },
  {
   "id": "fort_wayne_engineers",
@@ -497,7 +545,9 @@
   "srs": 5.42,
   "winPct": 0.507,
   "academicsRank": 115.0,
-  "logo": "assets/logos/college/fort_wayne_engineers.svg"
+  "logo": "assets/logos/college/fort_wayne_engineers.svg",
+  "textColor": "#CEB888",
+  "textShadow": "#000000"
  },
  {
   "id": "chesapeake_shellbacks",
@@ -517,7 +567,9 @@
   "srs": 2.43,
   "winPct": 0.518,
   "academicsRank": 113.0,
-  "logo": "assets/logos/college/chesapeake_shellbacks.svg"
+  "logo": "assets/logos/college/chesapeake_shellbacks.svg",
+  "textColor": "#FFD520",
+  "textShadow": "#E21833"
  },
  {
   "id": "athens_pit_bulls",
@@ -537,7 +589,9 @@
   "srs": 10.74,
   "winPct": 0.674,
   "academicsRank": 112.0,
-  "logo": "assets/logos/college/athens_pit_bulls.svg"
+  "logo": "assets/logos/college/athens_pit_bulls.svg",
+  "textColor": "#BA0C2F",
+  "textShadow": "#FFFFFF"
  },
  {
   "id": "college_station_collies",
@@ -557,7 +611,9 @@
   "srs": 8.05,
   "winPct": 0.605,
   "academicsRank": 112.0,
-  "logo": "assets/logos/college/college_station_collies.svg"
+  "logo": "assets/logos/college/college_station_collies.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#500000"
  },
  {
   "id": "blacksburg_gobblers",
@@ -577,7 +633,9 @@
   "srs": 3.16,
   "winPct": 0.594,
   "academicsRank": 112.0,
-  "logo": "assets/logos/college/blacksburg_gobblers.svg"
+  "logo": "assets/logos/college/blacksburg_gobblers.svg",
+  "textColor": "#CF4420",
+  "textShadow": "#630031"
  },
  {
   "id": "winston_salem_moravians",
@@ -597,7 +655,9 @@
   "srs": -2.29,
   "winPct": 0.419,
   "academicsRank": 112.0,
-  "logo": "assets/logos/college/winston_salem_moravians.svg"
+  "logo": "assets/logos/college/winston_salem_moravians.svg",
+  "textColor": "#9E7E38",
+  "textShadow": "#000000"
  },
  {
   "id": "sacramento_sting",
@@ -617,7 +677,9 @@
   "srs": null,
   "winPct": null,
   "academicsRank": 108.0,
-  "logo": "assets/logos/college/sacramento_sting.svg"
+  "logo": "assets/logos/college/sacramento_sting.svg",
+  "textColor": "#C4B581",
+  "textShadow": "#043927"
  },
  {
   "id": "tallahassee_state_bowlegs",
@@ -637,7 +699,9 @@
   "srs": 10.58,
   "winPct": 0.667,
   "academicsRank": 107.0,
-  "logo": "assets/logos/college/tallahassee_state_bowlegs.svg"
+  "logo": "assets/logos/college/tallahassee_state_bowlegs.svg",
+  "textColor": "#CEB888",
+  "textShadow": "#782F40"
  },
  {
   "id": "minneapolis_rousers",
@@ -657,7 +721,9 @@
   "srs": 8.16,
   "winPct": 0.572,
   "academicsRank": 107.0,
-  "logo": "assets/logos/college/minneapolis_rousers.svg"
+  "logo": "assets/logos/college/minneapolis_rousers.svg",
+  "textColor": "#FFCC33",
+  "textShadow": "#7A0019"
  },
  {
   "id": "connecticut_aggies",
@@ -677,7 +743,9 @@
   "srs": -6.18,
   "winPct": 0.418,
   "academicsRank": 105.0,
-  "logo": "assets/logos/college/connecticut_aggies.svg"
+  "logo": "assets/logos/college/connecticut_aggies.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#000E2F"
  },
  {
   "id": "amherst_revolution",
@@ -697,7 +765,9 @@
   "srs": -12.02,
   "winPct": 0.275,
   "academicsRank": 105.0,
-  "logo": "assets/logos/college/amherst_revolution.svg"
+  "logo": "assets/logos/college/amherst_revolution.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#881C1C"
  },
  {
   "id": "state_college_ironmasters",
@@ -717,7 +787,9 @@
   "srs": 9.4,
   "winPct": 0.688,
   "academicsRank": 103.0,
-  "logo": "assets/logos/college/state_college_ironmasters.svg"
+  "logo": "assets/logos/college/state_college_ironmasters.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#041E42"
  },
  {
   "id": "east_lansing_etruscans",
@@ -737,7 +809,9 @@
   "srs": 8.77,
   "winPct": 0.592,
   "academicsRank": 103.0,
-  "logo": "assets/logos/college/east_lansing_etruscans.svg"
+  "logo": "assets/logos/college/east_lansing_etruscans.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#18453B"
  },
  {
   "id": "raleigh_ridgebacks",
@@ -757,7 +831,9 @@
   "srs": 1.77,
   "winPct": 0.515,
   "academicsRank": 103.0,
-  "logo": "assets/logos/college/raleigh_ridgebacks.svg"
+  "logo": "assets/logos/college/raleigh_ridgebacks.svg",
+  "textColor": "#CC0000",
+  "textShadow": "#000000"
  },
  {
   "id": "miami_chain_gang",
@@ -777,7 +853,9 @@
   "srs": 8.88,
   "winPct": 0.638,
   "academicsRank": 100.0,
-  "logo": "assets/logos/college/miami_chain_gang.svg"
+  "logo": "assets/logos/college/miami_chain_gang.svg",
+  "textColor": "#F47321",
+  "textShadow": "#005030"
  },
  {
   "id": "pittsburgh_pile_drivers",
@@ -797,7 +875,9 @@
   "srs": 7.14,
   "winPct": 0.581,
   "academicsRank": 100.0,
-  "logo": "assets/logos/college/pittsburgh_pile_drivers.svg"
+  "logo": "assets/logos/college/pittsburgh_pile_drivers.svg",
+  "textColor": "#FFB81C",
+  "textShadow": "#003594"
  },
  {
   "id": "syracuse_dutchmen",
@@ -817,7 +897,9 @@
   "srs": 4.05,
   "winPct": 0.567,
   "academicsRank": 100.0,
-  "logo": "assets/logos/college/syracuse_dutchmen.svg"
+  "logo": "assets/logos/college/syracuse_dutchmen.svg",
+  "textColor": "#D44500",
+  "textShadow": "#000E54"
  },
  {
   "id": "bloomington_ballers",
@@ -837,7 +919,9 @@
   "srs": 2.27,
   "winPct": 0.426,
   "academicsRank": 97.0,
-  "logo": "assets/logos/college/bloomington_ballers.svg"
+  "logo": "assets/logos/college/bloomington_ballers.svg",
+  "textColor": "#EEEDEB",
+  "textShadow": "#990000"
  },
  {
   "id": "new_orleans_surge",
@@ -857,7 +941,9 @@
   "srs": 0.5,
   "winPct": 0.461,
   "academicsRank": 97.0,
-  "logo": "assets/logos/college/new_orleans_surge.svg"
+  "logo": "assets/logos/college/new_orleans_surge.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#006747"
  },
  {
   "id": "delaware_winged_warriors",
@@ -877,7 +963,9 @@
   "srs": -8.16,
   "winPct": 0.538,
   "academicsRank": 95.0,
-  "logo": "assets/logos/college/delaware_winged_warriors.svg"
+  "logo": "assets/logos/college/delaware_winged_warriors.svg",
+  "textColor": "#FFD200",
+  "textShadow": "#00539F"
  },
  {
   "id": "calhoun_cubs",
@@ -897,7 +985,9 @@
   "srs": 5.86,
   "winPct": 0.622,
   "academicsRank": 94.0,
-  "logo": "assets/logos/college/calhoun_cubs.svg"
+  "logo": "assets/logos/college/calhoun_cubs.svg",
+  "textColor": "#F56600",
+  "textShadow": "#522D80"
  },
  {
   "id": "dallas_appaloosas",
@@ -917,7 +1007,9 @@
   "srs": 2.31,
   "winPct": 0.494,
   "academicsRank": 93.0,
-  "logo": "assets/logos/college/dallas_appaloosas.svg"
+  "logo": "assets/logos/college/dallas_appaloosas.svg",
+  "textColor": "#CC0000",
+  "textShadow": "#0033A0"
  },
  {
   "id": "tampa_state_chargers",
@@ -937,7 +1029,9 @@
   "srs": -0.89,
   "winPct": 0.521,
   "academicsRank": 93.0,
-  "logo": "assets/logos/college/tampa_state_chargers.svg"
+  "logo": "assets/logos/college/tampa_state_chargers.svg",
+  "textColor": "#CFC493",
+  "textShadow": "#006747"
  },
  {
   "id": "philadelphia_watchmen",
@@ -957,7 +1051,9 @@
   "srs": -3.5,
   "winPct": 0.433,
   "academicsRank": 93.0,
-  "logo": "assets/logos/college/philadelphia_watchmen.svg"
+  "logo": "assets/logos/college/philadelphia_watchmen.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#9D2235"
  },
  {
   "id": "sougahatchee_tiger_sharks",
@@ -977,7 +1073,9 @@
   "srs": 8.79,
   "winPct": 0.618,
   "academicsRank": 90.0,
-  "logo": "assets/logos/college/sougahatchee_tiger_sharks.svg"
+  "logo": "assets/logos/college/sougahatchee_tiger_sharks.svg",
+  "textColor": "#E87722",
+  "textShadow": "#0C2340"
  },
  {
   "id": "waco_warriors",
@@ -997,7 +1095,9 @@
   "srs": 2.82,
   "winPct": 0.51,
   "academicsRank": 90.0,
-  "logo": "assets/logos/college/waco_warriors.svg"
+  "logo": "assets/logos/college/waco_warriors.svg",
+  "textColor": "#FFB81C",
+  "textShadow": "#154734"
  },
  {
   "id": "iowa_city_grapplers",
@@ -1017,7 +1117,9 @@
   "srs": 6.92,
   "winPct": 0.548,
   "academicsRank": 90.0,
-  "logo": "assets/logos/college/iowa_city_grapplers.svg"
+  "logo": "assets/logos/college/iowa_city_grapplers.svg",
+  "textColor": "#FFCD00",
+  "textShadow": "#000000"
  },
  {
   "id": "eugene_mallards",
@@ -1037,7 +1139,9 @@
   "srs": 5.95,
   "winPct": 0.578,
   "academicsRank": 87.0,
-  "logo": "assets/logos/college/eugene_mallards.svg"
+  "logo": "assets/logos/college/eugene_mallards.svg",
+  "textColor": "#FEE123",
+  "textShadow": "#154733"
  },
  {
   "id": "ft_worth_gila_monsters",
@@ -1057,7 +1161,9 @@
   "srs": 2.99,
   "winPct": 0.546,
   "academicsRank": 87.0,
-  "logo": "assets/logos/college/ft_worth_gila_monsters.svg"
+  "logo": "assets/logos/college/ft_worth_gila_monsters.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#4D1979"
  },
  {
   "id": "knoxville_shiners",
@@ -1077,7 +1183,9 @@
   "srs": 10.08,
   "winPct": 0.676,
   "academicsRank": 85.0,
-  "logo": "assets/logos/college/knoxville_shiners.svg"
+  "logo": "assets/logos/college/knoxville_shiners.svg",
+  "textColor": "#FF8200",
+  "textShadow": "#FFFFFF"
  },
  {
   "id": "boulder_bison",
@@ -1097,7 +1205,9 @@
   "srs": 3.85,
   "winPct": 0.561,
   "academicsRank": 85.0,
-  "logo": "assets/logos/college/boulder_bison.svg"
+  "logo": "assets/logos/college/boulder_bison.svg",
+  "textColor": "#CFB87C",
+  "textShadow": "#000000"
  },
  {
   "id": "tempe_diablos",
@@ -1117,7 +1227,9 @@
   "srs": 3.53,
   "winPct": 0.609,
   "academicsRank": 85.0,
-  "logo": "assets/logos/college/tempe_diablos.svg"
+  "logo": "assets/logos/college/tempe_diablos.svg",
+  "textColor": "#FFC627",
+  "textShadow": "#8C1D40"
  },
  {
   "id": "san_diego_pyramids",
@@ -1137,7 +1249,9 @@
   "srs": -0.27,
   "winPct": 0.555,
   "academicsRank": 85.0,
-  "logo": "assets/logos/college/san_diego_pyramids.svg"
+  "logo": "assets/logos/college/san_diego_pyramids.svg",
+  "textColor": "#CC0000",
+  "textShadow": "#000000"
  },
  {
   "id": "provo_pikas",
@@ -1157,7 +1271,9 @@
   "srs": -0.43,
   "winPct": 0.586,
   "academicsRank": 81.0,
-  "logo": "assets/logos/college/provo_pikas.svg"
+  "logo": "assets/logos/college/provo_pikas.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#002E5D"
  },
  {
   "id": "salt_lake_lakers",
@@ -1177,7 +1293,9 @@
   "srs": 2.53,
   "winPct": 0.598,
   "academicsRank": 81.0,
-  "logo": "assets/logos/college/salt_lake_lakers.svg"
+  "logo": "assets/logos/college/salt_lake_lakers.svg",
+  "textColor": "#CC0000",
+  "textShadow": "#000000"
  },
  {
   "id": "ames_whirlybirds",
@@ -1197,7 +1315,9 @@
   "srs": 0.46,
   "winPct": 0.456,
   "academicsRank": 81.0,
-  "logo": "assets/logos/college/ames_whirlybirds.svg"
+  "logo": "assets/logos/college/ames_whirlybirds.svg",
+  "textColor": "#F1BE48",
+  "textShadow": "#C8102E"
  },
  {
   "id": "tucson_pronghorns",
@@ -1217,7 +1337,9 @@
   "srs": 1.45,
   "winPct": 0.525,
   "academicsRank": 81.0,
-  "logo": "assets/logos/college/tucson_pronghorns.svg"
+  "logo": "assets/logos/college/tucson_pronghorns.svg",
+  "textColor": "#CC0033",
+  "textShadow": "#003366"
  },
  {
   "id": "norman_state_normans",
@@ -1237,7 +1359,9 @@
   "srs": 12.34,
   "winPct": 0.724,
   "academicsRank": 77.0,
-  "logo": "assets/logos/college/norman_state_normans.svg"
+  "logo": "assets/logos/college/norman_state_normans.svg",
+  "textColor": "#FDF9D8",
+  "textShadow": "#841617"
  },
  {
   "id": "low_country_spurs",
@@ -1257,7 +1381,9 @@
   "srs": 2.27,
   "winPct": 0.509,
   "academicsRank": 77.0,
-  "logo": "assets/logos/college/low_country_spurs.svg"
+  "logo": "assets/logos/college/low_country_spurs.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#73000A"
  },
  {
   "id": "columbia_state_true_sons",
@@ -1277,7 +1403,9 @@
   "srs": 4.91,
   "winPct": 0.544,
   "academicsRank": 77.0,
-  "logo": "assets/logos/college/columbia_state_true_sons.svg"
+  "logo": "assets/logos/college/columbia_state_true_sons.svg",
+  "textColor": "#F1B82D",
+  "textShadow": "#000000"
  },
  {
   "id": "harrisonburg_presidents",
@@ -1297,7 +1425,9 @@
   "srs": 6.7,
   "winPct": 0.784,
   "academicsRank": 77.0,
-  "logo": "assets/logos/college/harrisonburg_presidents.svg"
+  "logo": "assets/logos/college/harrisonburg_presidents.svg",
+  "textColor": "#CBB677",
+  "textShadow": "#450084"
  },
  {
   "id": "orlando_claymores",
@@ -1317,7 +1447,9 @@
   "srs": 0.15,
   "winPct": 0.561,
   "academicsRank": 77.0,
-  "logo": "assets/logos/college/orlando_claymores.svg"
+  "logo": "assets/logos/college/orlando_claymores.svg",
+  "textColor": "#BA9B37",
+  "textShadow": "#000000"
  },
  {
   "id": "houston_slabs",
@@ -1337,7 +1469,9 @@
   "srs": 3.07,
   "winPct": 0.551,
   "academicsRank": 72.0,
-  "logo": "assets/logos/college/houston_slabs.svg"
+  "logo": "assets/logos/college/houston_slabs.svg",
+  "textColor": "#C8102E",
+  "textShadow": "#FFFFFF"
  },
  {
   "id": "miami_state_swoops",
@@ -1357,7 +1491,9 @@
   "srs": -3.6,
   "winPct": 0.56,
   "academicsRank": 72.0,
-  "logo": "assets/logos/college/miami_state_swoops.svg"
+  "logo": "assets/logos/college/miami_state_swoops.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#B61E2E"
  },
  {
   "id": "buffalo_yaks",
@@ -1377,7 +1513,9 @@
   "srs": -9.8,
   "winPct": 0.404,
   "academicsRank": 72.0,
-  "logo": "assets/logos/college/buffalo_yaks.svg"
+  "logo": "assets/logos/college/buffalo_yaks.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#005BBB"
  },
  {
   "id": "cincinnati_pandas",
@@ -1397,7 +1535,9 @@
   "srs": -2.09,
   "winPct": 0.509,
   "academicsRank": 69.0,
-  "logo": "assets/logos/college/cincinnati_pandas.svg"
+  "logo": "assets/logos/college/cincinnati_pandas.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#E00122"
  },
  {
   "id": "beaverton_runners",
@@ -1417,7 +1557,9 @@
   "srs": 1.63,
   "winPct": 0.453,
   "academicsRank": 69.0,
-  "logo": "assets/logos/college/beaverton_runners.svg"
+  "logo": "assets/logos/college/beaverton_runners.svg",
+  "textColor": "#DC4405",
+  "textShadow": "#000000"
  },
  {
   "id": "birmingham_komodos",
@@ -1437,7 +1579,9 @@
   "srs": -6.47,
   "winPct": 0.441,
   "academicsRank": 69.0,
-  "logo": "assets/logos/college/birmingham_komodos.svg"
+  "logo": "assets/logos/college/birmingham_komodos.svg",
+  "textColor": "#CC8A00",
+  "textShadow": "#006341"
  },
  {
   "id": "fort_collins_peanuts",
@@ -1457,7 +1601,9 @@
   "srs": -4.11,
   "winPct": 0.472,
   "academicsRank": 66.0,
-  "logo": "assets/logos/college/fort_collins_peanuts.svg"
+  "logo": "assets/logos/college/fort_collins_peanuts.svg",
+  "textColor": "#C8C372",
+  "textShadow": "#1E4D2B"
  },
  {
   "id": "lawrence_guerrillas",
@@ -1477,7 +1623,9 @@
   "srs": 0.98,
   "winPct": 0.456,
   "academicsRank": 66.0,
-  "logo": "assets/logos/college/lawrence_guerrillas.svg"
+  "logo": "assets/logos/college/lawrence_guerrillas.svg",
+  "textColor": "#0051BA",
+  "textShadow": "#E8000D"
  },
  {
   "id": "lincoln_hammers",
@@ -1497,7 +1645,9 @@
   "srs": 10.42,
   "winPct": 0.68,
   "academicsRank": 64.0,
-  "logo": "assets/logos/college/lincoln_hammers.svg"
+  "logo": "assets/logos/college/lincoln_hammers.svg",
+  "textColor": "#FDF2D9",
+  "textShadow": "#E41C38"
  },
  {
   "id": "lexington_thoroughbreds",
@@ -1517,7 +1667,9 @@
   "srs": 3.86,
   "winPct": 0.476,
   "academicsRank": 64.0,
-  "logo": "assets/logos/college/lexington_thoroughbreds.svg"
+  "logo": "assets/logos/college/lexington_thoroughbreds.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#0033A0"
  },
  {
   "id": "oxford_magnolias",
@@ -1537,7 +1689,9 @@
   "srs": 5.18,
   "winPct": 0.567,
   "academicsRank": 62.0,
-  "logo": "assets/logos/college/oxford_magnolias.svg"
+  "logo": "assets/logos/college/oxford_magnolias.svg",
+  "textColor": "#CE1126",
+  "textShadow": "#14213D"
  },
  {
   "id": "tuscaloosa_state_crush",
@@ -1557,7 +1711,9 @@
   "srs": 13.86,
   "winPct": 0.75,
   "academicsRank": 61.0,
-  "logo": "assets/logos/college/tuscaloosa_state_crush.svg"
+  "logo": "assets/logos/college/tuscaloosa_state_crush.svg",
+  "textColor": "#828A8F",
+  "textShadow": "#9E1B32"
  },
  {
   "id": "manhattan_labradors",
@@ -1577,7 +1733,9 @@
   "srs": 0.09,
   "winPct": 0.454,
   "academicsRank": 61.0,
-  "logo": "assets/logos/college/manhattan_labradors.svg"
+  "logo": "assets/logos/college/manhattan_labradors.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#512888"
  },
  {
   "id": "honolulu_state_outriggers",
@@ -1597,7 +1755,9 @@
   "srs": -3.9,
   "winPct": 0.504,
   "academicsRank": 61.0,
-  "logo": "assets/logos/college/honolulu_state_outriggers.svg"
+  "logo": "assets/logos/college/honolulu_state_outriggers.svg",
+  "textColor": "#C8C8C8",
+  "textShadow": "#024731"
  },
  {
   "id": "fayetteville_tuskers",
@@ -1617,7 +1777,9 @@
   "srs": 6.39,
   "winPct": 0.571,
   "academicsRank": 58.0,
-  "logo": "assets/logos/college/fayetteville_tuskers.svg"
+  "logo": "assets/logos/college/fayetteville_tuskers.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#9D2235"
  },
  {
   "id": "pullman_river_rats",
@@ -1637,7 +1799,9 @@
   "srs": 2.49,
   "winPct": 0.479,
   "academicsRank": 58.0,
-  "logo": "assets/logos/college/pullman_river_rats.svg"
+  "logo": "assets/logos/college/pullman_river_rats.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#981E32"
  },
  {
   "id": "ohio_greenies",
@@ -1657,7 +1821,9 @@
   "srs": -8.07,
   "winPct": 0.463,
   "academicsRank": 58.0,
-  "logo": "assets/logos/college/ohio_greenies.svg"
+  "logo": "assets/logos/college/ohio_greenies.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#00694E"
  },
  {
   "id": "baton_rouge_stripers",
@@ -1677,7 +1843,9 @@
   "srs": 9.99,
   "winPct": 0.652,
   "academicsRank": 55.0,
-  "logo": "assets/logos/college/baton_rouge_stripers.svg"
+  "logo": "assets/logos/college/baton_rouge_stripers.svg",
+  "textColor": "#FDD023",
+  "textShadow": "#461D7C"
  },
  {
   "id": "stillwater_gunslingers",
@@ -1697,7 +1865,9 @@
   "srs": 2.57,
   "winPct": 0.522,
   "academicsRank": 55.0,
-  "logo": "assets/logos/college/stillwater_gunslingers.svg"
+  "logo": "assets/logos/college/stillwater_gunslingers.svg",
+  "textColor": "#FF6500",
+  "textShadow": "#000000"
  },
  {
   "id": "starkville_bullies",
@@ -1717,7 +1887,9 @@
   "srs": 3.39,
   "winPct": 0.505,
   "academicsRank": 53.0,
-  "logo": "assets/logos/college/starkville_bullies.svg"
+  "logo": "assets/logos/college/starkville_bullies.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#660000"
  },
  {
   "id": "louisville_bats",
@@ -1737,7 +1909,9 @@
   "srs": -0.1,
   "winPct": 0.546,
   "academicsRank": 53.0,
-  "logo": "assets/logos/college/louisville_bats.svg"
+  "logo": "assets/logos/college/louisville_bats.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#AD0000"
  },
  {
   "id": "tulsa_tornadoes",
@@ -1757,7 +1931,9 @@
   "srs": -1.73,
   "winPct": 0.51,
   "academicsRank": 53.0,
-  "logo": "assets/logos/college/tulsa_tornadoes.svg"
+  "logo": "assets/logos/college/tulsa_tornadoes.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#002D72"
  },
  {
   "id": "greenville_highwaymen",
@@ -1777,7 +1953,9 @@
   "srs": -2.56,
   "winPct": 0.516,
   "academicsRank": 53.0,
-  "logo": "assets/logos/college/greenville_highwaymen.svg"
+  "logo": "assets/logos/college/greenville_highwaymen.svg",
+  "textColor": "#FDC82F",
+  "textShadow": "#592A8A"
  },
  {
   "id": "lubbock_crimson_corsairs",
@@ -1797,7 +1975,9 @@
   "srs": 4.17,
   "winPct": 0.558,
   "academicsRank": 49.0,
-  "logo": "assets/logos/college/lubbock_crimson_corsairs.svg"
+  "logo": "assets/logos/college/lubbock_crimson_corsairs.svg",
+  "textColor": "#CC0000",
+  "textShadow": "#000000"
  },
  {
   "id": "morganton_mountain_men",
@@ -1817,7 +1997,9 @@
   "srs": 3.92,
   "winPct": 0.59,
   "academicsRank": 49.0,
-  "logo": "assets/logos/college/morganton_mountain_men.svg"
+  "logo": "assets/logos/college/morganton_mountain_men.svg",
+  "textColor": "#EAAA00",
+  "textShadow": "#002855"
  },
  {
   "id": "laramie_dog_soldiers",
@@ -1837,7 +2019,9 @@
   "srs": -4.63,
   "winPct": 0.477,
   "academicsRank": 49.0,
-  "logo": "assets/logos/college/laramie_dog_soldiers.svg"
+  "logo": "assets/logos/college/laramie_dog_soldiers.svg",
+  "textColor": "#FFC425",
+  "textShadow": "#492F24"
  },
  {
   "id": "reno_high_rollers",
@@ -1857,7 +2041,9 @@
   "srs": -4.57,
   "winPct": 0.513,
   "academicsRank": 49.0,
-  "logo": "assets/logos/college/reno_high_rollers.svg"
+  "logo": "assets/logos/college/reno_high_rollers.svg",
+  "textColor": "#C0C0C0",
+  "textShadow": "#003366"
  },
  {
   "id": "logan_farmers",
@@ -1877,7 +2063,9 @@
   "srs": -4.9,
   "winPct": 0.496,
   "academicsRank": 45.0,
-  "logo": "assets/logos/college/logan_farmers.svg"
+  "logo": "assets/logos/college/logan_farmers.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#0F2439"
  },
  {
   "id": "fresno_burros",
@@ -1897,7 +2085,9 @@
   "srs": -1.72,
   "winPct": 0.585,
   "academicsRank": 45.0,
-  "logo": "assets/logos/college/fresno_burros.svg"
+  "logo": "assets/logos/college/fresno_burros.svg",
+  "textColor": "#DB0032",
+  "textShadow": "#002B70"
  },
  {
   "id": "dekalb_devil_s_barbs",
@@ -1917,7 +2107,9 @@
   "srs": -7.96,
   "winPct": 0.483,
   "academicsRank": 45.0,
-  "logo": "assets/logos/college/dekalb_devil_s_barbs.svg"
+  "logo": "assets/logos/college/dekalb_devil_s_barbs.svg",
+  "textColor": "#C8102E",
+  "textShadow": "#000000"
  },
  {
   "id": "boca_raton_burrowers",
@@ -1937,7 +2129,9 @@
   "srs": -7.84,
   "winPct": 0.421,
   "academicsRank": 45.0,
-  "logo": "assets/logos/college/boca_raton_burrowers.svg"
+  "logo": "assets/logos/college/boca_raton_burrowers.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#CC0000"
  },
  {
   "id": "memphis_riverboats",
@@ -1957,7 +2151,9 @@
   "srs": -0.68,
   "winPct": 0.507,
   "academicsRank": 45.0,
-  "logo": "assets/logos/college/memphis_riverboats.svg"
+  "logo": "assets/logos/college/memphis_riverboats.svg",
+  "textColor": "#898D8D",
+  "textShadow": "#003087"
  },
  {
   "id": "albequerque_coyotes",
@@ -1977,7 +2173,9 @@
   "srs": -6.94,
   "winPct": 0.421,
   "academicsRank": 45.0,
-  "logo": "assets/logos/college/albequerque_coyotes.svg"
+  "logo": "assets/logos/college/albequerque_coyotes.svg",
+  "textColor": "#A7A8AA",
+  "textShadow": "#BA0C2F"
  },
  {
   "id": "denton_detonators",
@@ -1997,7 +2195,9 @@
   "srs": -7.55,
   "winPct": 0.448,
   "academicsRank": 45.0,
-  "logo": "assets/logos/college/denton_detonators.svg"
+  "logo": "assets/logos/college/denton_detonators.svg",
+  "textColor": "#00853E",
+  "textShadow": "#FFFFFF"
  },
  {
   "id": "mt_pleasant_state_michiganders",
@@ -2017,7 +2217,9 @@
   "srs": -6.67,
   "winPct": 0.537,
   "academicsRank": 45.0,
-  "logo": "assets/logos/college/mt_pleasant_state_michiganders.svg"
+  "logo": "assets/logos/college/mt_pleasant_state_michiganders.svg",
+  "textColor": "#FFC82E",
+  "textShadow": "#6A0032"
  },
  {
   "id": "kent_retrievers",
@@ -2037,7 +2239,9 @@
   "srs": -12.56,
   "winPct": 0.328,
   "academicsRank": 45.0,
-  "logo": "assets/logos/college/kent_retrievers.svg"
+  "logo": "assets/logos/college/kent_retrievers.svg",
+  "textColor": "#EAAB00",
+  "textShadow": "#002664"
  },
  {
   "id": "las_vegas_harlequins",
@@ -2057,7 +2261,9 @@
   "srs": -8.77,
   "winPct": 0.394,
   "academicsRank": 45.0,
-  "logo": "assets/logos/college/las_vegas_harlequins.svg"
+  "logo": "assets/logos/college/las_vegas_harlequins.svg",
+  "textColor": "#C0C0C0",
+  "textShadow": "#B10202"
  },
  {
   "id": "fargo_chippers",
@@ -2077,7 +2283,9 @@
   "srs": 0.0,
   "winPct": 0.0,
   "academicsRank": 45.0,
-  "logo": "assets/logos/college/fargo_chippers.svg"
+  "logo": "assets/logos/college/fargo_chippers.svg",
+  "textColor": "#FFC72C",
+  "textShadow": "#0A5640"
  },
  {
   "id": "atlanta_state_blue_bombers",
@@ -2097,7 +2305,9 @@
   "srs": -9.35,
   "winPct": 0.348,
   "academicsRank": 45.0,
-  "logo": "assets/logos/college/atlanta_state_blue_bombers.svg"
+  "logo": "assets/logos/college/atlanta_state_blue_bombers.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#0039A6"
  },
  {
   "id": "charlotte_state_emeralds",
@@ -2117,7 +2327,9 @@
   "srs": -13.49,
   "winPct": 0.299,
   "academicsRank": 45.0,
-  "logo": "assets/logos/college/charlotte_state_emeralds.svg"
+  "logo": "assets/logos/college/charlotte_state_emeralds.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#00703C"
  },
  {
   "id": "toledo_zoomers",
@@ -2137,7 +2349,9 @@
   "srs": -3.83,
   "winPct": 0.595,
   "academicsRank": 32.0,
-  "logo": "assets/logos/college/toledo_zoomers.svg"
+  "logo": "assets/logos/college/toledo_zoomers.svg",
+  "textColor": "#FFDA00",
+  "textShadow": "#00205B"
  },
  {
   "id": "bowling_green_crazy_eights",
@@ -2157,7 +2371,9 @@
   "srs": -5.41,
   "winPct": 0.538,
   "academicsRank": 32.0,
-  "logo": "assets/logos/college/bowling_green_crazy_eights.svg"
+  "logo": "assets/logos/college/bowling_green_crazy_eights.svg",
+  "textColor": "#FF7300",
+  "textShadow": "#4F2C1D"
  },
  {
   "id": "norfolk_longshoremen",
@@ -2177,7 +2393,9 @@
   "srs": -6.85,
   "winPct": 0.449,
   "academicsRank": 32.0,
-  "logo": "assets/logos/college/norfolk_longshoremen.svg"
+  "logo": "assets/logos/college/norfolk_longshoremen.svg",
+  "textColor": "#A1B2CF",
+  "textShadow": "#003057"
  },
  {
   "id": "huntington_stampede",
@@ -2197,7 +2415,9 @@
   "srs": -7.48,
   "winPct": 0.484,
   "academicsRank": 32.0,
-  "logo": "assets/logos/college/huntington_stampede.svg"
+  "logo": "assets/logos/college/huntington_stampede.svg",
+  "textColor": "#00AE42",
+  "textShadow": "#000000"
  },
  {
   "id": "kalamazoo_state_busters",
@@ -2217,7 +2437,9 @@
   "srs": -6.31,
   "winPct": 0.524,
   "academicsRank": 32.0,
-  "logo": "assets/logos/college/kalamazoo_state_busters.svg"
+  "logo": "assets/logos/college/kalamazoo_state_busters.svg",
+  "textColor": "#F1C500",
+  "textShadow": "#532E1F"
  },
  {
   "id": "murfreesboro_lightning",
@@ -2237,7 +2459,9 @@
   "srs": -7.52,
   "winPct": 0.468,
   "academicsRank": 32.0,
-  "logo": "assets/logos/college/murfreesboro_lightning.svg"
+  "logo": "assets/logos/college/murfreesboro_lightning.svg",
+  "textColor": "#0066CC",
+  "textShadow": "#000000"
  },
  {
   "id": "las_cruces_crossfire",
@@ -2257,7 +2481,9 @@
   "srs": -13.2,
   "winPct": 0.355,
   "academicsRank": 32.0,
-  "logo": "assets/logos/college/las_cruces_crossfire.svg"
+  "logo": "assets/logos/college/las_cruces_crossfire.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#861F41"
  },
  {
   "id": "muncie_state_maulers",
@@ -2277,7 +2503,9 @@
   "srs": -8.13,
   "winPct": 0.48,
   "academicsRank": 32.0,
-  "logo": "assets/logos/college/muncie_state_maulers.svg"
+  "logo": "assets/logos/college/muncie_state_maulers.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#DA0000"
  },
  {
   "id": "san_antonio_tumbleweeds",
@@ -2297,7 +2525,9 @@
   "srs": -4.4,
   "winPct": 0.537,
   "academicsRank": 32.0,
-  "logo": "assets/logos/college/san_antonio_tumbleweeds.svg"
+  "logo": "assets/logos/college/san_antonio_tumbleweeds.svg",
+  "textColor": "#F15A22",
+  "textShadow": "#0C2340"
  },
  {
   "id": "boise_bullriders",
@@ -2317,7 +2547,9 @@
   "srs": 6.04,
   "winPct": 0.76,
   "academicsRank": 23.0,
-  "logo": "assets/logos/college/boise_bullriders.svg"
+  "logo": "assets/logos/college/boise_bullriders.svg",
+  "textColor": "#D64309",
+  "textShadow": "#0033A0"
  },
  {
   "id": "ruston_tech_pelicans",
@@ -2337,7 +2569,9 @@
   "srs": -4.56,
   "winPct": 0.507,
   "academicsRank": 23.0,
-  "logo": "assets/logos/college/ruston_tech_pelicans.svg"
+  "logo": "assets/logos/college/ruston_tech_pelicans.svg",
+  "textColor": "#E31B23",
+  "textShadow": "#002F8B"
  },
  {
   "id": "san_jose_tremors",
@@ -2357,7 +2591,9 @@
   "srs": -5.58,
   "winPct": 0.45,
   "academicsRank": 23.0,
-  "logo": "assets/logos/college/san_jose_tremors.svg"
+  "logo": "assets/logos/college/san_jose_tremors.svg",
+  "textColor": "#E5A823",
+  "textShadow": "#0055A2"
  },
  {
   "id": "el_paso_state_prospectors",
@@ -2377,7 +2613,9 @@
   "srs": -9.61,
   "winPct": 0.37,
   "academicsRank": 23.0,
-  "logo": "assets/logos/college/el_paso_state_prospectors.svg"
+  "logo": "assets/logos/college/el_paso_state_prospectors.svg",
+  "textColor": "#FF8200",
+  "textShadow": "#041E42"
  },
  {
   "id": "ypsilanti_state_herons",
@@ -2397,7 +2635,9 @@
   "srs": -13.92,
   "winPct": 0.337,
   "academicsRank": 23.0,
-  "logo": "assets/logos/college/ypsilanti_state_herons.svg"
+  "logo": "assets/logos/college/ypsilanti_state_herons.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#006633"
  },
  {
   "id": "lynchburg_sparks",
@@ -2417,7 +2657,9 @@
   "srs": -1.98,
   "winPct": 0.65,
   "academicsRank": 18.0,
-  "logo": "assets/logos/college/lynchburg_sparks.svg"
+  "logo": "assets/logos/college/lynchburg_sparks.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#990000"
  },
  {
   "id": "boone_bigfoots",
@@ -2437,7 +2679,9 @@
   "srs": -1.45,
   "winPct": 0.593,
   "academicsRank": 18.0,
-  "logo": "assets/logos/college/boone_bigfoots.svg"
+  "logo": "assets/logos/college/boone_bigfoots.svg",
+  "textColor": "#FFCD00",
+  "textShadow": "#222222"
  },
  {
   "id": "hattiesburg_harriers",
@@ -2457,7 +2701,9 @@
   "srs": -0.72,
   "winPct": 0.536,
   "academicsRank": 18.0,
-  "logo": "assets/logos/college/hattiesburg_harriers.svg"
+  "logo": "assets/logos/college/hattiesburg_harriers.svg",
+  "textColor": "#FFAB00",
+  "textShadow": "#000000"
  },
  {
   "id": "lafayette_vermilion",
@@ -2477,7 +2723,9 @@
   "srs": -8.03,
   "winPct": 0.469,
   "academicsRank": 18.0,
-  "logo": "assets/logos/college/lafayette_vermilion.svg"
+  "logo": "assets/logos/college/lafayette_vermilion.svg",
+  "textColor": "#CE181E",
+  "textShadow": "#000000"
  },
  {
   "id": "troy_state_triremes",
@@ -2497,7 +2745,9 @@
   "srs": -3.3,
   "winPct": 0.552,
   "academicsRank": 18.0,
-  "logo": "assets/logos/college/troy_state_triremes.svg"
+  "logo": "assets/logos/college/troy_state_triremes.svg",
+  "textColor": "#808285",
+  "textShadow": "#8A2432"
  },
  {
   "id": "hill_college_kings_of_the_hill",
@@ -2517,7 +2767,9 @@
   "srs": -4.0,
   "winPct": 0.533,
   "academicsRank": 18.0,
-  "logo": "assets/logos/college/hill_college_kings_of_the_hill.svg"
+  "logo": "assets/logos/college/hill_college_kings_of_the_hill.svg",
+  "textColor": "#C60C30",
+  "textShadow": "#000000"
  },
  {
   "id": "south_georgia_soar",
@@ -2537,7 +2789,9 @@
   "srs": -3.24,
   "winPct": 0.526,
   "academicsRank": 18.0,
-  "logo": "assets/logos/college/south_georgia_soar.svg"
+  "logo": "assets/logos/college/south_georgia_soar.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#011E41"
  },
  {
   "id": "conway_crows",
@@ -2557,7 +2811,9 @@
   "srs": -3.79,
   "winPct": 0.566,
   "academicsRank": 18.0,
-  "logo": "assets/logos/college/conway_crows.svg"
+  "logo": "assets/logos/college/conway_crows.svg",
+  "textColor": "#A28D5B",
+  "textShadow": "#006F71"
  },
  {
   "id": "jonesboro_howlers",
@@ -2577,7 +2833,9 @@
   "srs": -8.88,
   "winPct": 0.448,
   "academicsRank": 18.0,
-  "logo": "assets/logos/college/jonesboro_howlers.svg"
+  "logo": "assets/logos/college/jonesboro_howlers.svg",
+  "textColor": "#CC092F",
+  "textShadow": "#000000"
  },
  {
   "id": "akron_state_wombats",
@@ -2597,7 +2855,9 @@
   "srs": -12.06,
   "winPct": 0.363,
   "academicsRank": 18.0,
-  "logo": "assets/logos/college/akron_state_wombats.svg"
+  "logo": "assets/logos/college/akron_state_wombats.svg",
+  "textColor": "#A89968",
+  "textShadow": "#041E42"
  },
  {
   "id": "mobile_mystics",
@@ -2617,7 +2877,9 @@
   "srs": -7.21,
   "winPct": 0.41,
   "academicsRank": 18.0,
-  "logo": "assets/logos/college/mobile_mystics.svg"
+  "logo": "assets/logos/college/mobile_mystics.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#D11241"
  },
  {
   "id": "jacksonville_red_spurs",
@@ -2637,7 +2899,9 @@
   "srs": -2.1,
   "winPct": 0.659,
   "academicsRank": 18.0,
-  "logo": "assets/logos/college/jacksonville_red_spurs.svg"
+  "logo": "assets/logos/college/jacksonville_red_spurs.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#CC0000"
  },
  {
   "id": "miami_dade_dominos",
@@ -2657,7 +2921,9 @@
   "srs": -12.26,
   "winPct": 0.354,
   "academicsRank": 18.0,
-  "logo": "assets/logos/college/miami_dade_dominos.svg"
+  "logo": "assets/logos/college/miami_dade_dominos.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#B6862C"
  },
  {
   "id": "springfield_state_scotsmen",
@@ -2677,7 +2943,9 @@
   "srs": -5.34,
   "winPct": 0.538,
   "academicsRank": 18.0,
-  "logo": "assets/logos/college/springfield_state_scotsmen.svg"
+  "logo": "assets/logos/college/springfield_state_scotsmen.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#5E000F"
  },
  {
   "id": "monroe_state_aces",
@@ -2697,7 +2965,9 @@
   "srs": -11.54,
   "winPct": 0.35,
   "academicsRank": 18.0,
-  "logo": "assets/logos/college/monroe_state_aces.svg"
+  "logo": "assets/logos/college/monroe_state_aces.svg",
+  "textColor": "#FFB612",
+  "textShadow": "#800029"
  },
  {
   "id": "san_marcos_state_chupacabras",
@@ -2717,7 +2987,9 @@
   "srs": -9.58,
   "winPct": 0.368,
   "academicsRank": 18.0,
-  "logo": "assets/logos/college/san_marcos_state_chupacabras.svg"
+  "logo": "assets/logos/college/san_marcos_state_chupacabras.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#501214"
  },
  {
   "id": "huntsville_state_texans",
@@ -2737,7 +3009,9 @@
   "srs": -10.91,
   "winPct": 0.405,
   "academicsRank": 18.0,
-  "logo": "assets/logos/college/huntsville_state_texans.svg"
+  "logo": "assets/logos/college/huntsville_state_texans.svg",
+  "textColor": "#F58426",
+  "textShadow": "#000000"
  },
  {
   "id": "kennesaw_scrappers",
@@ -2757,6 +3031,8 @@
   "srs": -10.85,
   "winPct": 0.462,
   "academicsRank": 18.0,
-  "logo": "assets/logos/college/kennesaw_scrappers.svg"
+  "logo": "assets/logos/college/kennesaw_scrappers.svg",
+  "textColor": "#FEB81C",
+  "textShadow": "#000000"
  }
 ]

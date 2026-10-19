@@ -10,7 +10,9 @@
   "state": "NY",
   "primaryColor": "#00338D",
   "secondaryColor": "#C60C30",
-  "logo": "assets/logos/pro/buffalo_yetis.svg"
+  "logo": "assets/logos/pro/buffalo_yetis.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#C60C30"
  },
  {
   "id": "miami_manatees",
@@ -23,7 +25,9 @@
   "state": "FL",
   "primaryColor": "#008E97",
   "secondaryColor": "#FC4C02",
-  "logo": "assets/logos/pro/miami_manatees.svg"
+  "logo": "assets/logos/pro/miami_manatees.svg",
+  "textColor": "#FC4C02",
+  "textShadow": "#008E97"
  },
  {
   "id": "new_york_bombers",
@@ -36,7 +40,9 @@
   "state": "NY",
   "primaryColor": "#125740",
   "secondaryColor": "#000000",
-  "logo": "assets/logos/pro/new_york_bombers.svg"
+  "logo": "assets/logos/pro/new_york_bombers.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#125740"
  },
  {
   "id": "boston_bellringers",
@@ -49,7 +55,9 @@
   "state": "MA",
   "primaryColor": "#002244",
   "secondaryColor": "#C60C30",
-  "logo": "assets/logos/pro/boston_bellringers.svg"
+  "logo": "assets/logos/pro/boston_bellringers.svg",
+  "textColor": "#B0B7BC",
+  "textShadow": "#002244"
  },
  {
   "id": "baltimore_bay_crabs",
@@ -62,7 +70,9 @@
   "state": "MD",
   "primaryColor": "#241773",
   "secondaryColor": "#000000",
-  "logo": "assets/logos/pro/baltimore_bay_crabs.svg"
+  "logo": "assets/logos/pro/baltimore_bay_crabs.svg",
+  "textColor": "#9E7C0C",
+  "textShadow": "#241773"
  },
  {
   "id": "cincinnati_gorillas",
@@ -75,7 +85,9 @@
   "state": "OH",
   "primaryColor": "#FB4F14",
   "secondaryColor": "#000000",
-  "logo": "assets/logos/pro/cincinnati_gorillas.svg"
+  "logo": "assets/logos/pro/cincinnati_gorillas.svg",
+  "textColor": "#FB4F14",
+  "textShadow": "#000000"
  },
  {
   "id": "cleveland_barges",
@@ -88,7 +100,9 @@
   "state": "OH",
   "primaryColor": "#311D00",
   "secondaryColor": "#FF3C00",
-  "logo": "assets/logos/pro/cleveland_barges.svg"
+  "logo": "assets/logos/pro/cleveland_barges.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#311D00"
  },
  {
   "id": "pittsburgh_peregrines",
@@ -101,7 +115,9 @@
   "state": "PA",
   "primaryColor": "#101820",
   "secondaryColor": "#FFB612",
-  "logo": "assets/logos/pro/pittsburgh_peregrines.svg"
+  "logo": "assets/logos/pro/pittsburgh_peregrines.svg",
+  "textColor": "#FFB612",
+  "textShadow": "#101820"
  },
  {
   "id": "houston_spacemen",
@@ -114,7 +130,9 @@
   "state": "TX",
   "primaryColor": "#03202F",
   "secondaryColor": "#A71930",
-  "logo": "assets/logos/pro/houston_spacemen.svg"
+  "logo": "assets/logos/pro/houston_spacemen.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#03202F"
  },
  {
   "id": "indianapolis_speed_demons",
@@ -127,7 +145,9 @@
   "state": "IN",
   "primaryColor": "#002C5F",
   "secondaryColor": "#A2AAAD",
-  "logo": "assets/logos/pro/indianapolis_speed_demons.svg"
+  "logo": "assets/logos/pro/indianapolis_speed_demons.svg",
+  "textColor": "#A2AAAD",
+  "textShadow": "#002C5F"
  },
  {
   "id": "jacksonville_torpedos",
@@ -140,7 +160,9 @@
   "state": "FL",
   "primaryColor": "#006778",
   "secondaryColor": "#D7A22A",
-  "logo": "assets/logos/pro/jacksonville_torpedos.svg"
+  "logo": "assets/logos/pro/jacksonville_torpedos.svg",
+  "textColor": "#D7A22A",
+  "textShadow": "#006778"
  },
  {
   "id": "nashville_nephilim",
@@ -153,7 +175,9 @@
   "state": "TN",
   "primaryColor": "#0C2340",
   "secondaryColor": "#4B92DB",
-  "logo": "assets/logos/pro/nashville_nephilim.svg"
+  "logo": "assets/logos/pro/nashville_nephilim.svg",
+  "textColor": "#4B92DB",
+  "textShadow": "#C8102E"
  },
  {
   "id": "denver_doomsday",
@@ -166,7 +190,9 @@
   "state": "CO",
   "primaryColor": "#FB4F14",
   "secondaryColor": "#002244",
-  "logo": "assets/logos/pro/denver_doomsday.svg"
+  "logo": "assets/logos/pro/denver_doomsday.svg",
+  "textColor": "#FB4F14",
+  "textShadow": "#002244"
  },
  {
   "id": "kansas_city_rollers",
@@ -179,7 +205,9 @@
   "state": "MO",
   "primaryColor": "#E31837",
   "secondaryColor": "#FFB81C",
-  "logo": "assets/logos/pro/kansas_city_rollers.svg"
+  "logo": "assets/logos/pro/kansas_city_rollers.svg",
+  "textColor": "#FFB81C",
+  "textShadow": "#E31837"
  },
  {
   "id": "las_vegas_royals",
@@ -192,7 +220,9 @@
   "state": "NV",
   "primaryColor": "#000000",
   "secondaryColor": "#A5ACAF",
-  "logo": "assets/logos/pro/las_vegas_royals.svg"
+  "logo": "assets/logos/pro/las_vegas_royals.svg",
+  "textColor": "#FFFFFF",
+  "textShadow": "#000000"
  },
  {
   "id": "san_diego_thunderheads",
@@ -205,7 +235,9 @@
   "state": "CA",
   "primaryColor": "#0080C6",
   "secondaryColor": "#FFC20E",
-  "logo": "assets/logos/pro/san_diego_thunderheads.svg"
+  "logo": "assets/logos/pro/san_diego_thunderheads.svg",
+  "textColor": "#0080C6",
+  "textShadow": "#FFC20E"
  },
  {
   "id": "dallas_bullriders",
@@ -218,7 +250,9 @@
   "state": "TX",
   "primaryColor": "#003594",
   "secondaryColor": "#041E42",
-  "logo": "assets/logos/pro/dallas_bullriders.svg"
+  "logo": "assets/logos/pro/dallas_bullriders.svg",
+  "textColor": "#869397",
+  "textShadow": "#003594"
  },
  {
   "id": "new_york_gridlock",
@@ -231,7 +265,9 @@
   "state": "NY",
   "primaryColor": "#0B2265",
   "secondaryColor": "#A71930",
-  "logo": "assets/logos/pro/new_york_gridlock.svg"
+  "logo": "assets/logos/pro/new_york_gridlock.svg",
+  "textColor": "#A5ACAF",
+  "textShadow": "#A71930"
  },
  {
   "id": "philadelphia_sluggers",
@@ -244,7 +280,9 @@
   "state": "PA",
   "primaryColor": "#004C54",
   "secondaryColor": "#A5ACAF",
-  "logo": "assets/logos/pro/philadelphia_sluggers.svg"
+  "logo": "assets/logos/pro/philadelphia_sluggers.svg",
+  "textColor": "#A5ACAF",
+  "textShadow": "#004C54"
  },
  {
   "id": "washington_redhogs",
@@ -257,7 +295,9 @@
   "state": "DC",
   "primaryColor": "#5A1414",
   "secondaryColor": "#FFB612",
-  "logo": "assets/logos/pro/washington_redhogs.svg"
+  "logo": "assets/logos/pro/washington_redhogs.svg",
+  "textColor": "#FFB612",
+  "textShadow": "#5A1414"
  },
  {
   "id": "chicago_chill",
@@ -270,7 +310,9 @@
   "state": "IL",
   "primaryColor": "#0B162A",
   "secondaryColor": "#C83803",
-  "logo": "assets/logos/pro/chicago_chill.svg"
+  "logo": "assets/logos/pro/chicago_chill.svg",
+  "textColor": "#C83803",
+  "textShadow": "#0B162A"
  },
  {
   "id": "detroit_dynamo",
@@ -283,7 +325,9 @@
   "state": "MI",
   "primaryColor": "#0076B6",
   "secondaryColor": "#B0B7BC",
-  "logo": "assets/logos/pro/detroit_dynamo.svg"
+  "logo": "assets/logos/pro/detroit_dynamo.svg",
+  "textColor": "#B0B7BC",
+  "textShadow": "#0076B6"
  },
  {
   "id": "green_bay_lakers",
@@ -296,7 +340,9 @@
   "state": "WI",
   "primaryColor": "#203731",
   "secondaryColor": "#FFB612",
-  "logo": "assets/logos/pro/green_bay_lakers.svg"
+  "logo": "assets/logos/pro/green_bay_lakers.svg",
+  "textColor": "#FFB612",
+  "textShadow": "#203731"
  },
  {
   "id": "twin_cities_shield_wall",
@@ -309,7 +355,9 @@
   "state": "MN",
   "primaryColor": "#4F2683",
   "secondaryColor": "#FFC62F",
-  "logo": "assets/logos/pro/twin_cities_shield_wall.svg"
+  "logo": "assets/logos/pro/twin_cities_shield_wall.svg",
+  "textColor": "#FFC62F",
+  "textShadow": "#4F2683"
  },
  {
   "id": "atlanta_spikes",
@@ -322,7 +370,9 @@
   "state": "GA",
   "primaryColor": "#A71930",
   "secondaryColor": "#000000",
-  "logo": "assets/logos/pro/atlanta_spikes.svg"
+  "logo": "assets/logos/pro/atlanta_spikes.svg",
+  "textColor": "#A71930",
+  "textShadow": "#000000"
  },
  {
   "id": "charlotte_swamp_foxes",
@@ -335,7 +385,9 @@
   "state": "NC",
   "primaryColor": "#0085CA",
   "secondaryColor": "#101820",
-  "logo": "assets/logos/pro/charlotte_swamp_foxes.svg"
+  "logo": "assets/logos/pro/charlotte_swamp_foxes.svg",
+  "textColor": "#0085CA",
+  "textShadow": "#101820"
  },
  {
   "id": "new_orleans_bon_temps",
@@ -348,7 +400,9 @@
   "state": "LA",
   "primaryColor": "#D3BC8D",
   "secondaryColor": "#101820",
-  "logo": "assets/logos/pro/new_orleans_bon_temps.svg"
+  "logo": "assets/logos/pro/new_orleans_bon_temps.svg",
+  "textColor": "#D3BC8D",
+  "textShadow": "#101820"
  },
  {
   "id": "tampa_bay_broadsides",
@@ -361,7 +415,9 @@
   "state": "FL",
   "primaryColor": "#D50A0A",
   "secondaryColor": "#FF7900",
-  "logo": "assets/logos/pro/tampa_bay_broadsides.svg"
+  "logo": "assets/logos/pro/tampa_bay_broadsides.svg",
+  "textColor": "#FF7900",
+  "textShadow": "#D50A0A"
  },
  {
   "id": "phoenix_scorpions",
@@ -374,7 +430,9 @@
   "state": "AZ",
   "primaryColor": "#97233F",
   "secondaryColor": "#000000",
-  "logo": "assets/logos/pro/phoenix_scorpions.svg"
+  "logo": "assets/logos/pro/phoenix_scorpions.svg",
+  "textColor": "#FFB612",
+  "textShadow": "#97233F"
  },
  {
   "id": "los_angeles_leopard_seals",
@@ -387,7 +445,9 @@
   "state": "CA",
   "primaryColor": "#003594",
   "secondaryColor": "#FFA300",
-  "logo": "assets/logos/pro/los_angeles_leopard_seals.svg"
+  "logo": "assets/logos/pro/los_angeles_leopard_seals.svg",
+  "textColor": "#FFD100",
+  "textShadow": "#003594"
  },
  {
   "id": "san_francisco_hackers",
@@ -400,7 +460,9 @@
   "state": "CA",
   "primaryColor": "#AA0000",
   "secondaryColor": "#B3995D",
-  "logo": "assets/logos/pro/san_francisco_hackers.svg"
+  "logo": "assets/logos/pro/san_francisco_hackers.svg",
+  "textColor": "#B3995D",
+  "textShadow": "#AA0000"
  },
  {
   "id": "seattle_orcas",
@@ -413,6 +475,8 @@
   "state": "WA",
   "primaryColor": "#002244",
   "secondaryColor": "#69BE28",
-  "logo": "assets/logos/pro/seattle_orcas.svg"
+  "logo": "assets/logos/pro/seattle_orcas.svg",
+  "textColor": "#A5ACAF",
+  "textShadow": "#69BE28"
  }
 ]

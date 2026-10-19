@@ -590,8 +590,8 @@
   "winPct": 0.674,
   "academicsRank": 112.0,
   "logo": "assets/logos/college/athens_pit_bulls.svg",
-  "textColor": "#BA0C2F",
-  "textShadow": "#FFFFFF"
+  "textColor": "#FFFFFF",
+  "textShadow": "#BA0C2F"
  },
  {
   "id": "college_station_collies",

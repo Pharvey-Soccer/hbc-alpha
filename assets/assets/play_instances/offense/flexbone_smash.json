@@ -24,7 +24,7 @@
     "H",
     "RB_L"
   ],
-  "notes": "Both A-backs run Post, both wings run Hitch underneath them \u2014 right side (Y/RB_R) read first",
+  "notes": "Both A-backs run Corner from just off the tackles, both wings run Hitch underneath them -- the smash -- right side (Y/RB_R) read first. §273: the A-backs had aligned at the backfield sideline and run Posts.",
   "players": [
     {
       "role": "QB",
@@ -50,16 +50,16 @@
     {
       "role": "RB_L",
       "position_group": "RB",
-      "starting_zone": "BFSLL",
+      "starting_zone": "Off Tackle Left",
       "assignment_type": "route",
-      "assignment": "Post"
+      "assignment": "Corner"
     },
     {
       "role": "RB_R",
       "position_group": "RB",
-      "starting_zone": "BFSLR",
+      "starting_zone": "Off Tackle Right",
       "assignment_type": "route",
-      "assignment": "Post"
+      "assignment": "Corner"
     },
     {
       "role": "RB",

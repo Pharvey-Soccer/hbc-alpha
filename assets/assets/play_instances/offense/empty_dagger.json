@@ -15,9 +15,10 @@
     }
   },
   "qb_read_order": [
-    "Z"
+    "Z",
+    { "type": "qb_run" }
   ],
-  "notes": "Slot R runs the vertical seam clear-out; Z runs the dig behind it",
+  "notes": "Slot R runs the vertical seam clear-out; Z runs the dig behind it. One read: if the In is covered the quarterback takes off (qb_run, §273) -- there is no backup.",
   "players": [
     {
       "role": "QB",

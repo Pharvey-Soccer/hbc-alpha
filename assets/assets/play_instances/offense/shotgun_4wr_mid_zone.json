@@ -1,0 +1,89 @@
+{
+  "id": "shotgun_4wr_mid_zone",
+  "play_family": "Mid Zone",
+  "category": "Inside Run",
+  "notes": "§273, the author: running left to right, the back offset to the quarterback's left; Slot L motions in (as on Pistol Power) and leads; the B gap right; the left guard pulls.",
+  "formation": "Shotgun 4WR",
+  "personnel": "4WR/1RB",
+  "target_gap": "B_R",
+  "players": [
+    {
+      "role": "QB",
+      "position_group": "QB",
+      "starting_zone": "Pocket",
+      "assignment_type": "handoff",
+      "assignment": "RB"
+    },
+    {
+      "role": "RB",
+      "position_group": "RB",
+      "starting_zone": "Off Tackle Left",
+      "assignment_type": "carry",
+      "assignment": null
+    },
+    {
+      "role": "Slot L",
+      "position_group": "WR",
+      "starting_zone": "Off Tackle Left",
+      "assignment_type": "block",
+      "assignment": "Lead Block",
+      "motion": true
+    },
+    {
+      "role": "X",
+      "position_group": "WR",
+      "starting_zone": "SL_L",
+      "assignment_type": "block",
+      "assignment": "Stalk Block"
+    },
+    {
+      "role": "Z",
+      "position_group": "WR",
+      "starting_zone": "SL_R",
+      "assignment_type": "block",
+      "assignment": "Stalk Block"
+    },
+    {
+      "role": "Slot R",
+      "position_group": "WR",
+      "starting_zone": "W_R",
+      "assignment_type": "block",
+      "assignment": "Stalk Block"
+    },
+    {
+      "role": "LT",
+      "position_group": "OL",
+      "starting_zone": "C_L",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "LG",
+      "position_group": "OL",
+      "starting_zone": "B_L",
+      "assignment_type": "block",
+      "assignment": "Pulling Block"
+    },
+    {
+      "role": "C",
+      "position_group": "OL",
+      "starting_zone": "A_R",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "RG",
+      "position_group": "OL",
+      "starting_zone": "B_R",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    },
+    {
+      "role": "RT",
+      "position_group": "OL",
+      "starting_zone": "C_R",
+      "assignment_type": "block",
+      "assignment": "Run Block"
+    }
+  ]
+}

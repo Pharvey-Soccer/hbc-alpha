@@ -36,14 +36,14 @@
     {
       "role": "RB_L",
       "position_group": "RB",
-      "starting_zone": "BFSLL",
+      "starting_zone": "Off Tackle Left",
       "assignment_type": "block",
       "assignment": "Lead Block"
     },
     {
       "role": "RB_R",
       "position_group": "RB",
-      "starting_zone": "BFSLR",
+      "starting_zone": "Off Tackle Right",
       "assignment_type": "route",
       "assignment": "Go"
     },

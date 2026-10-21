@@ -12,15 +12,15 @@
       "C": "A_R",
       "RG": "B_R",
       "RT": "C_R",
-      "Y": "W_R",
       "H": "W_L"
     }
   },
   "qb_read_order": [
     "Z",
-    "RB"
+    "RB",
+    "Y"
   ],
-  "notes": "",
+  "notes": "§281: the tight end runs a hitch and is read, where he had stayed in to block (the author: \"backup TEs don't get hardly any catches ... Tight ends seem really bad generally\").",
   "players": [
     {
       "role": "QB",
@@ -47,8 +47,8 @@
       "role": "Y",
       "position_group": "TE",
       "starting_zone": "W_R",
-      "assignment_type": "block",
-      "assignment": "Pass Block"
+      "assignment_type": "route",
+      "assignment": "Hitch"
     },
     {
       "role": "H",

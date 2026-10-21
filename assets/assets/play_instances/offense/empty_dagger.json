@@ -16,9 +16,12 @@
   },
   "qb_read_order": [
     "Z",
-    { "type": "qb_run" }
+    "Y",
+    {
+      "type": "qb_run"
+    }
   ],
-  "notes": "Slot R runs the vertical seam clear-out; Z runs the dig behind it. One read: if the In is covered the quarterback takes off (qb_run, §273) -- there is no backup.",
+  "notes": "Slot R runs the vertical seam clear-out; Z runs the dig behind it. One read: if the In is covered the quarterback takes off (qb_run, §273) -- there is no backup. §281: the tight end's route is a read now -- it was run and never thrown (the author: \"Tight ends seem really bad generally\"). §281: the tight end's route is a read now -- it was run and never thrown (the author: \"Tight ends seem really bad generally\").",
   "players": [
     {
       "role": "QB",

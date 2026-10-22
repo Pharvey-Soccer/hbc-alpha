@@ -110,6 +110,11 @@ These are not detected triggers: every play has some version of them.
 ## playAction
 - {{qb}} fakes the handoff
 
+## hailMary  (§286: the last snap of a half, thrown to the end zone)
+- {{qb}} steps up and heaves it to the end zone
+- {{qb}} lets it fly -- this is the Hail Mary
+- Here's the Hail Mary from {{qb}}
+
 ## rollout  (a designed boot, or flushed and still looking to throw)
 - He rolls out to the {{direction}}
 - He rolls out to his {{direction}}

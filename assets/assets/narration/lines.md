@@ -85,6 +85,11 @@ These are not detected triggers: every play has some version of them.
 ## audible  (pre-snap adjustment)
 - {{qb}} is making adjustments at the line
 
+## adjustments  (§284: he adjusts at the line without changing the play -- the protection, a hot, a run check, a hard count)
+- {{qb}} is making adjustments at the line
+- {{qb}} makes some adjustments at the line
+- {{qb}} adjusts things at the line
+
 ## formationShift  (an audible that changed the formation)
 - {{team}} shifts to the {{formation}}
 

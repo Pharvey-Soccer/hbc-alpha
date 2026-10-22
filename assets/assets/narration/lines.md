@@ -169,6 +169,9 @@ These are not detected triggers: every play has some version of them.
 ## rpoRun  (an RPO where he kept it on the ground)
 - Hands it off to {{carrier}} instead
 
+## rpoKeep  (an RPO with no back, where he ran it himself)
+- {{qb}} keeps it himself
+
 ## toss
 - {{carrier}} gets the toss going {{direction}}
 - ~ {{qb}} tosses it to {{carrier}} going {{direction}}

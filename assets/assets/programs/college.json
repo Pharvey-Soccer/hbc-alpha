@@ -45,6 +45,7 @@
  },
  {
   "id": "air_school_wild_blue",
+  "serviceAcademy": true,
   "school": "Air School",
   "nickname": "Wild Blue",
   "abbreviation": "JET",
@@ -89,6 +90,7 @@
  },
  {
   "id": "boat_academy_battleships",
+  "serviceAcademy": true,
   "school": "Boat Academy",
   "nickname": "Battleships",
   "abbreviation": "BOAT",
@@ -243,6 +245,7 @@
  },
  {
   "id": "ground_school_tanks",
+  "serviceAcademy": true,
   "school": "Ground School",
   "nickname": "Tanks",
   "abbreviation": "TANK",

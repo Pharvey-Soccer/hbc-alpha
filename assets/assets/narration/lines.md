@@ -706,6 +706,9 @@ These are not detected triggers: every play has some version of them.
 ## penaltyOffsetting
 - ~ Flags on both sides -- offsetting penalties, replay the down
 
+## bigPlay  (§295: a star past his cap who made the play with it)
+- {{player}} with a big play!
+
 ## firedUp
 - {{player}} is Fired Up!
 

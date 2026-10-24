@@ -1,0 +1,22 @@
+{
+  "id": "pistol_duo",
+  "play_family": "Duo",
+  "category": "Inside Run",
+  "formation": "Pistol",
+  "personnel": "3WR/1TE/1RB",
+  "target_gap": "B_R",
+  "notes": "§300, the author: \"add more B gap targeting inside runs across all formations aside from empty. Use real life gap and zone blocking runs as inspiration.\" Duo from the pistol: the tight end aligned to the play, two doubles inside working to the linebackers, the back straight downhill at the B gap right.",
+  "players": [
+    {"role": "QB", "position_group": "QB", "starting_zone": "Pocket", "assignment_type": "handoff", "assignment": "RB"},
+    {"role": "RB", "position_group": "RB", "starting_zone": "Pocket", "assignment_type": "carry", "assignment": null},
+    {"role": "X", "position_group": "WR", "starting_zone": "SL_L", "assignment_type": "block", "assignment": "Stalk Block"},
+    {"role": "Z", "position_group": "WR", "starting_zone": "SL_R", "assignment_type": "block", "assignment": "Stalk Block"},
+    {"role": "Slot", "position_group": "WR", "starting_zone": "W_L", "assignment_type": "block", "assignment": "Stalk Block"},
+    {"role": "Y", "position_group": "TE", "starting_zone": "W_R", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "LT", "position_group": "OL", "starting_zone": "C_L", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "LG", "position_group": "OL", "starting_zone": "B_L", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "C", "position_group": "OL", "starting_zone": "A_R", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "RG", "position_group": "OL", "starting_zone": "B_R", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "RT", "position_group": "OL", "starting_zone": "C_R", "assignment_type": "block", "assignment": "Run Block"}
+  ]
+}

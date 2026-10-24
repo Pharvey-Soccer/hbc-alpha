@@ -1,0 +1,22 @@
+{
+  "id": "shotgun_4wr_duo",
+  "play_family": "Duo",
+  "category": "Inside Run",
+  "formation": "Shotgun 4WR",
+  "personnel": "4WR/1RB",
+  "target_gap": "B_R",
+  "notes": "§300, the author: \"add more B gap targeting inside runs across all formations aside from empty. Use real life gap and zone blocking runs as inspiration.\" Duo: two double teams inside, no puller, the back downhill from the offset at the B gap right and reading the linebacker over it. Slot L motions in and leads.",
+  "players": [
+    {"role": "QB", "position_group": "QB", "starting_zone": "Pocket", "assignment_type": "handoff", "assignment": "RB"},
+    {"role": "X", "position_group": "WR", "starting_zone": "SL_L", "assignment_type": "block", "assignment": "Stalk Block"},
+    {"role": "Slot L", "position_group": "WR", "starting_zone": "Off Tackle Left", "assignment_type": "block", "assignment": "Lead Block", "motion": true},
+    {"role": "Z", "position_group": "WR", "starting_zone": "SL_R", "assignment_type": "block", "assignment": "Stalk Block"},
+    {"role": "Slot R", "position_group": "WR", "starting_zone": "W_R", "assignment_type": "block", "assignment": "Stalk Block"},
+    {"role": "RB", "position_group": "RB", "starting_zone": "Off Tackle Left", "assignment_type": "carry", "assignment": null},
+    {"role": "LT", "position_group": "OL", "starting_zone": "C_L", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "LG", "position_group": "OL", "starting_zone": "B_L", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "C", "position_group": "OL", "starting_zone": "A_R", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "RG", "position_group": "OL", "starting_zone": "B_R", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "RT", "position_group": "OL", "starting_zone": "C_R", "assignment_type": "block", "assignment": "Run Block"}
+  ]
+}

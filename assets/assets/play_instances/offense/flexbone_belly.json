@@ -1,0 +1,22 @@
+{
+  "id": "flexbone_belly",
+  "play_family": "Belly",
+  "category": "Inside Run",
+  "formation": "Pistol Flexbone",
+  "personnel": "2TE/3RB",
+  "target_gap": "B_R",
+  "notes": "§300, the author: \"add more B gap targeting inside runs across all formations aside from empty. Use real life gap and zone blocking runs as inspiration.\" Belly: the B-back takes the handoff wide of the dive, at the B gap right; the playside A-back leads on the linebacker, the line and the ends block down.",
+  "players": [
+    {"role": "QB", "position_group": "QB", "starting_zone": "Pocket", "assignment_type": "handoff", "assignment": "RB"},
+    {"role": "RB", "position_group": "RB", "starting_zone": "Pocket", "assignment_type": "carry", "assignment": null},
+    {"role": "RB_L", "position_group": "RB", "starting_zone": "Off Tackle Left", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "RB_R", "position_group": "RB", "starting_zone": "Off Tackle Right", "assignment_type": "block", "assignment": "Lead Block"},
+    {"role": "Y", "position_group": "TE", "starting_zone": "W_R", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "H", "position_group": "TE", "starting_zone": "W_L", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "LT", "position_group": "OL", "starting_zone": "C_L", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "LG", "position_group": "OL", "starting_zone": "B_L", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "C", "position_group": "OL", "starting_zone": "A_R", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "RG", "position_group": "OL", "starting_zone": "B_R", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "RT", "position_group": "OL", "starting_zone": "C_R", "assignment_type": "block", "assignment": "Run Block"}
+  ]
+}

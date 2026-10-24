@@ -1,0 +1,22 @@
+{
+  "id": "i_formation_inside_zone",
+  "play_family": "Inside Zone",
+  "category": "Inside Run",
+  "formation": "I Formation",
+  "personnel": "2WR/1TE/1FB/1RB",
+  "target_gap": "B_L",
+  "notes": "§300, the author: \"add more B gap targeting inside runs across all formations aside from empty. Use real life gap and zone blocking runs as inspiration.\" Inside zone from the I: the line zones left, the fullback cuts the backside end, the tailback aims at the B gap left from depth.",
+  "players": [
+    {"role": "QB", "position_group": "QB", "starting_zone": "Pocket", "assignment_type": "handoff", "assignment": "RB"},
+    {"role": "RB", "position_group": "RB", "starting_zone": "Pocket", "assignment_type": "carry", "assignment": null},
+    {"role": "X", "position_group": "WR", "starting_zone": "SL_L", "assignment_type": "block", "assignment": "Stalk Block"},
+    {"role": "Z", "position_group": "WR", "starting_zone": "SL_R", "assignment_type": "block", "assignment": "Stalk Block"},
+    {"role": "Y", "position_group": "TE", "starting_zone": "W_R", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "FB", "position_group": "FB", "starting_zone": "Pocket", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "LT", "position_group": "OL", "starting_zone": "C_L", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "LG", "position_group": "OL", "starting_zone": "B_L", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "C", "position_group": "OL", "starting_zone": "A_R", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "RG", "position_group": "OL", "starting_zone": "B_R", "assignment_type": "block", "assignment": "Run Block"},
+    {"role": "RT", "position_group": "OL", "starting_zone": "C_R", "assignment_type": "block", "assignment": "Run Block"}
+  ]
+}

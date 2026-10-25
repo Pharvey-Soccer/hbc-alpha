@@ -1,7 +1,42 @@
 {
- "source": "HBC Player Portraits 2.psd",
+ "source": "Portrait Work.psd",
  "size": 48,
  "layers": [
+  {
+   "id": "back/jersey_1",
+   "category": "back",
+   "family": "jersey",
+   "path": "assets/portraits/back/jersey_1.png",
+   "source": "Shirts 2/Jersey Standard Back"
+  },
+  {
+   "id": "back/jersey_2",
+   "category": "back",
+   "family": "jersey",
+   "path": "assets/portraits/back/jersey_2.png",
+   "source": "Shirts 2/Jersey Neck Pad"
+  },
+  {
+   "id": "back/jersey_3",
+   "category": "back",
+   "family": "jersey",
+   "path": "assets/portraits/back/jersey_3.png",
+   "source": "Shirts 2/Jersey Big Pads"
+  },
+  {
+   "id": "back/polo_1",
+   "category": "back",
+   "family": "polo",
+   "path": "assets/portraits/back/polo_1.png",
+   "source": "Shirts 2/Polo Back"
+  },
+  {
+   "id": "back/polo_skinny_1",
+   "category": "back",
+   "family": "polo_skinny",
+   "path": "assets/portraits/back/polo_skinny_1.png",
+   "source": "Shirts 2/Polo Back Skinny Only"
+  },
   {
    "id": "base/big_1",
    "category": "base",
@@ -178,11 +213,46 @@
    "source": "FACES/PI 4"
   },
   {
+   "id": "age/lines_2",
+   "category": "age",
+   "family": "lines",
+   "path": "assets/portraits/age/lines_2.png",
+   "source": "Age Lines/Age 2"
+  },
+  {
+   "id": "age/lines_3",
+   "category": "age",
+   "family": "lines",
+   "path": "assets/portraits/age/lines_3.png",
+   "source": "Age Lines/Age 3"
+  },
+  {
+   "id": "age/lines_1",
+   "category": "age",
+   "family": "lines",
+   "path": "assets/portraits/age/lines_1.png",
+   "source": "Age Lines/Age 1"
+  },
+  {
    "id": "shirt/jersey_1",
    "category": "shirt",
    "family": "jersey",
    "path": "assets/portraits/shirt/jersey_1.png",
-   "source": "ROOT/Shirt 1"
+   "source": "ROOT/Jersey Front"
+  },
+  {
+   "id": "shirt/polo_1",
+   "category": "shirt",
+   "family": "polo",
+   "path": "assets/portraits/shirt/polo_1.png",
+   "source": "ROOT/Polo Front"
+  },
+  {
+   "id": "shirt/polo_skinny_1",
+   "category": "shirt",
+   "family": "polo_skinny",
+   "path": "assets/portraits/shirt/polo_skinny_1.png",
+   "source": "ROOT/Polo Front Skinny Only"
   },
   {
    "id": "beard/dark_1",
@@ -290,6 +360,13 @@
    "source": "HAIR/White H7"
   },
   {
+   "id": "hair/white_8",
+   "category": "hair",
+   "family": "white",
+   "path": "assets/portraits/hair/white_8.png",
+   "source": "HAIR/White H8"
+  },
+  {
    "id": "hair/black_4",
    "category": "hair",
    "family": "black",
@@ -309,6 +386,13 @@
    "family": "black",
    "path": "assets/portraits/hair/black_6.png",
    "source": "HAIR/Black H6"
+  },
+  {
+   "id": "hair/bapi_6",
+   "category": "hair",
+   "family": "bapi",
+   "path": "assets/portraits/hair/bapi_6.png",
+   "source": "HAIR/BAPI 6"
   },
   {
    "id": "hair/bapi_5",
@@ -400,6 +484,62 @@
    "family": "dark",
    "path": "assets/portraits/brows/dark_3.png",
    "source": "BROWS/Dark 3"
+  },
+  {
+   "id": "earring/white_1",
+   "category": "earring",
+   "family": "white",
+   "path": "assets/portraits/earring/white_1.png",
+   "source": "Accessories/D Earring White"
+  },
+  {
+   "id": "earring/gold_1",
+   "category": "earring",
+   "family": "gold",
+   "path": "assets/portraits/earring/gold_1.png",
+   "source": "Accessories/D Earring Gold"
+  },
+  {
+   "id": "glasses/sunglasses_1",
+   "category": "glasses",
+   "family": "sunglasses",
+   "path": "assets/portraits/glasses/sunglasses_1.png",
+   "source": "Glasses/Sunglasses 1"
+  },
+  {
+   "id": "glasses/sunglasses_2",
+   "category": "glasses",
+   "family": "sunglasses",
+   "path": "assets/portraits/glasses/sunglasses_2.png",
+   "source": "Glasses/Sunglasses 2"
+  },
+  {
+   "id": "glasses/clear_1",
+   "category": "glasses",
+   "family": "clear",
+   "path": "assets/portraits/glasses/clear_1.png",
+   "source": "Glasses/Glasses 1"
+  },
+  {
+   "id": "hat/cap_1",
+   "category": "hat",
+   "family": "cap",
+   "path": "assets/portraits/hat/cap_1.png",
+   "source": "Coach Accessories/Hat"
+  },
+  {
+   "id": "hat/headphones_1",
+   "category": "hat",
+   "family": "headphones",
+   "path": "assets/portraits/hat/headphones_1.png",
+   "source": "Coach Accessories/Hat and Visor"
+  },
+  {
+   "id": "hat/half_headphones_1",
+   "category": "hat",
+   "family": "half_headphones",
+   "path": "assets/portraits/hat/half_headphones_1.png",
+   "source": "Coach Accessories/Hat and Half Headphones"
   }
  ]
 }

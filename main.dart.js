@@ -14051,7 +14051,7 @@ aKI:function aKI(){},
 blg(a,b,c,d,e){var s,r,q=c?6:0,p=d?14:0,o=e.$0(),n=A.D(b).i("Q<1,k>"),m=A.G(new A.Q(b,new A.aOm(),n),n.i("aj.E"))
 n=m.length===1?B.b.gR(m):new A.Q(m,new A.aOn(),A.D(m).i("Q<1,k>")).d8(0,new A.aOo())
 s=c?0:3
-r=(a.d+a.c+a.y+a.dx)/4+q+p+(o-0.5)*2*6-(n+s+(e.$0()-0.5)*2*6)
+r=72+((a.d+a.c+a.y+a.dx)/4-72)*0.25+q+p+(o-0.5)*2*6-(n+s+(e.$0()-0.5)*2*6)
 if(Math.abs(r)<=3)return B.MZ
 return r>0?B.jt:B.lW},
 BF:function BF(a,b){this.a=a
@@ -14587,13 +14587,13 @@ c6=!a8.CW
 c7=e6.V===0
 c8=c7?0.9:1
 c9=(b9.e*0.15+b9.y*0.6+b9.b*0.1+b9.d*0.15)*c8
-if(c7)c9+=b9.f*0.1
+c9=72+((c7?c9+b9.f*0.1:c9)-72)*0.25
 a9=a9.b===B.c1
 if(a9){c7=b9.Q
-c9+=c7<=70?0:(c7-70)*0.75}if(c5)c9+=b9.z-74
+c9+=c7<=70?0:(c7-70)*0.75}if(c5)c9+=(b9.z-74)*0.25
 if(c1.a<0)c9+=3
 if(c1.b!==0&&c6)c9+=3
-d0=(a0.aL()-0.5)*2*6
+d0=(a0.aL()-0.5)*2*12
 d1=a8.as===B.jt?c9+6:c9
 c1=a8.f
 d2=A.a([],a1)
@@ -14607,19 +14607,19 @@ c7=d4.b
 d4=e6.V===0
 c8=d4?0.9:1
 d7=(d5.w*0.4+d5.x*0.35+d5.e*0.15+d5.b*0.05+d5.d*0.05)*c8
-if(d4)d7+=d5.f*0.1
-c9=c7.a>0?d7+3:d7
+c9=72+((d4?d7+d5.f*0.1:d7)-72)*0.25
+if(c7.a>0)c9+=3
 if(c7.b!==0)c9+=3
 if(d6){c7=d5.Q
 c7=c7<=70?0:(c7-70)*0.75}else c7=0
 d4=d4?2:0
 d2.push(c9+c7+d4+A.bij(d5.Q,c6))
-d3.push((a0.aL()-0.5)*2*6)}d8=d2.length===1?1:0.57
+d3.push((a0.aL()-0.5)*2*12)}d8=d2.length===1?1:0.57
 d9=B.b.c6(d2,0,new A.aOh(d8))
 e0=B.b.c6(d3,0,new A.aOi(d8))
 if(a8.as===B.lW)d9+=6
 a9=a5.gE(b8)===1?a5.gR(b8):e5
-e1=A.bih(A.aKZ(!0,28,8,"runBlock",d9-(d1-c1*4),a9,b7,e0/6,d0/6))+e0-d0
+e1=A.bih(A.aKZ(!0,28,8,"runBlock",d9-(d1-c1*4),a9,b7,e0/12,d0/12)+0)+e0-d0
 e2=A.bii(e1)
 if(!c3&&e2===B.lY)e2=B.lX
 if(e2===B.lY&&a0.aL()>=0.45)e2=B.lX
@@ -14697,19 +14697,19 @@ s.push(p)
 return}s=c.Q
 B.b.W(s)
 B.b.K(s,b)},
-bhb(a,b,c,d){var s,r,q,p=J.bZ(d),o=p.fk(d,new A.aJZ(a),t.i),n=A.G(o,o.$ti.i("aj.E")),m=n.length===1?B.b.gR(n):new A.Q(n,new A.aK_(),A.D(n).i("Q<1,k>")).d8(0,new A.aK0()),l=(c.d+c.c+c.dx+c.e)/4+-7
-if(p.gE(d)===2)l+=c.z-74
-if(b.as===B.jt)l+=6
-o=a.z
-o===$&&A.b()
-s=B.b.aG(B.x,a.r.h(0,o).a.c)>B.b.aG(B.x,b.a.c)
-if(s)l+=6
-r=l-b.f*4+(a.f.aL()-0.5)*2*6>m
-p=p.b0(d,"+")
-o=r?"sheds the block":"stays engaged"
-q=s?" (passed by runner)":""
-a.ao.push("Moment "+a.V+": "+("Block Shed Roll "+p+": "+o+q))
-return r},
+bhb(a,b,c,d){var s,r,q,p,o=J.bZ(d),n=o.fk(d,new A.aJZ(a),t.i),m=A.G(n,n.$ti.i("aj.E")),l=m.length===1?B.b.gR(m):new A.Q(m,new A.aK_(),A.D(m).i("Q<1,k>")).d8(0,new A.aK0()),k=72+((c.d+c.c+c.dx+c.e)/4-72)*0.25
+if(o.gE(d)===2)k+=(c.z-74)*0.25
+s=b.as===B.jt?6:0
+n=a.z
+n===$&&A.b()
+r=B.b.aG(B.x,a.r.h(0,n).a.c)>B.b.aG(B.x,b.a.c)
+if(r)s+=6
+q=k-l+(s-b.f*4)+(a.f.aL()-0.5)*2*6>0
+o=o.b0(d,"+")
+n=q?"sheds the block":"stays engaged"
+p=r?" (passed by runner)":""
+a.ao.push("Moment "+a.V+": "+("Block Shed Roll "+o+": "+n+p))
+return q},
 bgh(a,b){return J.b5X(b,new A.aJr(new A.aJs(a)))},
 bgp(a,b,c){var s=A.a9(b),r=B.e.gce(A.a9(a.e).a-s.a)
 if(r===0)return!1
@@ -14771,7 +14771,7 @@ break A}r=b===B.cl||b===B.fM||b===B.fN
 s=a.cW(s)
 q=r?8:0
 p=c.cW(e?B.k5:B.cB)
-return(s+a.d+a.c+a.x+a.e)/5+q+0+(f.$0()-0.5)*2*6>(p+c.d+c.c+c.dx+c.e)/5-d},
+return 72+((s+a.d+a.c+a.x+a.e)/5-72)*0.25+q+0+(f.$0()-0.5)*2*6>72+((p+c.d+c.c+c.dx+c.e)/5-72)*0.25-d},
 aST(a,b){var s,r,q,p,o,n=a.V;++b.f
 b.r=n
 s=b.w
@@ -15197,7 +15197,7 @@ m=c4.as===B.jt?4:0
 l=c5.x1
 if(l<0){k=(q.p1+q.ay)/2
 l=c5.ry
-l=B.c.C((0.35+(k-70)*0.015)*d1*(1+new A.v(l,new A.aOX(),A.D(l).i("v<1>")).gE(0)*B.c.C(k/70,0,1.5)),0,0.85)
+l=B.c.C((0.0875+(k-70)*0.015)*d1*(1+new A.v(l,new A.aOX(),A.D(l).i("v<1>")).gE(0)*B.c.C(k/70,0,1.5)),0,0.2125)
 j=c6?1:0.6
 if(c5.f.aL()<l*j){l=c6?c8+" is still on his block -- the back cuts away from him":c8+" is into the backfield -- the back cuts away from him"
 c5.ao.push("Moment "+c5.V+": "+l)
@@ -15211,28 +15211,28 @@ l=B.a0g.h(0,r.h(0,c5.z).a.c)
 if(l==null)l=0
 j=d0?6:0
 h=l-j-c5.gaq9()*18
-g=c5.x1<0?16:8
 l=s.cy
 j=s.c+s.d+l
-f=j/3
-e=c6?g:0
-d=c9?20:0
-c=o?3:0
-b=n?4:0
-a=p.grn()
-a0=c4.b.grn()
-a1=c5.f
-a2=(a1.aL()-0.5)*2*12
-a3=(a1.aL()-0.5)*2*12
+g=j/3
+f=c6?8:0
+e=c9?20:0
+d=o?3:0
+c=n?4:0
+b=p.grn()
+a=c4.b.grn()
+a0=c5.f
+a1=(a0.aL()-0.5)*2*12
+a2=(a0.aL()-0.5)*2*12
+a3=c5.x1<0?0.25:1
 a4=q.ay
 a5=q.c
 a6=q.d
-a7=f-e-d+c+b+m+h+13+a2>=f+A.b0Q("tackleAttempt",(a4+A.b24(q,s)+a5+a6+q.b)/5*d1-f,c5,c8,a2,a3)+(a-a0)*0.1+c5.ok+a3
-f=a7?"hands on":"clean miss"
-e=c6?" (engaged)":""
-d=c5.x1<0?" (backfield)":""
-c=c5.ao
-c.push("Moment "+c5.V+": "+("Tackle Attempt by "+c8+": "+f+e+d))
+a7=g-f-e+d+c+m+h+13+a1>=g+A.b0Q("tackleAttempt",((a4+A.b24(q,s)+a5+a6+q.b)/5*d1-g)*a3,c5,c8,a1,a2)+(b-a)*0.1+c5.ok+a2
+g=a7?"hands on":"clean miss"
+f=c6?" (engaged)":""
+e=c5.x1<0?" (backfield)":""
+d=c5.ao
+d.push("Moment "+c5.V+": "+("Tackle Attempt by "+c8+": "+g+f+e))
 c4.c=B.c.C(c4.c-2*A.aTt(s.ax),0,100)
 if(!a7){r=c4.b
 c4.b=new A.co(A.oe(r.a,12),A.oe(r.b,12))
@@ -15242,35 +15242,35 @@ return B.wL}if(!d0)c5.x1=A.bgR(c5,c4)
 if(c5.bi==null)c5.bi=c5.x1
 a8=A.a9(r.h(0,c5.z).a)
 if(a8===B.bQ||a8===B.bR){a9=B.c.C(0.3+(s.CW-a5)*0.004,0.2,0.75)
-if(a1.aL()<a9){c4=r.h(0,c5.z).a
-c.push("Moment "+c5.V+": "+("Pushed out of bounds by "+c8+" at "+c4.e))
+if(a0.aL()<a9){c4=r.h(0,c5.z).a
+d.push("Moment "+c5.V+": "+("Pushed out of bounds by "+c8+" at "+c4.e))
 c5.rx.push(new A.ef(c8,B.oR,c5.V))
 return B.OA}}b0=B.c.C(1-0.15*(c7+c5.p4),0,1)
-f=s.db
-j=(j+f)/4
-e=B.c.C(c4.c,0,100)
-d=c6?g:0
-b=c9?20:0
-a=o?3:0
-a0=n?4:0
+g=s.db
+j=(j+g)/4
+f=B.c.C(c4.c,0,100)
+e=c6?8:0
+c=c9?20:0
+b=o?3:0
+a=n?4:0
 b1=i?2:0
-b2=j+e/100*10-d-b+a+a0+m+h-b1+18
+b2=j+f/100*10-e-c+b+a+m+h-b1+18
 b3=p.grn()-c4.b.grn()
-b4=(a1.aL()-0.5)*2*12
-b5=(a1.aL()-0.5)*2*12
-b6=(j+A.b0Q("tackleBreak",(a4+A.b24(q,s)+a5+a6+q.CW+q.e+q.ch)/7-j+b3*0.5,c5,c8,b4,b5)+B.c.C(r.h(0,c5.z).c,0,100)/100*10)*b0
+b4=(a0.aL()-0.5)*2*12
+b5=(a0.aL()-0.5)*2*12
+b6=(j+A.b0Q("tackleBreak",((a4+A.b24(q,s)+a5+a6+q.CW+q.e+q.ch)/7-j)*a3+b3*0.5,c5,c8,b4,b5)+B.c.C(r.h(0,c5.z).c,0,100)/100*10)*b0
 b7=b2+b4>=b6+b5
 if(!b7){j=c5.au
-e=c5.gLT()
+f=c5.gLT()
 b8=0
 for(;;){if(!(b8<3)){b7=!1
 break}A:{b9=B.VW[b8]
-if(!j.ro(c5.V,s,c8,e,b9))break A
-c.push("Moment "+c5.V+": "+(c8+" drags him down anyway ("+b9.x+")"))
+if(!j.ro(c5.V,s,c8,f,b9))break A
+d.push("Moment "+c5.V+": "+(c8+" drags him down anyway ("+b9.x+")"))
 b7=!0
 break}++b8}}if(!b7){c0=A.b2t(b2-b6)
 l=B.c.N(c0*100)
-c.push("Moment "+c5.V+": "+("Tackle broken by runner vs "+c8+" ("+l+"% tackle)"))
+d.push("Moment "+c5.V+": "+("Tackle broken by runner vs "+c8+" ("+l+"% tackle)"))
 l=r.h(0,c5.z)
 l.toString
 l.b=new A.co(A.oe(p.a,12),A.oe(p.b,12))
@@ -15281,17 +15281,17 @@ r=r.h(0,c5.z)
 r.c=B.c.C(r.c-3*A.aTt(q.ax),0,100);++c5.p4
 c5.to.push(c0)
 c5.rx.push(new A.ef(c8,B.dO,c5.V))
-return new A.Ht()}c.push("Moment "+c5.V+": "+("Tackle engaged by "+c8))
+return new A.Ht()}d.push("Moment "+c5.V+": "+("Tackle engaged by "+c8))
 j=b2-b6
-c1=f/100*0.45+B.e.C(-b3,0,12)/12*0.2+B.c.C(j,0,40)/40*0.15+a1.aL()*0.2
+c1=g/100*0.45+B.e.C(-b3,0,12)/12*0.2+B.c.C(j,0,40)/40*0.15+a0.aL()*0.2
 if(c1>=0.75)c2=B.ig
 else c2=c1>=0.65?B.ie:null
-if(c2!=null){e=c5.ch
-e=e==null||c2.a>e.a}else e=!1
-if(e){c5.ch=c2
-c5.CW=c8}c3=B.c.C(0.02+((f+s.dx+l)/3+B.c.C(c4.c,0,100)/100*10-(q.cx+B.c.C(r.h(0,c5.z).c,0,100)/100*10)- -12)*0.0025,0,0.12)
+if(c2!=null){f=c5.ch
+f=f==null||c2.a>f.a}else f=!1
+if(f){c5.ch=c2
+c5.CW=c8}c3=B.c.C(0.02+((g+s.dx+l)/3+B.c.C(c4.c,0,100)/100*10-(q.cx+B.c.C(r.h(0,c5.z).c,0,100)/100*10)- -12)*0.0025,0,0.12)
 A.b2t(j)
-if(a1.aL()<c3){c.push("Moment "+c5.V+": "+("FUMBLE forced by "+c8))
+if(a0.aL()<c3){d.push("Moment "+c5.V+": "+("FUMBLE forced by "+c8))
 c5.rx.push(new A.ef(c8,B.oQ,c5.V))
 return B.Oz}c5.rx.push(new A.ef(c8,B.oR,c5.V))
 return new A.Hx(B.c.C(j,0,40),b3)},
@@ -60508,7 +60508,7 @@ $S:10}
 A.BF.prototype={
 D(){return"BlockLeverage."+this.b}}
 A.aOm.prototype={
-$1(a){return(a.x+a.d+a.c+a.w)/4},
+$1(a){return 72+((a.x+a.d+a.c+a.w)/4-72)*0.25},
 $S:2}
 A.aOn.prototype={
 $1(a){return a*0.64},
@@ -60586,7 +60586,7 @@ $1(a){return a!==this.a},
 $S:8}
 A.aJZ.prototype={
 $1(a){var s=this.a.c.h(0,a).b
-return(s.d+s.c+s.x+s.e)/4},
+return 72+((s.d+s.c+s.x+s.e)/4-72)*0.25},
 $S:130}
 A.aK_.prototype={
 $1(a){return a*0.64},
@@ -65008,7 +65008,7 @@ s=t.p
 h=A.ex(A.mo(new A.eU(B.pU,A.aN(A.a([n,m,B.bV,l,B.abU,k,B.abS,A.ct(B.bm,A.aG(A.a([j,B.ce,A.aA(A.aYU(i,B.B,A.aRp(r,B.vM,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,A.V(r,r,B.be,r,r,r,r,r,q,r,r,20,r,r,r,r,r,!0,r,0.5,r,r,r,r,r,r),"optional -- blank draws one",r,r,r,r,r,!0,r,r,r,!0,!0,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r),p.ga43(),h),1)],s),B.o,B.p,B.l),B.RH,r,r),B.cL,A.S("The same seed and the same calls replay the same run.",r,r,r,A.V(r,r,B.be,r,r,r,r,r,q,r,r,16,r,r,r,r,r,!0,r,0.5,r,r,r,r,r,r),B.bW,r)],s),B.L,B.aq),r),B.k1),r,r)
 p=A.e5(B.ak,2)
 i=A.fy(4)
-return A.uy(new A.kb(A.qe(!0,A.lc(B.f6,A.a([h,A.aRP(12,A.cT(r,A.S("alpha 0.1".toUpperCase()+" \xb7 BUILD 56",r,r,r,A.V(r,r,B.ak,r,r,r,r,r,q,r,r,18,r,r,r,r,r,!0,r,0.5,r,r,r,r,r,r),r,r),B.u,r,r,new A.cb(B.hR,r,p,i,r,r,B.a0),r,r,r,B.S2,r,r,r),r,r,r,16,r,r)],s),B.aj,B.ej),!0),r))}}
+return A.uy(new A.kb(A.qe(!0,A.lc(B.f6,A.a([h,A.aRP(12,A.cT(r,A.S("alpha 0.1".toUpperCase()+" \xb7 BUILD 57",r,r,r,A.V(r,r,B.ak,r,r,r,r,r,q,r,r,18,r,r,r,r,r,!0,r,0.5,r,r,r,r,r,r),r,r),B.u,r,r,new A.cb(B.hR,r,p,i,r,r,B.a0),r,r,r,B.S2,r,r,r),r,r,r,16,r,r)],s),B.aj,B.ej),!0),r))}}
 A.aGC.prototype={
 $1(a){return A.dg(!0,null,"PLAY",new A.aGB(this.a),B.aG,!1,44,B.dz,null)},
 $S:422}

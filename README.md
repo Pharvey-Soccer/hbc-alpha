@@ -3,4 +3,4 @@
 Play it at https://pharvey-soccer.github.io/hbc-alpha/ (Chrome on a laptop or desktop is best).
 
 This repository holds only the built game, published by
-`tool/deploy_alpha.sh`. Build 64, from 7307e95.
+`tool/deploy_alpha.sh`. Build 65, from 405099e.
